@@ -1,3 +1,3 @@
 import colleges from "./data/colleges.json" assert { type: "json" };
-;
-export { colleges };
+import organizations from "./data/organizations.json" assert { type: "json" };
+export { colleges, organizations };

@@ -1,2 +1,3 @@
 import colleges from "./data/colleges.json";
-export { colleges };
+import organizations from "./data/organizations.json";
+export { colleges, organizations };
