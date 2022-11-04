@@ -1,0 +1,17 @@
+{
+  "name": "drexel-api",
+  "version": "1.0.0",
+  "description": "Public API for all things Drexel.",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicholasIapalucci/drexel-api.git"
+  },
+  "author": "Nicholas Iapalucci",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicholasIapalucci/drexel-api/issues"
+  },
+  "homepage": "https://github.com/NicholasIapalucci/drexel-api#readme"
+}
