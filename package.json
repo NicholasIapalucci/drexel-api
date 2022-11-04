@@ -3,7 +3,7 @@
   "type": "module",
   "version": "1.0.0",
   "description": "Public API for all things Drexel.",
-  "main": "src/index.js",
+  "main": "out/index.js",
   "scripts": {},
   "repository": {
     "type": "git",
