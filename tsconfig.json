@@ -1,0 +1,17 @@
+{
+    "include": ["src"],
+    "compilerOptions": {
+        "strict": true,
+        "declaration": true,
+        "allowSyntheticDefaultImports": true,
+        "experimentalDecorators": true,
+        "target": "ESNext",
+        "module": "ESNext",
+        "forceConsistentCasingInFileNames": true,
+        "resolveJsonModule": true,
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+        "rootDir": "src",
+        "outDir": "out"
+    }
+}

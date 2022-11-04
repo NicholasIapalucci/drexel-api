@@ -8,8 +8,6 @@ ug_json = {}
 def html(url):
     return BeautifulSoup(urlopen(url).read(), features = "html.parser")
 
-# "PHYS 182 [Min Grade: C-] and (MATH 102 [Min Grade: C-] or MATH 183 [Min Grade: C-])"
-# "PHYS-182 [Min Grade: C-] and (MATH-102 [Min Grade: C-] or MATH-183 [Min Grade: C-])"
 def parse_prereqs(prereq_string):
     prereq_string = regex.sub(r"([A-Z])\s(\d+)", r"\1-\2", prereq_string)
 
@@ -51,7 +49,9 @@ def parse_prereqs(prereq_string):
         while next_is("and"):
             next("and")
             expr = parse_expr()
-            if type(expr) is list: left = [left, *expr]
+            if type(expr) is list and type(left) is list: left = [*left, *expr]
+            elif type(expr) is list: left = [left, *expr]
+            elif type(left) is list: left = [*left, expr]
             else: left = [left, expr]
         while next_is("or"):
             next("or")
@@ -86,6 +86,7 @@ def parse_prereqs(prereq_string):
     while(tokens_to_parse):
         prerequisites.append(parse_expr())
 
+    if len(prerequisites) == 1 and type(prerequisites[0]) is list: return prerequisites[0]
     return prerequisites
 
 i = 0
@@ -99,22 +100,31 @@ for element in ugSoup.find_all("a"):
         print("Getting stats for " + major_name)
 
         for course_block in major_soup.find_all("div", class_="courseblock"):
+            
+            # Proper name + Code name
             title = course_block.find_all("span", class_="cdspacing")
-            code = regex.sub(r"[^\w]", "-", title[0].decode_contents()[:-2])
-            name = title[1].decode_contents().replace("&amp;", "&")
-            credits = title[2].previous_sibling.strip()
-            if "-" in credits:
-                credits = credits[credits.index("-") + 1:].strip()
 
+            # Code name
+            code = regex.sub(r"[^\w]", "-", title[0].decode_contents()[:-2])
+
+            # Proper name
+            name = title[1].decode_contents().replace("&amp;", "&")
+
+            # Credits
+            credits = title[2].previous_sibling.strip()
+            if "-" in credits: credits = credits[credits.index("-") + 1:].strip()
+
+            # Prequisites
             prereqs = course_block.find_all("b")[-1]
             prereq_list = []
-            if prereqs and not "credit" in prereqs.next_sibling:
-                prereq_list = parse_prereqs(prereqs.next_sibling.strip())
+            if prereqs and not "credit" in prereqs.next_sibling: prereq_list = parse_prereqs(prereqs.next_sibling.strip())
 
+            # College 
             college = course_block.find("b").next_sibling.strip()
+
             if not ug_json.get(college): ug_json[college] = {}
-            
             if not ug_json[college].get(major_name): ug_json[college][major_name] = {}
+
             ug_json[college][major_name][code] = {
                 "course name": name,
                 "credits": credits,

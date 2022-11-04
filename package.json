@@ -1,5 +1,6 @@
 {
   "name": "drexel-api",
+  "type": "module",
   "version": "1.0.0",
   "description": "Public API for all things Drexel.",
   "main": "src/index.js",
