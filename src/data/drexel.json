@@ -56555,5 +56555,1459 @@
                 }
             ]
         }
+    ],
+    "studentOrganizations": [
+        {
+            "name": "8 to the Bar",
+            "description": "8 to the Bar is Drexel University's premiere all-male a cappella group! We perform original arrangements of contemporary music using only the human voice as our instrument. You'll see us performing at concerts on campus and all over Philadelphia!"
+        },
+        {
+            "name": "Active Minds at Drexel University",
+            "description": "We are a peer-to-peer mental health advocacy and awareness group focused on changing the conversation and breaking the stigma around mental health. We educate students about mental health issues, how to support themselves, and how to support their peers."
+        },
+        {
+            "name": "Aero SAE",
+            "description": "An organization dedicated to integrating Drexel University students of all disciplines with curiosity, enthusiasm and motivation to explore aeronautics."
+        },
+        {
+            "name": "Alpha Chi Rho",
+            "description": "Alpha Chi Rho is an IFC fraternity. Located on Greek Row, our chapter house is a meeting place for our 35 brothers. As a chapter, we pride ourselves on our active role in the surrounding community, vibrant social life, and strong sense of brotherhood."
+        },
+        {
+            "name": "Alpha Epsilon Pi- Delta Rho",
+            "description": "Alpha Epsilon Pi, the Jewish Fraternity, was founded to provide opportunities for a Jewish man seeking the best possible college and fraternity experience. We have maintained the integrity of our purpose by strengthening our ties to the Jewish community."
+        },
+        {
+            "name": "Alpha Kappa Alpha Sorority, Inc., Gamma Epsilon Philadelphia City Chapter",
+            "description": "Alpha Kappa Alpha Sorority, Inc. was founded on the principles of sisterhood, scholarship, and service. These core principles are what we based all of our service programming on."
+        },
+        {
+            "name": "Alpha Omega Epsilon",
+            "description": "A professional and social sorority that supports engineers and technical scientists. Our mission is promote friendship, leadership, and professionalism to all members of the organization, the community, and our professions."
+        },
+        {
+            "name": "Alpha Phi Alpha Fraternity, Inc.",
+            "description": "Alpha Phi Alpha Fraternity, Inc. develops leaders, promotes brotherhood and academic excellence, while providing service and advocacy for our communities."
+        },
+        {
+            "name": "Alpha Phi Omega",
+            "description": "Welcome to Alpha Phi Omega! If you wish to become a member, join our Groupme: https://groupme.com/join_group/88224415/A3LIavrn"
+        },
+        {
+            "name": "Alpha Pi Lambda",
+            "description": "Local fraternity at Drexel University since 1935."
+        },
+        {
+            "name": "Alpha Sigma Alpha, Nu Nu Chapter",
+            "description": "Alpha Sigma Alpha is a women's organization that exists to promote high ideals and standards for its members throughout their lives by emphasizing balance among the four aims of intellectual, physical, social and spiritual development."
+        },
+        {
+            "name": "American Chemical Society Drexel Student Affiliates",
+            "description": "Drexel ACS provides a community based in chemistry which offers educational, creative, social, and professional resources and activities."
+        },
+        {
+            "name": "American Institute of Aeronautics and Astronautics",
+            "description": "The American Institute of Aeronautics and Astronautics student section at Drexel University is a student organization that is dedicated to the continuing education of its members in the field of aerospace science and engineering."
+        },
+        {
+            "name": "American Institute of Architecture Students",
+            "description": "AIAS is a national, non-profit and completely student led organization, that focuses on the culture of architectural education and practice. The Drexel Chapter focuses on advancing leadership, design, and service among architecture students."
+        },
+        {
+            "name": "American Institute of Chemical Engineers",
+            "description": "The American Institute of Chemical Engineers is a globally recognized organization for the chemical engineering profession. For over 100 years AIChE has been working to distinguish and define chemical engineering as a profession."
+        },
+        {
+            "name": "American Marketing Association Drexel",
+            "description": "The American Marketing Association Drexel aims to further students knowledge of all applications of marketing, while also providing the extracurricular opportunities needed to make students competitive in todays job market."
+        },
+        {
+            "name": "American Medical Women's Association at Drexel",
+            "description": "AMWA at Drexel cultivates a sense of community and support among students interested in medical and healthcare professions. AMWA is dedicated to advancing women in medicine and improving women's health by empowering women to lead."
+        },
+        {
+            "name": "American Society for Engineering Management - Drexel Student Chapter",
+            "description": "Drexel ASEM is an organization for all to learn more about engineering management as well as participate in mentorship, professional development, and personal growth events while learning more about the field."
+        },
+        {
+            "name": "American Society of Civil Engineers - Drexel University Student Chapter",
+            "description": "We are organization that fosters professional development, academic excellence, and leadership in the civil engineering field, bridging gaps between students and professionals by serving as a connection to City, Regional, and National sections of ASCE."
+        },
+        {
+            "name": "Anime and Gaming Organization",
+            "description": "Social organization for anime fans, cosplayers, board game lovers, ttrpg players, video gamers, and everyone who likes to have fun."
+        },
+        {
+            "name": "Ascend Drexel Student Chapter",
+            "description": "Since 2005, Ascend has been growing its presence throughout the US - with more than 30 student and 17 professional chapters in and around major business hubs. Our growing number of Professional Chapters, with over 60,000 members from 200 companies."
+        },
+        {
+            "name": "Asian Students Association",
+            "description": "The full-time undergraduate student body of Drexel, through the ratification of this constitution, created ASA to promote the general interests of the AAPI community and unite all cultural backgrounds."
+        },
+        {
+            "name": "Association for Diversity, Equity, and Inclusion in Science",
+            "description": "We are an undergraduate organization whose purpose is to promote diversity, equity, and inclusion among students in the field of science. In doing so, we aim to apply these principles within the Drexel community and beyond."
+        },
+        {
+            "name": "Association of Latino Professionals For America",
+            "description": "ALPFA Drexel empowers minority students by helping them by connecting them with the resources of the ALPFA National, building relationships with companies, and creating new opportunities for them."
+        },
+        {
+            "name": "Audio Engineering Society at Drexel",
+            "description": "The Audio Engineering Society at Drexel is an organization dedicated to the exploration of audio and all of its concurrent topics, including but not limited to; audio technology, live performance, and production."
+        },
+        {
+            "name": "Beta Beta Beta Biological Honor Society",
+            "description": "TriBeta is a biological honor society that promotes the advancement of scientific research and cultivates an appreciation for biological knowledge, with a focus on creating a community amongst its members and the faculty."
+        },
+        {
+            "name": "Beta Chi Theta Fraternity, Inc.",
+            "description": "The purpose of Beta Chi Theta, Inc. shall be to assemble college students in a fellowship of the founding principles of this fraternity, the most important being brotherhood.\""
+        },
+        {
+            "name": "Beta Theta Pi",
+            "description": "Founded in 1839, Beta Theta Pi's motto is to develop Men of Principle for a Principled Life. Beta puts a stress on Academics, Leadership and Brotherhood."
+        },
+        {
+            "name": "Biddle Law Society",
+            "description": "Biddle Law Society seeks to unite Drexel University students who share an interest in Law, by providing opportunities for further education in the area."
+        },
+        {
+            "name": "Biodiversity Buddies",
+            "description": "Biodiversity Buddies is a student organization that educates on conservation to help preserve biodiversity and wildlife while also focusing on professional development, service and research."
+        },
+        {
+            "name": "Biology Graduate Student Association",
+            "description": "The BGSA is an organization dedicated to building a strong social and academic community through the unification of graduate students from the Department of Biology and the Department of Biodiversity, Earth, and Environmental Science."
+        },
+        {
+            "name": "Biomedical Science Graduate Student Association",
+            "description": "Biomedical Science Graduate Student Association"
+        },
+        {
+            "name": "Broad Street Baadshahz",
+            "description": "The Broad Street Baadshaz are a fusion dance team at Drexel University who perform to bhangra, hip-hop, modern, bollywood, and more. This team has the passion and pride to go above and beyond their limits in order to entertain the public."
+        },
+        {
+            "name": "Campus Activities Board",
+            "description": "The Campus Activities Board (CAB) is the largest student-run event programming organization at Drexel University. Our purpose is to plan and execute a variety of events reflective of the diverse interests and needs of the undergraduate student body."
+        },
+        {
+            "name": "Campus Engagement",
+            "description": "Campus Engagement empowers students to flourish with meaningful co-curricular experiences that develop self-awareness, interpersonal skills, and citizenship, connecting with academic, co-op, and professional experiences."
+        },
+        {
+            "name": "Caneris Hall",
+            "description": "Caneris Hall DragonLink page"
+        },
+        {
+            "name": "Center for Black Culture",
+            "description": "The Center for Black Culture (CBC) at Drexel University serves as a hub of information, activity, and community for Black students, faculty, staff, and alumni."
+        },
+        {
+            "name": "Center for Inclusive Education and Scholarship",
+            "description": "Center for Inclusive Education and Scholarship"
+        },
+        {
+            "name": "Center for Learning and Academic Success Services",
+            "description": "CLASS provides academic support to Drexel University students, including academic skills workshops and peer and professional academic coaching."
+        },
+        {
+            "name": "Chabad Student Group",
+            "description": "Chabad Student Group (CSG) provides vibrant Judaism at Drexel University"
+        },
+        {
+            "name": "Chemical and Biological Engineering Graduate Student Association",
+            "description": "Providing academic, social, and professional development events/opportunities for Chemical Engineering graduate students and others graduate associations."
+        },
+        {
+            "name": "Chemistry Graduate Student Association",
+            "description": "The Chemistry Graduate Student Association works on the behalf of chemistry graduate students in order to encourage a constructive relationship between the students, faculty, staff and administration of the department of Chemistry at Drexel University."
+        },
+        {
+            "name": "Chinese Students and Scholars Association at Drexel University",
+            "description": "CSSAD established in March 2009, aiming to provide support to all Chinese students and scholars who are adjusting to the new environment as well as to the college life. CSSAD launches core values of selfless contribution, responsibility, and innovation."
+        },
+        {
+            "name": "Climate and Sustainability EcoReps",
+            "description": "Climate and Sustainabilitys new EcoReps Program is a group of student environmental leaders who are dedicated to increasing both opportunities for and student awareness of sustainability on campus."
+        },
+        {
+            "name": "Club Golf",
+            "description": "The focus of the Drexel Golf team is to promote the game of golf to those who would like to begin or continue to play the game at a competitive level. The team fills the gap between playing for Drexel's division one golf team and playing for fun."
+        },
+        {
+            "name": "Club Powerlifting",
+            "description": "Powerlifting is a strength sport where competitors try to move the heaviest total amount of weight in the squat, bench press, and deadlift. Our ultimate goal is to send club athletes to powerlifting collegiate nationals to represent Drexel University."
+        },
+        {
+            "name": "Club Swimming Team",
+            "description": "Welcome to the Drexel University Club Swimming Team! We practice together 2-3 times a week and compete against both local teams during the year and at Club Swimming National Championships each year. We welcome swimmers of all experience levels!"
+        },
+        {
+            "name": "Club Water Polo",
+            "description": "The Drexel Club Water Polo team competes in Collegiate Water Polo Association's Mid Atlantic Division in the Fall and in American Water Polo's Main Line League in the spring. Must be able to swim but no water polo experience is required."
+        },
+        {
+            "name": "Club Women's Ultimate",
+            "description": "Drexel Women's Ultimate Club aims to bring greater recognition to the sport and provide an organized environment where women can participate in and enjoy the sport. Our goal is to become more competitive while still maintaining the relaxed atmosphere."
+        },
+        {
+            "name": "College of Computing and Informatics Doctoral Student Association",
+            "description": "Organization dedicated to developing and maintaining a social and academic community among CCI PhD students."
+        },
+        {
+            "name": "College of Computing and Informatics Learning Community",
+            "description": "The College of Computing and Informatics Learning Community, housed in Myers Hall, is where students live with other students from the same academic program, making it easy to form study groups, organize academic activities and plan social gatherings."
+        },
+        {
+            "name": "College of Medicine",
+            "description": "The Office of Student Affairs provides guidance, support and administrative assistance to all MD program students."
+        },
+        {
+            "name": "Colleges Against Cancer - Drexel University Chapter",
+            "description": "CAC is a national organization that brings together collegians in the fight against cancer. Working closely with the American Cancer Society, CAC chapters host cancer awareness events year-round, notably Relay For Life."
+        },
+        {
+            "name": "Communication, Culture, and Media Association of Doctoral Students (CCMADS)",
+            "description": "CCMADS is a student organization for current Ph.D. students in the Department of Culture and Communication. The club will meets monthly to discuss upcoming events, member activity and departmental needs."
+        },
+        {
+            "name": "Community Student Association",
+            "description": "The Community Student Association (CSA) is designed to create programming that supports commuter and off-campus students."
+        },
+        {
+            "name": "Creative Arts Therapists of Color",
+            "description": "A space for those in the CAT programs to explore and better understand the complexities of our cultural identities in predominantly white spaces. We also hope to disseminate information to others to help shape more culturally responsive therapists."
+        },
+        {
+            "name": "Cru",
+            "description": "We're the local chapter of Cru, an international, interdenominational Christian missions organization passionate about connecting people to Christ."
+        },
+        {
+            "name": "DAC Pack",
+            "description": "Since its' inception in 2002, the DAC Pack- Drexel Athletics' student fan section- has become one of the largest, most visible, and most respected student organizations at Drexel University and throughout the Colonial Athletic Association."
+        },
+        {
+            "name": "Delta Epsilon Psi Fraternity, Inc.",
+            "description": "On October 1st, 1998, Delta Epsilon Psi was founded by those 18 individuals determined to mold their fraternity into a prominent organization not only in their campus, but also throughout the nation. Their ideals and principles would allow Delta Epsilon"
+        },
+        {
+            "name": "Delta Gamma Eta Upsilon",
+            "description": "Delta Gamma Fraternity is a Greek women's organization here to \"do good\". Delta Gamma fosters high ideals of friendship, promotes educational and cultural experiences, and creates a sense of social responsibility among the members of our sisterhood."
+        },
+        {
+            "name": "Delta Phi Epsilon",
+            "description": "Delta Phi Epsilon's motto is \"Esse Quam Videri,\" which means \"to be rather than to seem to be.\" Our values are Justice, Sisterhood, and Love. We are an organization of diverse individuals who are committed to thinking and acting for the greater good."
+        },
+        {
+            "name": "Delta Phi Omega Sorority, Incorporated",
+            "description": "With over 2,400 members nationwide, Delta Phi Omega is the largest, strongest, and fastest growing sorority of its kind. As a sorority focused on service, social and academic endeavors, Delta Phi Omega touches base with each aspect of campus importance."
+        },
+        {
+            "name": "Delta Sigma Phi Fraternity",
+            "description": "\"Better Men, Better Lives\""
+        },
+        {
+            "name": "Delta Sigma Pi",
+            "description": "Delta Sigma Pi is the nations leading co-ed professional business fraternity, with a commitment to equipping our members throughout their careers to make a greater impact in their business, civic, and personal lives."
+        },
+        {
+            "name": "Delta Sigma Theta Sorority, Inc.",
+            "description": "Delta Sigma Theta Sorority, Inc. is an organization of college educated women committed to the constructive development of its members and to public service with a primary focus on the Black community."
+        },
+        {
+            "name": "Delta Zeta",
+            "description": "We share a common purpose: to make life fuller, more meaningful, more rewarding. Within Delta Zeta, we call it enriching. To our members, it is the promise of friendship, personal development and opportunity. To the community we are valued citizens."
+        },
+        {
+            "name": "Depict",
+            "description": "Depict is for the artist (you). This club is for anyone of any skill level. It's about honing your skills as an artist and finding other people who share the same interest."
+        },
+        {
+            "name": "Doctors Without Borders / Medecins Sans Frontieres",
+            "description": "Doctors Without Borders / Medecins Sans Frontieres (MSF) is an international, independent, medical humanitarian organization that delivers emergency aid to people affected by armed conflict, epidemics, natural disasters and exclusion from healthcare."
+        },
+        {
+            "name": "Dornsife Center for Neighborhood Partnerships",
+            "description": "The Dornsife Center for Neighborhood Partnerships is located at 3509 Spring Garden St - north of main campus. It convenes programming for a diverse community by weaving together Drexels knowledge resources with the expertise of community-based partners."
+        },
+        {
+            "name": "Dornsife Undergraduate Student Government Organization (USGO)",
+            "description": "Dornsife USGO is committed to engaging the Drexel community in meaningful opportunities related to public health initiatives, including the determinants of health and health outcomes. USGO values community outreach, collaboration, and innovation."
+        },
+        {
+            "name": "Dragon Climbers",
+            "description": "Dragon Climbers is an organization aiming at providing Drexel students with the means necessary to experience the joy of rock climbing."
+        },
+        {
+            "name": "Dragon Concert Series",
+            "description": "A student organization dedicated to putting on great concerts and teaching our membership about concert planning and the music industry! Learn more at dragonconcerts.com"
+        },
+        {
+            "name": "Dragon Jedi",
+            "description": "Dragon Jedi is a group of performing artists who use light saber choreography, character development, costuming, and stage combat to prepare our members for public performances and charity events as our way of giving back to the community."
+        },
+        {
+            "name": "Dragon's First",
+            "description": "A student organization that supports first-generation college students and students from a low-Income background at Drexel University through mentorship, networking, workshops, and social events."
+        },
+        {
+            "name": "Dragons After Dark",
+            "description": "Dragons After Dark (DAD) is an effort funded by SAFAC to provide exciting evening programs and activities on Drexel Universitys campus throughout the term."
+        },
+        {
+            "name": "Dragons for Donation",
+            "description": "Dragons for Donation works to advocate for organ and tissue donation through registration events, public education and community service. Reach out to dragonsfordonation@gmail.com to learn more about our events and our cause!"
+        },
+        {
+            "name": "Dragons for UNICEF",
+            "description": "UNICEF Clubs partner with UNICEF USA to activate their local community by advocating, fundraising, and speaking out for UNICEF's child survival work in over 190 countries."
+        },
+        {
+            "name": "Dragons Run",
+            "description": "Dragons Run is Drexel's distance running club, welcoming runners of all skill levels. We meet for weekly group runs and social events. Runs are open to all with no signup required; just come wearing your running shoes!"
+        },
+        {
+            "name": "Dragons Worldwide",
+            "description": "Dragons World Wide"
+        },
+        {
+            "name": "DragonsTeach Student Organization: Students Teaching Engaged Minds",
+            "description": "Students will be provided opportunities to learn valuable skills that they will carry in and out of the classroom, as well as receive advice from fellow peers and professors on how they plan to spread the importance of STEM and STEAM Education."
+        },
+        {
+            "name": "DrExcel Health Undergraduate Association",
+            "description": "DrExcel Health provides a platform to facilitate interdisciplinary collaboration between students to tackle unmet medical and humanitarian needs and provide an opportunity for professional development in the life sciences career path."
+        },
+        {
+            "name": "Drexel African Students Association",
+            "description": "The Drexel African Students Association exists as a platform to share knowledge about Africa by creating a visible and vocal African presence at Drexel. We also aim to ensure a smooth integration of our members into the American sphere."
+        },
+        {
+            "name": "Drexel Algorithms and Data Structures",
+            "description": "The Drexel Algorithms and Data Structures student organization is a group of students interested in developing their programming skills and honing their algorithmic intuition through regular member-driven training, simulations, and coding competitions."
+        },
+        {
+            "name": "Drexel American Red Cross",
+            "description": "Drexel American Red Cross gives students the platform to interact with the community through blood donation efforts, disaster awareness, and other community service events in collaboration with the American Red Cross Southeastern Pennsylvania Chapter."
+        },
+        {
+            "name": "Drexel American Society of Mechanical Engineers",
+            "description": "ASME is an academic organization focused on engineering development through technical workshops and professional events. We host events ranging from 3D printing workshops to professional socials that bring together students from diverse backgrounds."
+        },
+        {
+            "name": "Drexel Animation Group",
+            "description": "The Drexel Animation Group focuses on creating and studying animation outside of the 3D program currently offered at Drexel. This includes, but is not limited to, stop motion, 2D/traditional, and experimental animation."
+        },
+        {
+            "name": "Drexel Architectural Engineering Institute",
+            "description": "Drexel AEI is a collaborative group for those interested in any aspects of the engineered world we see on a daily basis. We also oversee the Drexel's Steel Bridge Team, which competes in the annual AISC Student Steel Bridge Competition (SSBC)."
+        },
+        {
+            "name": "Drexel Art Organization",
+            "description": "The Drexel Art Organization seeks to provide a creative forum for students interested in art and design. Since its founding in 2008, it has grown to include students outside of Westphal and has fostered a creative community."
+        },
+        {
+            "name": "Drexel Athletics",
+            "description": "#FearTheDragon"
+        },
+        {
+            "name": "Drexel Badminton Club",
+            "description": "The Drexel Badminton Club provides an environment for badminton enthusiasts to practice and play competitively and recreationally. Players can share their interests and technically learn about the sport. We welcome players of all levels!"
+        },
+        {
+            "name": "Drexel Bankers Association",
+            "description": "N/A"
+        },
+        {
+            "name": "Drexel Biomedical Engineering Undergraduate Association",
+            "description": "DBUA strives to encourage undergraduate participation in the BME community at Drexel and beyond by organizing academic, philanthropic, and social events. In this way, DBUA hopes to help undergraduate students clarify their BME interests and career goals."
+        },
+        {
+            "name": "Drexel Biomedical Graduate Association",
+            "description": "The purpose of the DBGA is to improve the general welfare of Drexel Graduate students and the School of Biomedical Engineering, Science and Health Systems."
+        },
+        {
+            "name": "Drexel Black Graduate Student Union",
+            "description": "The mission of DBGSU is to foster an environment of intellectual, political, cultural, and social growth for those who want to connect with Black graduate and professional degree-seeking students."
+        },
+        {
+            "name": "Drexel Blockchain",
+            "description": "Drexel Blockchain is composed of both undergraduate and graduate students from almost all the Schools at Drexel. We help create grants, scholarships, and opportunities for guest speakers to educate and aid students in the blockchain field."
+        },
+        {
+            "name": "Drexel Business of Fashion",
+            "description": "Drexel Business of Fashion is going to be a community of like-minded people where business meets fashion. This organization will be active on campus, providing students with opportunities to learn about fashion business and network."
+        },
+        {
+            "name": "Drexel Business Services",
+            "description": "To be updated"
+        },
+        {
+            "name": "Drexel Career Cornerstone Group",
+            "description": "Drexel Career Cornerstone Group is a graduate student organization focused on bridging the knowledge gap between students and early career stages through skill-based workshops, professional events, and engaging membership and leadership experiences."
+        },
+        {
+            "name": "Drexel CHAARG",
+            "description": "CHAARG is a health + fitness organization that liberates students from the elliptical + show them that fitness should be fun. We partner with local fitness studios, create our own FITplans, and empower our members to become the best version of themselves"
+        },
+        {
+            "name": "Drexel Chess Club",
+            "description": "Anyone in the Drexel community with an interest in playing chess is welcome, from beginner to master level. We function both at the club and the team level for playing in local, state and national tournaments."
+        },
+        {
+            "name": "Drexel CHI User Experience Club",
+            "description": "Drexel CHI User Experience Club is a campus chapter of ACM SIGCHI. We are dedicated to providing students with interest in user experience, computer-human interaction, and design a place to share ideas, collaborate and develop professionally."
+        },
+        {
+            "name": "Drexel Club Softball",
+            "description": "The Drexel University Womens Club Softball provides a way for female students at Drexel University to play fast pitch softball at a competitive level, and to provide a positive social environment for girls with similar interests to work together."
+        },
+        {
+            "name": "Drexel Club Squash",
+            "description": "This club intends to further promote the sport of squash at Drexel University by giving students the opportunity to further develop their abilities and participate in a competitive manner below a Varsity level."
+        },
+        {
+            "name": "Drexel Computational Design",
+            "description": "This organization, Drexel Computational Design (DCD), strives to combine engineering, medicine, research, &amp; other interdisciplinary fields to prototype \"outside-of-the-box\" solutions through computational design using skills gained from Drexel courses."
+        },
+        {
+            "name": "Drexel Consulting Group",
+            "description": "The Drexel Consulting Group serves the members of the Drexel community who share a common interest in learning about consulting. We will connect undergraduate students with resources to develop the skills, knowledge, and network to succeed in consulting."
+        },
+        {
+            "name": "Drexel Criminal Justice Honors Society",
+            "description": "The honor society is primarily geared towards assisting upperclassmen in obtaining employment post graduation through creating relationships with individuals and agencies in the criminal justice field."
+        },
+        {
+            "name": "Drexel Criminal Justice Society",
+            "description": "We will have a meeting once a week on Drexel campus to schedule, discuss, and participate in events that are in the criminal justice field. We will also have field trips and community events in Philadelphia."
+        },
+        {
+            "name": "Drexel CyberDragons",
+            "description": "This organization is for students interested in cybersecurity that want to learn more about the field and/or compete in collegiate competitions."
+        },
+        {
+            "name": "Drexel Dance Marathon",
+            "description": "The purpose of the Drexel Dance Marathon organization is to raise awareness and funds for the families of patients at CHOP through the Children's Miracle Network Program. This is a great opportunity for leadership and development."
+        },
+        {
+            "name": "Drexel Dandiya",
+            "description": "Drexel Dandiya strives to promote traditional South Asian Culture among the Drexel University community. We are a family of dancers with a soul full of passion for garba/raas and dedication to win."
+        },
+        {
+            "name": "Drexel Democrats",
+            "description": "The purpose of the Drexel Democrats is to organize and mobilize support on campus for various local, state, and national Democratic Party candidates for political office, and expose students to various issues/views, and best civic engagement practices."
+        },
+        {
+            "name": "Drexel Dhvani",
+            "description": "Dhvani is Drexel's only South Asian A Capella group! We perform original arrangements, and are excited to join the collegiate network for A Capella. We strive to share our passion for music and culture with others looking to explore this innovative style"
+        },
+        {
+            "name": "Drexel Dragon Claws",
+            "description": "Our mission, as an independent chapter of e-NABLE, is to design 3D-printed assistive prosthetic devices, enhancing the functionality and mobility of affected limbs for individuals with upper limb amputations or reductions, at no charge to our clients."
+        },
+        {
+            "name": "Drexel Economics Society",
+            "description": "The Drexel Economics Society seeks to broaden the understanding of economic fundamentals and encourages students to explore Economics as a career choice. DES also serves as the bridge connecting students to department faculty, hence promoting researches."
+        },
+        {
+            "name": "Drexel Electric Racing",
+            "description": "We are Drexel's electric racing team! Formula EV students design, build, and race high-performance electric vehicles in the style of Formula 1. Building on the Formula SAE program, Formula EV adds an extra level of complexity - electric power."
+        },
+        {
+            "name": "Drexel Esports Club Sports Team",
+            "description": "Drexel Esports Club Sports Team"
+        },
+        {
+            "name": "Drexel Fencing Club",
+            "description": "The Fencing Club is open to all students attending Drexel University community. Previous fencing experience is not required."
+        },
+        {
+            "name": "Drexel Finance and Investment Group",
+            "description": "Formed in 2012 by a merger between the Drexel Finance Association, the Drexel Investment Group, and the Drexel Banker's Association, DFIG is the premier finance and investment student organization of Drexel University's Lebow College of Business."
+        },
+        {
+            "name": "Drexel Football Team (Improv Comedy)",
+            "description": "The Drexel Football Comedy Improv Team - Disappointing Sports Fans Since 2005 Love comedy? Love the show \"Whose Line Is It Anyway?\" Say no more- instead come see The Drexel Football Comedy Improv Team! Long- and short-form improvised comedy at its best."
+        },
+        {
+            "name": "Drexel Game Developers Group",
+            "description": "The goals of the Drexel Game Developers are to: To encourage the academic and social development of The University's student body. To promote fields involved with game development, including Computer Science and Digital Media"
+        },
+        {
+            "name": "Drexel Gaming Association",
+            "description": "We are Drexel University's home for gaming. In addition to hosting quarterly LANs, we have frequent community events - everything from board games to tournaments!"
+        },
+        {
+            "name": "Drexel Graduate Women in Science and Engineering",
+            "description": "Drexel Graduate Women in Science and Engineering is focused on expanding and enhancing the experiences of all the women and non-binary graduates in Science and Engineering by organizing events that will contribute to their professional development."
+        },
+        {
+            "name": "Drexel Hospitality Society",
+            "description": "Drexel Hospitality Society (DHS) exists to promote the enrichment and success of students interested in Hospitality Management and Culinary Arts/Science fields through learning, experiential, and networking programs"
+        },
+        {
+            "name": "Drexel Indigenous Students of the Americas",
+            "description": "We aim to bring social awareness of indigenous students to Drexel University. This organization will unite students who identify as indigenous to either North and/or South America and spread awareness of their culture."
+        },
+        {
+            "name": "Drexel Institute of Electrical &amp; Electronics Engineers",
+            "description": "The Institute of Electrical and Electronics Engineers (IEEE) is the world's largest technical professional society. IEEE's core purpose is to foster technological innovation and excellence for the benefit of humanity. We are the Drexel student branch."
+        },
+        {
+            "name": "Drexel Interiors Group",
+            "description": "This organization serves as a resource for Interior Design students to ensure a steady transition into the professional design field."
+        },
+        {
+            "name": "Drexel International Business Student Association",
+            "description": "Our organization aims to create a community of culturally diverse members by arranging various speaker events and focusing on career-oriented programming. Members will increase their global awareness and grow professionally."
+        },
+        {
+            "name": "Drexel Jhalak",
+            "description": "Drexel Jhalak is an all-girls, competitively successful fusion dance team on campus. We express pride and joy in our backgrounds by practicing various South Asian and Western dance styles, from Bollywood to hip-hop."
+        },
+        {
+            "name": "Drexel K-Pop Club",
+            "description": "DKPC aims to develop students' interests in Korean music and culture by providing diverse resources to learn the dance, the culture, and the language, as well as to interact with people who share a common interest."
+        },
+        {
+            "name": "Drexel Karate Club",
+            "description": "We offer traditional Shotokan Karate training to all Drexel students, faculty, staff, and alumni. New members do not need any karate experience to join. We train every Monday, Wednesday, and Friday night from 6-8 pm all year round."
+        },
+        {
+            "name": "Drexel Latinx Medical Student Association Pre-Medical Latino Undergraduate Society",
+            "description": "The purpose of DLMSA+ is to address the health needs of the Latino community, as well as to promote the interests and support of those undergraduate premedical students who identify themselves as Latino students of Drexel University."
+        },
+        {
+            "name": "Drexel LDSSA",
+            "description": "Drexel LDS is Drexel's organization for those who are interested, or a part of the Church of Jesus Christ of Latter Day Saints. We will provide an inclusive space for all who want to come and learn about the LDS faith."
+        },
+        {
+            "name": "Drexel Men's Club Basketball",
+            "description": "The Basketball Club competes in the NCBBA from November 1st - April 25th. We play hard, have fun, and form friendships"
+        },
+        {
+            "name": "Drexel Men's Club Volleyball",
+            "description": "This club is aimed to create a constructive and friendly environment where students can compete and learn volleyball at a competitive level. The team will represent Drexel University in collegiate level volleyball leagues and events."
+        },
+        {
+            "name": "Drexel Men's Ice Hockey",
+            "description": "Drexel Ice Hockey is a student-run organization showcasing the best talent the university has to offer in the game of Ice Hockey. One of the premier sports teams in Philadelphia, Drexel Ice Hockey has won 7 ECHA Championships, as well as 1 DVCHC title."
+        },
+        {
+            "name": "Drexel Motion Capture",
+            "description": "To further the knowledge of motion capture technology through self guided and group oriented projects. We will engage our peers and provide an opportunity for discussions on special topics that utilize Drexels many resources in our fields of study."
+        },
+        {
+            "name": "Drexel Muslim Students Association",
+            "description": "Muslim students are an integral part of the student body at Drexel University. DMSA aims to support them by being a force of community and Islamic education on campus. Aiming to make Drexel an enjoyable and tighter-knit environment for all students."
+        },
+        {
+            "name": "Drexel Newman Catholic Community",
+            "description": "\"Heart speaks to heart.\" The Drexel Newman Catholic Community is the presence of the Catholic Church at Drexel. We strive to live out the spirit of the Gospel in our daily lives. We have spiritual, service and social opportunities to foster faith growth."
+        },
+        {
+            "name": "Drexel Night Live",
+            "description": "Saturday Night Live style sketch comedy show entirely written, produced, and performed by students."
+        },
+        {
+            "name": "Drexel Nutrition Association",
+            "description": "DNA is the undergraduate student nutrition organization! We are involved in promoting nutrition awareness, healthy eating, and overall wellness on campus and in the community. Additionally, we explore the many areas of nutrition topics and trends."
+        },
+        {
+            "name": "Drexel Peer Health Educators",
+            "description": "The Peer Health Educators at Drexel University Dornsife School of Public Health work to educate peers about population health, social justice and community involvement as it relates to maternal, child and reproductive health."
+        },
+        {
+            "name": "Drexel Players",
+            "description": "The Drexel Players are a student theatre organization that works to produce student written work, engage the student body through seeing shows &amp; taking part in performances, and broaden students' knowledge &amp; involvement in the Philadelphia theatre."
+        },
+        {
+            "name": "Drexel Pre-Dental Health Society",
+            "description": "Our mission is to assist all pre-dental students in their endeavors related to successful admittance to a prestigious dental school through informative meetings, peer and faculty support, guest speakers, dental school connections, and community service."
+        },
+        {
+            "name": "Drexel Pre-PA Club",
+            "description": "This club exists to make members the best applicants possible for Physician Assistant school. In order to achieve this, we provide members with opportunities such as networking in the medical community, gaining awareness of current issues in healthcare."
+        },
+        {
+            "name": "Drexel Pre-PT Club",
+            "description": "This club is designed for undergraduate Drexel students interested in the field of physical therapy. We are working to: Create networks in the PT community and learn about what is currently happening in the field of physical therapy &amp; healthcare."
+        },
+        {
+            "name": "Drexel Quidditch Club",
+            "description": "Drexel Quidditch provides students with an opportunity for exercise and positive social interaction. In addition, this organization will support any and all members of the team as they compete amongst the DUQC team and against other teams."
+        },
+        {
+            "name": "Drexel Sailing Club",
+            "description": "The Drexel University Sailing Team compete in the Middle Atlantic Intercollegiate Sailing Association. The team has a competitive focus and competes in regattas every weekend during the fall and spring seasons. The team practice 2 times per week."
+        },
+        {
+            "name": "Drexel Sierra Club",
+            "description": "Drexel Sierra Club seeks to protect and appreciate the environment by working to reduce Drexel's environmental impact and taking hikes, going camping, and other outdoor trips."
+        },
+        {
+            "name": "Drexel SIGGRAPH",
+            "description": "Organization focused on Digital Media and computer graphics. We have student-run lectures on special topics within Digital Media, screenings of animated and effects-heavy movies, and are committed to a strong presence at the annual SIGGRAPH conference."
+        },
+        {
+            "name": "Drexel Smart House",
+            "description": "Founded in 2006, Drexel Smart House is a faculty-supported, multidisciplinary organization that promotes innovations in Philadelphia through student-led Design, Research, and Entrepreneurship."
+        },
+        {
+            "name": "Drexel Socialists",
+            "description": "Drexel Socialists: serve the people, fight the power"
+        },
+        {
+            "name": "Drexel Society of Artificial Intelligence",
+            "description": "Drexel AI aims to promote the field of Artificial Intelligence (AI) and Machine Learning (ML), increase awareness, help students get familiar with the state-of-art technological applications of AI, and ML. More info: bitly.com/drexel-ai"
+        },
+        {
+            "name": "Drexel Society of Manufacturing Engineers",
+            "description": "The purpose of this organization shall be to help manufacturers innovate, grow, and prosper by promoting manufacturing technology, developing a skilled workforce, and connecting the manufacturing industry."
+        },
+        {
+            "name": "Drexel Speaks",
+            "description": "We are a club that helps members improve their communication, public speaking, and leadership skills."
+        },
+        {
+            "name": "Drexel Sport Business Association",
+            "description": "The Drexel Sport Business Association (DSBA) is an organization that strives to help its member students build their network within the sports industry through different professional development opportunities."
+        },
+        {
+            "name": "Drexel Step Team",
+            "description": "Drexel Step focuses on cultural expression amongst students of color and anyone who has a passion for dance. With the use of rhythm through stomping, clapping, and words, Drexel Step is the team to join if you're looking for a way to boost school spirit."
+        },
+        {
+            "name": "Drexel Student Centers",
+            "description": "Drexel Student Centers manages the daily operations of the Creese Student Center and Ross Commons, creating and managing work order flow and building projects for 135,000 square feet of space."
+        },
+        {
+            "name": "Drexel Students for Christ",
+            "description": "Drexel Students for Christ seeks to build a community of Christians on Drexel's campus, and helps students find churches nearby. Join us!"
+        },
+        {
+            "name": "Drexel Students Promoting Art through Random acts of Kindness",
+            "description": "Drexel SPARK is a mix of crafts and community. SPARK promotes the arts by holding crafting workshops, which are open to anyone interested. SPARK allows students of different majors to come together and de-stress with a weekly event."
+        },
+        {
+            "name": "Drexel Table Tennis Club",
+            "description": "The Drexel Table Tennis Club is designed to create a relaxed, yet competitive, environment that attracts players of all skill levels. The club will host weekly meetings and frequent tournaments for members to hangout, socialize, improve, and compete."
+        },
+        {
+            "name": "Drexel Ultimate",
+            "description": "Our purpose is to offer a competitive and fun experience to all students interested in playing ultimate."
+        },
+        {
+            "name": "Drexel Undergraduate Mock Trial Association",
+            "description": "Drexel's Mock Trial Association provides students with the opportunity to gain courtroom and litigation experience on the national level, strengthening critical skills ranging from public speaking to complex analysis to organization to storytelling"
+        },
+        {
+            "name": "Drexel University Black Student Union",
+            "description": "DUBSU is a cultural organization that aims to promote unity, cultural competence, and campus involvement amongst the students, faculty, and staff of the African Diaspora within the university."
+        },
+        {
+            "name": "Drexel University Book Club",
+            "description": "DUBC members gather once a month to discuss an agreed-upon book over coffee and snacks. Avid readers, new readers, and anyone in between are welcome!"
+        },
+        {
+            "name": "Drexel University Chapter of the Society of Physics Students",
+            "description": "Our goals are the advancement and diffusion of the academic knowledge of physics; the encouragement of interest in physics throughout the local community; the introduction of students to professional societies; fellowship, and collaboration."
+        },
+        {
+            "name": "Drexel University Circle K",
+            "description": "Circle K is Drexel's leading community service organization, and is a recognized chapter of Circle K International, the largest student-led service organization in the world!"
+        },
+        {
+            "name": "Drexel University Club Cricket",
+            "description": "Drexel University Club Cricket is one of the top-ranked clubs in the country. It is established to promote the Sport of Cricket at Drexel University through dedicated practices and intercollegiate competitions fueled by Drexel funding. Go Dragons!"
+        },
+        {
+            "name": "Drexel University Club Field Hockey Team",
+            "description": "The purpose of this co-ed club is to provide a team for Drexel students to play field hockey. The objective of the club is to promote a safe and fun atmosphere for playing, and to win games in the National Field Hockey League (NFHL) in the Fall &amp; Spring."
+        },
+        {
+            "name": "Drexel University Club Ski and Snowboard Competitive Team",
+            "description": "The Drexel University Club Ski and Snowboard Competitive Team competes against regional schools in various events, such as ski racing and free style competitions."
+        },
+        {
+            "name": "Drexel University Club Sports",
+            "description": "Drexel University's Club Sports are student organizations created by the students and may be competitive, recreational, and/or instructional in nature."
+        },
+        {
+            "name": "Drexel University Club Tennis",
+            "description": "Drexel Club Tennis is a competitive traveling tennis team. We participate in the USTA Tennis on Campus program."
+        },
+        {
+            "name": "Drexel University Coffee Club",
+            "description": "DUCC encourages Drexel students to taste and learn more about Philadelphia's cultural coffee scene, explore life outside of campus, and form new friendships over a warm cup of coffee."
+        },
+        {
+            "name": "Drexel University College Republicans",
+            "description": "The Drexel University College Republicans work to promote and practice conservative philosophy. DUCR provides opportunities for student to discuss current events, debate ideas, and get involved with campaigning at the local and state level."
+        },
+        {
+            "name": "Drexel University Construction Association",
+            "description": "The DUCA is dedicated to promoting and facilitating the professional development of Drexel University students concentrating in studies including Construction Management, Real Estate, Engineering and Architecture by means of conducting ."
+        },
+        {
+            "name": "Drexel University Counseling Center",
+            "description": "Anonymous confidential, FREE, peer to peer support for students managing day to day stressors of college/Drexel life."
+        },
+        {
+            "name": "Drexel University Cycling Club",
+            "description": "Drexel cycling is a competitive, as well as recreational bike team. We encourage students and alumni of all skill levels to join us on daily rides and workouts as we promote safe and enjoyable bike riding for all."
+        },
+        {
+            "name": "Drexel University Debate Union",
+            "description": "An organization for all the debaters out there-offering American and British Parliamentary style of debating to encourage argumentation, create awareness about global, domestic and specialized issues and build teamwork skills."
+        },
+        {
+            "name": "Drexel University Emergency Medical Services",
+            "description": "Drexel EMS is a student organization which provides emergency medical care to Drexel University and the immediate community."
+        },
+        {
+            "name": "Drexel University Equestrian Team",
+            "description": "DUET strives to allow for time in the saddle, despite Drexel's fast-paced urban environment; to grow not only as equestrians and individuals, but to take the values learned in the riding ring, and use them to become better students, people, and"
+        },
+        {
+            "name": "Drexel University Extended Reality Club",
+            "description": "The Drexel University Extended Reality Club is an organization centered around creating a community for those learning, teaching, or working within the new technological area of Extended/Immersive Reality."
+        },
+        {
+            "name": "Drexel University Judo Team",
+            "description": "Drexel Judo Club prides itself on having the ability to teach students of all experience levels while providing them with a positive competitive team environment, an excellent fitness regimen, and knowledgeable instructors."
+        },
+        {
+            "name": "Drexel University Lexerd Yearbook",
+            "description": "The Drexel University yearbook, the Lexerd, captures memorable moments, activities, and details of the school year in an annual publication. Lexerd staff members are committed to helping the community of Dragons reflects on the time they spent here."
+        },
+        {
+            "name": "Drexel University Library &amp; Archives Student Association",
+            "description": "DULASA is the graduate student organization specific to those enrolled in Information Science programs, with a focus on Library Science. Our organization hosts a variety of events throughout the year aimed at bettering our students' education experience."
+        },
+        {
+            "name": "Drexel University Men's Baseball Club",
+            "description": "Drexel University Club Baseball is a student-run team that is very competitive in the NCBA North-Atlantic East Conference. We hold tryouts in September as school starts up again, so please reach out if interested (see contact info)."
+        },
+        {
+            "name": "Drexel University Men's Club Soccer",
+            "description": "The Drexel men's soccer club competes locally &amp; regionally within NIRSA in fall and spring term. The team plays its home games at Drexel's Vidas Athletic Complex. If you have interest in trying out please email at duclubsoccer@gmail.com"
+        },
+        {
+            "name": "Drexel University Model United Nations",
+            "description": "The Drexel University Model United Nations (DUMUN) Club is the university's main organization for all things MUN. Simulating the Harvard format, DUMUN's focus is on all main principles related to the discipline."
+        },
+        {
+            "name": "Drexel University Paintball Club",
+            "description": "The Drexel University Paintball Club was one of the first collegiate paintball teams established. Drexel Paintball provides the opportunity for students to compete in collegiate paintball. The Club competes in the Northeast Intercollegiate Conference."
+        },
+        {
+            "name": "Drexel University Polish Society",
+            "description": "The mission of the Drexel University Polish Society is to unify the Polish community with the Drexel and greater Philadelphia community. Join DUPS on DragonLink, Instagram and Facebook to find more about our Polish culture!"
+        },
+        {
+            "name": "Drexel University Pre-Veterinary Medical Association",
+            "description": "Anyone who is pursuing application to veterinary school, animal-related research, or simply has a passion for science and/or animals is invited to join Drexel's pre-veterinary club."
+        },
+        {
+            "name": "Drexel University Psi Chi Chapter",
+            "description": "Psi Chi is the International Honor Society in Psychology, founded in 1929 to encourage, stimulate, and maintain excellence in scholarship and to advance the science of psychology. Membership is open to students who meet minimum qualifications."
+        },
+        {
+            "name": "Drexel University Real Estate Club",
+            "description": "Our club brings together and connects Drexel Students with the most prestigious professionals in Philadelphia Real Estate. We provide Drexel Students with educational sessions and networking events that enrich their personal and professional knowledge."
+        },
+        {
+            "name": "Drexel University Roller Hockey Club",
+            "description": "A perpetual contender year in and year out for collegiate roller hockey's highest honors, the Beasts from the East are among the nation's best and brightest in the sport."
+        },
+        {
+            "name": "Drexel University Rugby Football Club",
+            "description": "DURFC is an organization committed to the sport of rugby. There are two seasons throughout the year; the Fall and Spring. If you are a male undergraduate at Drexel University, we want you! Experience does not matter. We are a group who wants to win."
+        },
+        {
+            "name": "Drexel University Student Nurses Association",
+            "description": "Drexel's pre-professional nursing organization. Hosting events with opportunities for mentorship, professional development, and connections with student nurses. As a chapter of SNAP and NSNA we connect students with nursing on a local and national level."
+        },
+        {
+            "name": "Drexel University Students for Sensible Drug Policy",
+            "description": "Drexel SSDP aims to connect students with interests in drug education, policy reform, harm reduction &amp; research. Members can expect meetings &amp; campaigns centered around topics like clinical uses of psychedelics, harm reduction tools, addiction &amp; more."
+        },
+        {
+            "name": "Drexel University Tae Kwon Do Club",
+            "description": "Drexel Tae Kwon Do Club is open to all students interested in learning martial arts and welcomes beginners to join anytime. Tae Kwon Do can help students learn balance, strength, speed, focus, and control in both the mental and physical senses."
+        },
+        {
+            "name": "Drexel University Track Club",
+            "description": "Drexel Track Club is the university's running, cross country and track &amp; field club and is NIRCA affiliated in the Mid-Atlantic collegiate division. The club is co-ed team and welcomes runners, sprinters, jumpers and throwers of all ability levels."
+        },
+        {
+            "name": "Drexel University Triathlon Team",
+            "description": "The Drexel University Triathlon Team exists to promote proactive lifestyles, community involvement, friendship and competition through the sport of triathlons. Drexel tri-athletes compete with unmatched school pride, tenacity and inner fire. The Drexel"
+        },
+        {
+            "name": "Drexel University Women in Physics Society",
+            "description": "The objectives of this organization are to promote community among the undergraduate women in physics by organizing events, outreach activities, and providing support for one another."
+        },
+        {
+            "name": "Drexel University Women's Club Basketball",
+            "description": "The Drexel Women's Club Basketball team plays other women's club basketball teams from local universities. It provides an opportunity for those interested in playing in semi-competitive, organized, intercollegiate basketball."
+        },
+        {
+            "name": "Drexel University Women's Rugby Club",
+            "description": "Drexel Women's Rugby is a no-cut squad that welcomes all interested female athletes, regardless of skill level or knowledge of the game. No experience is required, we will teach you everything you need to know! New faces welcome for fall &amp; spring seasons"
+        },
+        {
+            "name": "Drexel Urban Growers",
+            "description": "Drexel Urban Growers (DUG) is an organization that maintains a community garden, raises awareness about and addresses food insecurity, and builds relationships between students and the West Philadelphia community. Join our Discord!"
+        },
+        {
+            "name": "Drexel Ventures",
+            "description": "Drexel Ventures is a club focused on bringing startup &amp; venture capital exposure to Drexel University and all of its students. This club will serve as an educational &amp; professional resource for students of all majors looking to enter the world of VC."
+        },
+        {
+            "name": "Drexel Veterans Association",
+            "description": "The Drexel Veterans Association was founded to connect veterans with one another, both in school and in the community."
+        },
+        {
+            "name": "Drexel Women in Business",
+            "description": "Drexel Women in Business is a joint student organization. Drexel Women in Business (DWIB) is a network of dynamic, like-minded women achieving their business goals through support, inclusion, inspiration, and mentoring."
+        },
+        {
+            "name": "Drexel Women's Club Lacrosse",
+            "description": "A club lacrosse team for young women to play intercollegiately both fall and spring term."
+        },
+        {
+            "name": "Drexel Women's Club Soccer",
+            "description": "Drexel's Women's Club Soccer team is all about continuing playing soccer at a competitive level but without all of the time commitment of a varsity sport. DUWCS focuses on the love of soccer, personal skill and fitness, team work, and fun."
+        },
+        {
+            "name": "Drexel Women's Club Volleyball",
+            "description": "The Drexel Women's Volleyball Club competes intercollegiately within the North East Women's Volleyball Club League comprised of schools throughout the region. The league features tournaments throughout the fall and winter."
+        },
+        {
+            "name": "Drexel's Association of Health Administrators",
+            "description": "The purpose of this organization shall be to provide undergraduate or graduate Health Services Administration Students educational and networking opportunities."
+        },
+        {
+            "name": "Drexel's Georgian Students Association",
+            "description": "Drexel Geo aims to spread Georgian culture and traditions on Drexel's Campus. We want to unite the Georgian community at Drexel and engage others that have an interest in Georgia, its traditions, and culture."
+        },
+        {
+            "name": "Drexel's German Club",
+            "description": "Drexel's German Club has been established for students interested in the German language and culture, allowing them to network with students sharing similar interests."
+        },
+        {
+            "name": "Drexel's Mastering Cosmetics",
+            "description": "DMC promotes confidence through learning beauty techniques and healthy skin care. We want to provide our members with the opportunity to learn from a variety of beauty professionals and participate in hands on workshops."
+        },
+        {
+            "name": "Engineers Without Borders",
+            "description": "EWB-USA, Drexel Chapter, aims to promote sustainable solutions for domestic and international issues. We partner with communities to meet basic human needs and improve quality of life. Join us to engineer change!"
+        },
+        {
+            "name": "Eta Kappa Nu, Beta Alpha Chapter",
+            "description": "Eta Kappa Nu is a unique organization dedicated to encouraging and recognizing excellence in members of the electrical and computer engineering field."
+        },
+        {
+            "name": "Every Nation Campus",
+            "description": "ENC is the Drexel chapter of an internationally established Christian organization that seeks to build up and connect students from various academic/cultural backgrounds through Bible studies and genuine fun, while grounding them in a local church."
+        },
+        {
+            "name": "Fellowship of Christian Athletes",
+            "description": "To present to coaches and athletes, and all whom they influence, the challenge and adventure of receiving Jesus Christ as Savior and Lord, serving Him in their relationships and in the fellowship of the church."
+        },
+        {
+            "name": "Filipino Intercultural Society of Drexel University",
+            "description": "FISDU's objective is to strengthen, represent, and spread Filipino culture throughout the Drexel Community. However, FISDU does not solely focus on Filipinos, as it welcomes all individuals interested in learning more about Filipino culture and history."
+        },
+        {
+            "name": "Flux",
+            "description": "Flux aims to provide Drexel's student body with a variety of unique musical experiences, organizing and presenting concerts in various locations throughout campus. We give students the opportunity to put on live music events with their peers."
+        },
+        {
+            "name": "Forensic Science club",
+            "description": "The purpose of this club is for us to learn some cool things about forensic science, review true crime cases and the science behind solving them."
+        },
+        {
+            "name": "Formula SAE",
+            "description": "Drexel Formula SAE is an organization open to students of all backgrounds interested in designing, building, and racing a Formula SAE race car for annual, international competition."
+        },
+        {
+            "name": "Fraternity and Sorority Life",
+            "description": "Fraternities and sororities have been an integral part of the Drexel community since 1900. Our organizations pride themselves on excellence and dedication to leadership, service, scholarship, and lifelong friendships and connections to Drexel."
+        },
+        {
+            "name": "Future Educators of Drexel",
+            "description": "Future Educators of Drexel (FEDs) strives to further the involvement of its members in the field of education through community and social opportunities, as well as affiliation with relevant professional organizations and educational institutions."
+        },
+        {
+            "name": "Gamma Sigma Sigma",
+            "description": "Gamma Sigma Sigma promotes a lifelong commitment to service and diversity, in an environment of unity and equality, while creating opportunities for growth."
+        },
+        {
+            "name": "Global China Connection",
+            "description": "Open to Chinese and non-Chinese students on campus, Global China Connection provides a valuable platform for cultural exchange and professional development as a nonprofit and non-partisan organization."
+        },
+        {
+            "name": "Graduate Christian Fellowship at Drexel University",
+            "description": "The Graduate Christian Fellowship (GCF) at Drexel University provides graduate students and post-doctoral fellows an environment in which the Christian faith is encouraged."
+        },
+        {
+            "name": "Graduate Student Association",
+            "description": "The mission of this organization shall be to advocate the interests and address concerns of graduate students at Drexel University; to enhance graduate student life at the University; and to provide a formal means of communication between graduate"
+        },
+        {
+            "name": "Greek Row",
+            "description": "Greek Row"
+        },
+        {
+            "name": "Hack4Impact Drexel",
+            "description": "Building powerful nonprofit software as a tool for social good. We help nonprofits do the good they are meant to be doing more efficiently. By building them the custom software they need, they can focus on their important work."
+        },
+        {
+            "name": "Harvest Christian Fellowship",
+            "description": "Harvest Christian Fellowship (HCF) is a student organization, branched from Grace Covenant Church, that seeks to develop members spiritually and raise spiritual leaders in the Drexel community."
+        },
+        {
+            "name": "Health Management and Policy Club",
+            "description": "Health Management and Policy Club (HMP Club) is a student organization that provides a forum for colleagues to discuss policy and management issues that affect the population health of Philadelphia, the US and the world. All graduate students are welcome."
+        },
+        {
+            "name": "Hellenic Student Association",
+            "description": "The Hellenic Student Association (HSA) unites Greek-Americans, Greeks, Cypriots, and Philhellenes under one organization to promote the Greek culture and traditions."
+        },
+        {
+            "name": "HOSA - Future Health Professionals",
+            "description": "HOSA is an organization that promotes early involvement in the healthcare field through participation in competitive events."
+        },
+        {
+            "name": "Housing and Residence Life",
+            "description": "Creating residential communities that facilitate engaged learning for students"
+        },
+        {
+            "name": "I AM ME",
+            "description": "I am ME is a professional organization at Drexel focused on promoting equal partnership, equal opportunities, and increased visibility for female engineers in Mechanical Engineering. We will educate members through workshops, seminars, and more."
+        },
+        {
+            "name": "Impact Awards",
+            "description": "Impact Awards honor positive contributions to our Drexel community."
+        },
+        {
+            "name": "Indian Undergraduate Students Association",
+            "description": "Welcome to DISHA, the Drexel Indian Undergraduate Students Association. This association's main purpose is to celebrate the radiant spirit of India and share India's rich, rhythmic and fascinating cultural heritage with the diverse student body at"
+        },
+        {
+            "name": "Industrial Designers Society of America at Drexel University",
+            "description": "Drexel IDSA strives to facilitate opportunities for Drexel students to explore product design and build design skills in an informal setting through exposure to design professionals, workshops, and the broader industrial design community"
+        },
+        {
+            "name": "Inside Ambition",
+            "description": "Casual news show created for and by Drexel students, DUTV affiliate"
+        },
+        {
+            "name": "Intercultural Greek Council",
+            "description": "The Intercultural Greek Council serves as a coordinating agent for all minority Greek letter organizations recognized at Drexel. It serves as a liaison between the university and the organizations encompassed, while promoting unity on campus."
+        },
+        {
+            "name": "Interdisciplinary and Career-Orientated Programs Graduate Student Association",
+            "description": "Interdisciplinary and Career-Orientated Programs GSA"
+        },
+        {
+            "name": "Interfraternity Council",
+            "description": "The Interfraternity Council is the governing body for the 14 fraternities that reside in Drexel University. We enhance the collegiate experience of Greek men through community service, philanthropy, continuing education, social, and athletics."
+        },
+        {
+            "name": "International Council on Systems Engineering",
+            "description": "The purpose Drexel INCOSE is to provide an enriched environment for systems engineering students to learn and engage with professionals in the field of systems engineering outside the classroom environment."
+        },
+        {
+            "name": "International Graduate Student Association",
+            "description": "The mission of this organization shall be to advocate the interests, address the concerns, improve the communication channels, and augment the life of international graduate students at Drexel University."
+        },
+        {
+            "name": "International Students and Scholars Services",
+            "description": "International Students and Scholar Services"
+        },
+        {
+            "name": "International Students Union",
+            "description": "The International Students Union aims to create a sense of community for all international students at Drexel by increasing multicultural awareness and acceptance, and promoting mutual respect of diverse heritages."
+        },
+        {
+            "name": "Iota Nu Delta Fraternity Inc., -- Gamma Chapter",
+            "description": "Iota Nu Delta Fraternity, Inc. is the very first South Asian based fraternity of its kind, founded in 1994. We take great pride and honor knowing that through our vision and hard work we were able to pave the way for all South Asian Greeks Worldwide."
+        },
+        {
+            "name": "Italian Pride",
+            "description": "To express and explore Italian culture. This student organization is commonplace for all students who enjoy the Italian way of life. This group will take part in various Italian traditions together and share the common bond that Italy offers."
+        },
+        {
+            "name": "Japanese Undergraduate Student Association",
+            "description": "The Japanese Undergraduate Student Association is open to everyone; no restrictions. We focus on teaching, learning, and spreading Japanese culture. JUSA has weekly events and group trips that involve Japanese culture, including DC and NYC."
+        },
+        {
+            "name": "Jewish Student Association",
+            "description": "JSA is dedicated to creating a pluralistic Jewish undergraduate community that fosters social, educational, cultural, social action and religious experiences that help students develop their own Jewish identities."
+        },
+        {
+            "name": "Kappa Delta Pi",
+            "description": "National Society of Education Chartered at Drexel June 7th, 2017 Purpose: To foster excellence in education and promote fellowship among those dedicated to teaching."
+        },
+        {
+            "name": "Kappa Phi Gamma, Sorority Inc.",
+            "description": "Kappa Phi Gamma Sorority, Inc. was established on November 8th, 1998, as the Nations first ever South-Asian interest Sorority. Although, South-Asian founded, she has expanded the warmth of her Sisterhood to any and all motivated young women."
+        },
+        {
+            "name": "Kappa Phi Lambda Sorority, Inc.",
+            "description": "Kappa Phi Lambda Sorority, Inc. is a nonprofit, Asian-interest sorority with an emphasis on service and commitment to giving back to our members. Our three pillars are service, sisterhood, and cultural diversity."
+        },
+        {
+            "name": "Kelly Hall",
+            "description": "Kelly Hall"
+        },
+        {
+            "name": "Korean Student Association",
+            "description": "The Korean Student Association is a student organization consists primarily of Korean international and Korean-American students committed to spreading Korean culture and raising awareness of Korean heritage throughout the Drexel community."
+        },
+        {
+            "name": "Lambda Alpha Upsilon",
+            "description": "Latino America Unida, Lambda Alpha Upsilon Fraternity, Inc."
+        },
+        {
+            "name": "Lambda Chi Alpha",
+            "description": "Lambda Chi Alpha is a social fraternity at Drexel University that was re-founded in 2009 and has been constantly growing and developing over the past 13 years."
+        },
+        {
+            "name": "Latinos for a United Campus",
+            "description": "The object of our organization is to create Latine cultural awareness and to unite the Latine community at Drexel. Membership is open to all full-time, part-time, undergraduate/graduate students, alumni, faculty, and staff of Drexel"
+        },
+        {
+            "name": "LeBow Student Leadership",
+            "description": "LeBow's Dean's Student Advisory Board and Peer Leaders will be working together to create a great impact on the LeBow College of Business."
+        },
+        {
+            "name": "Lindy Center for Civic Engagement",
+            "description": "Mission statement: Drexel Universitys Lindy Center for Civic Engagement promotes the ideals of social responsibility and public service by facilitating community based experiential learning for students, faculty, and staff. Through collaborations with t"
+        },
+        {
+            "name": "Lit Lab",
+            "description": "We're here to unite STEM and humanities together through a quarterly published blog style magazine that is a blend of science and literature ranging from research, fiction, nonfiction, op-eds, and experiences at Drexel."
+        },
+        {
+            "name": "Material Advantage",
+            "description": "The Drexel University Chapter of Material Advantage is a professional organization that celebrates the field of material science and engineering. This organization is open to students of all majors."
+        },
+        {
+            "name": "Materials Research Society",
+            "description": "The Materials Research Society (MRS) Drexel Chapter promotes interdisciplinary materials research on contemporary topics. Seminars, workshops, and discussions are held to understand and update our knowledge of cutting edge Material Science research."
+        },
+        {
+            "name": "Maternal and Child Health Student Organization at Drexel University",
+            "description": "The goal of Maternal and Child Student Organization (MCHSO) is to explore a broad range of topics that impact the health of mothers and children through presentations by guest speakers, article/current event discussions, and MCH promoting events."
+        },
+        {
+            "name": "Mathematics Student Organization",
+            "description": "The Math Student Organization is committed to fostering a community of undergraduate students with a common interest in mathematics so that they can learn about, appreciate, have fun with all aspects of math."
+        },
+        {
+            "name": "Maya Literary Magazine",
+            "description": "Maya is Drexel's only undergraduate literary magazine. We publish an annual magazine showcasing selected student works of poetry, fiction, nonfiction, and art."
+        },
+        {
+            "name": "MEDLIFE",
+            "description": "MEDLIFE is an organization that partners with low-income communities in Latin America and Africa to improve their access to medicine, education, and community development initiatives through volunteer trips."
+        },
+        {
+            "name": "Men's Club Lacrosse",
+            "description": "This is the Men's Club Lacrosse Team. All are invited to join and play. If you are a beginner we are here to help teach you the game of Lacrosse. If you are an experienced player we are here so you can continue to play Lacrosse at a competitive lev"
+        },
+        {
+            "name": "Millennium Hall",
+            "description": "Residence Hall"
+        },
+        {
+            "name": "Minority Association of Pre-Medical Students",
+            "description": "The Minority Association of Pre-medical Students is an organization that seeks to support the endeavors of ambitious minority pre-med students by providing resources, academic guidance and mentorship."
+        },
+        {
+            "name": "Myers Hall",
+            "description": "Anything and everything Myers related. Catch up on news, social media, and events taking place within Myers."
+        },
+        {
+            "name": "NAMI on Campus Drexel University",
+            "description": "NAMI Drexel educates students and our community about mental illness, strives to reduce stigma, and most importantly, advocates for necessary changes to accommodate those with mental health issues at the university, local, state and national level."
+        },
+        {
+            "name": "National Association of Asian American Professionals",
+            "description": "The Collegiate Chapter of the National Association of Asian American Professionals at Drexel (NAAAP Drexel) is a non-profit, pan-industry organization that helps ambitious students develop their professional and leadership skills. We Make Leaders."
+        },
+        {
+            "name": "National Organization for Business and Engineering - Drexel Chapter",
+            "description": "The goal of the National Organization for Business and Engineering (NOBE) is to bring together students with interests in both business and engineering to corporate and academic institutions that promote the integration of these fields into one."
+        },
+        {
+            "name": "National Society of Black Engineers",
+            "description": "Our mission: To increase the number of culturally responsible black engineers who excel academically, succeed professionally, and positively impact the community"
+        },
+        {
+            "name": "Nepali Student Association",
+            "description": "Nepali Student Association is a social and cultural club enriching Drexel's cultural diversity. The main objective of this club is to spread awareness about Nepali cultures and traditions by welcoming the entire Drexel community to be a part of it."
+        },
+        {
+            "name": "Neurodragons",
+            "description": "Neurodragons is a dedicated body of neurodivergent and neurotypical students committed to raising awareness of the value of neurodiversity within the Drexel learning community and beyond."
+        },
+        {
+            "name": "North Hall",
+            "description": "North Hall"
+        },
+        {
+            "name": "Office of Institutional Equity and Inclusive Culture",
+            "description": "The EIC is responsible for leading and promoting Drexels diversity, equity, inclusion and belonging philosophy, initiatives and direction."
+        },
+        {
+            "name": "Open Door Wellness Community",
+            "description": "We provide weekly events so that students are able to uncover their faith through events that foment a bond within the Drexel community, rational growth, and a want to help others beyond oneself."
+        },
+        {
+            "name": "Order of Omega",
+            "description": "Order of Omega is a honor society for members of Greek organizations. The organization recognizes pre-juniors, juniors, and seniors who have exemplified high standards in the areas of scholarship, leadership, involvement within"
+        },
+        {
+            "name": "Panhellenic Council",
+            "description": "The Panhellenic Council (PHC) is the governing body of the five chapters of the National Panhellenic Conference that are chartered at Drexel University."
+        },
+        {
+            "name": "Pennoni Honors College",
+            "description": "Pennoni Honors College"
+        },
+        {
+            "name": "Perfect Pair - Drexel University Chapter",
+            "description": "Individualized one-on-one through an extensive matching process that considers background, hobbies, and interests, college volunteers are paired with a senior in a local assisted living facility."
+        },
+        {
+            "name": "Persian Students Association",
+            "description": "This organization tries to bring together the Persian community by celebrating cultural events and welcoming newcomers into Drexel for a smoother transition to American society."
+        },
+        {
+            "name": "Phi Delta Epsilon (PhiDE)",
+            "description": "Phi Delta Epsilon (PhiDE) is an international co-ed fraternity for individuals dedicated to the path of medicine. Our chapter, Pennsylvania Gamma, consists of undergraduate students committed to becoming physicians and attending medical school."
+        },
+        {
+            "name": "Phi Kappa Psi, Pennsylvania Upsilon Chapter",
+            "description": "The Phi Kappa Psi Fraternity is a private association of educated men who endeavor to live honorably and humanely."
+        },
+        {
+            "name": "Phi Sigma Pi - National Honor Fraternity",
+            "description": "Phi Sigma Pi is a gender-inclusive national honor fraternity that is unique in its combination of an honor society and a social fraternity. It is a diverse campus organization that focuses on a tripod of ideals: Scholarship, Leadership, and Fellowship."
+        },
+        {
+            "name": "Phi Sigma Sigma",
+            "description": "Phi Sigma Sigma is a dynamic sisterhood of powerful women fostering uncompromising principles, igniting positive change, and embracing individuality. We aim to inspire the personal development of each sister and perpetuate the advancement of womanhood."
+        },
+        {
+            "name": "Philly Maza",
+            "description": "Philly Maza is Philadelphia's premier Co-Ed Bollywood Fusion Dance team. We integrate South Asian dance styles such as Bharatnatyam, Kathak, Bhangra, and Bollywood with hip-hop and contemporary dance."
+        },
+        {
+            "name": "Physics Graduate Student Association",
+            "description": "We promote communication within the physics community and our peers within the Drexel graduate community."
+        },
+        {
+            "name": "Pi Kappa Alpha Fraternity",
+            "description": "Pi Kappa Alpha challenges its members to be the pillars of integrity and beacons of success on their college campuses and within their communities."
+        },
+        {
+            "name": "Pi Kappa Phi Fraternity",
+            "description": "The Alpha Upsilon Chapter of Pi Kappa Phi, founded May 20th, 1933."
+        },
+        {
+            "name": "Pi Lambda Phi - PA Delta Iota",
+            "description": "Founded at Yale University in 1895, Pi Lambda Phi (Pilam) was the first non-sectarian fraternity in the United States, accepting men of good character without regard to race or religion."
+        },
+        {
+            "name": "Pi Nu Epsilon",
+            "description": "Pi Nu Epsilon is an honorary fraternity that is dedicated to the performing arts and community service. Our purpose is to give recognition to those men and women who have unselfishly devoted their time and energies to the furtherance of good music."
+        },
+        {
+            "name": "Pi Tau Sigma, Mechanical Engineering Honor Society",
+            "description": "Pi Tau Sigma is the International Honor Society for Mechanical Engineers. The Pi Tau Sigma mission is to strive to create better engineers through commitment to academic excellence and dedication to service."
+        },
+        {
+            "name": "Pre-Medical Pre-Health Graduate Student Association",
+            "description": "Pre-Medical Pre-Health GSA"
+        },
+        {
+            "name": "Productocto",
+            "description": "We aim to share resources, information, support, and connections to learn and break into product management through hands-on involvement and collaboration."
+        },
+        {
+            "name": "Public Health Doctoral Students Advisory Group",
+            "description": "PHDSAG strives to represent all doctoral students in the Dornsife School of Public Health and to enhance their experiences through partnerships with schools administrators and faculty members as well as the general community"
+        },
+        {
+            "name": "Public Relations Student Society of America",
+            "description": "Serving our members by enhancing their knowledge of public relations and providing access to professional development opportunities; and serving the public relations profession by helping to develop highly qualified, well-prepared professionals."
+        },
+        {
+            "name": "Queer People of Color",
+            "description": "Queer People of Color (QPOC) is a student organization that aims to address the intersection of race, gender, and sexual identity."
+        },
+        {
+            "name": "Queer Student Union",
+            "description": "QSU is a non-exclusive organization for LBGTQIA+ students and their allies at Drexel University. Our goal is to provide students with an open community, resources, and space for them to connect with Drexel's and Philadelphia's LGBTQIA+ communities."
+        },
+        {
+            "name": "Race and Van R Halls",
+            "description": "Race and Van R Halls"
+        },
+        {
+            "name": "Recreation Center",
+            "description": "Student Employment Application Hub for the Drexel Recreation Center"
+        },
+        {
+            "name": "Renewal College Fellowship",
+            "description": "Drexel RCF is a college ministry affiliated with Renewal Presbyterian Church where college students can experience the gospel of the life-changing grace of Jesus Christ within a caring Christian community."
+        },
+        {
+            "name": "Retail and Design Club",
+            "description": "Retail and Design Club is an organization that offers students the opportunity to experience the retail and merchandising industries through trips, on campus events, speakers, and networking. Open to all Drexel Students."
+        },
+        {
+            "name": "Rho Psi Eta, Pre-Health Sorority, Gamma Chapter",
+            "description": "Rho Psi Eta is a pre-health academic sorority that thrives on the passion of sisterhood, service, academic excellence, and the health/medical field."
+        },
+        {
+            "name": "Sanitation Health Aid Relief Project",
+            "description": "SHARP aims to spread awareness about water, sanitation, and hygiene (WASH) issues as well as raise and donate funds and supplies to underserved communities across the globe."
+        },
+        {
+            "name": "Saving Mothers",
+            "description": "Saving Mothers is an organization dedicated to raising awareness and funds for underprivileged mothers and pregnant women in need of reproductive health care services."
+        },
+        {
+            "name": "School of Education Graduate Student Organization",
+            "description": "This organization aims to provide professional development and networking opportunities to the graduate students in the School of Education. GNOMEs is for all Masters, EDD, and Ph.D students."
+        },
+        {
+            "name": "Sexual Exploration and Comfort in Restorative Educational Training",
+            "description": "We are the reinvention of sexual education at Drexel! We normalize healthy dialogue on the basis of sex through fun and interactive events, alongside open minded workshops and seminars regarding sexual health and policy."
+        },
+        {
+            "name": "Sharing Excess, Drexel Chapter",
+            "description": "The purpose of this organization is to provide students with opportunities to address food insecurity both on campus and in the surrounding community by sharing excess resources."
+        },
+        {
+            "name": "Sigma Alpha Mu",
+            "description": "The Mu Eta Chapter of Sigma Alpha Mu was founded on October 04, 1947 (Refounded October 24, 2009). As a social fraternity, we provide opportunities for lifelong social, moral, and intellectual development. Brotherhood is of utmost importance to us."
+        },
+        {
+            "name": "Sigma Beta Rho Fraternity, Inc.",
+            "description": "Our pillars of Society, Brotherhood, and Remembrance were established upon the formation of the Alpha Chapter at the University of Pennsylvania in Philadelphia, on August 16, 1996."
+        },
+        {
+            "name": "Sigma Phi Epsilon",
+            "description": "Sigma Phi Epsilon (SigEp) is a social college fraternity that was founded on three principles: Virtue, Diligence, and Brotherly Love. Sigma Phi Epsilon is the largest social fraternity in the United States in terms of current undergraduate membership."
+        },
+        {
+            "name": "Sigma Psi Zeta Sorority, Inc.",
+            "description": "Sigma Psi Zeta is a progressive multicultural Greek organization that provides a means to success and support for women, particularly women in color. The sorority builds on the unity of strong and independent leaders to affect change in communities."
+        },
+        {
+            "name": "Society of Asian Scientists and Engineers: Drexel University Chapter",
+            "description": "The Society of Asian Scientists &amp; Engineers (SASE) aims to help scientists, engineers, and technologists reach their full career potential through professional development, cultural awareness, and giving back to their community."
+        },
+        {
+            "name": "Society of Security Analysts",
+            "description": "SSA aims to maintain a network of dedicated business students who are interested in a finance career and can contribute to the group. We are selective in who we invite. If interested, please send a resume and paragraph of interest to our main contact."
+        },
+        {
+            "name": "Society of Women Engineers",
+            "description": "SWE is an organization dedicated to promoting women in the engineering fields by providing a support network to its members, professional development opportunities, and community service opportunities. We welcome any genders and majors!"
+        },
+        {
+            "name": "South Asian Students Association",
+            "description": "Drexel University's South Asian Student Association (SASA) looks to foster an all inclusive community and aims to increase the awareness of South Asian students by participating and hosting social, professional, service, and cultural driven events."
+        },
+        {
+            "name": "Special Events and Free In Philadelphia",
+            "description": "EMSS Special Events and Free in Philadelphia - A listing of free events and programs for students!"
+        },
+        {
+            "name": "Stiles Hall",
+            "description": "Stiles Hall"
+        },
+        {
+            "name": "Student Activity Fee Allocation Committee",
+            "description": "The Student Activity Fee Allocation Committee (SAFAC) exists to support the initiatives, goals, and activities of recognized Drexel student organizations and Student Life by allocating the student activity fees."
+        },
+        {
+            "name": "Student Center for Diversity &amp; Inclusion",
+            "description": "The Student Center for Diversity and Inclusion (SCDI) supports and empowers students of all backgrounds as they build a sense of community that reflects the diversity of Drexel University's student body."
+        },
+        {
+            "name": "Student Government Organization (SGO) of the School of Public Health",
+            "description": "This organization represents all students within the School of Public Health, serving their needs in a variety of capacities. The organization also provides opportunities for meaningful contributions to and engagement in the field of public health."
+        },
+        {
+            "name": "Student Life Awards",
+            "description": "Join Student Life in recognizing members of the Drexel community who have made significant contributions to student life at the University."
+        },
+        {
+            "name": "Student Organization Resource And Finance",
+            "description": "Student Organization Resource And Finance (SORAF) is made up of three professional staff members who oversee the processing of all SAFAC funds."
+        },
+        {
+            "name": "Students for Justice in Palestine",
+            "description": "Drexel Students for Justice in Palestine is a chapter of National SJP, which is a collective of student organizers on campuses across Occupied Turtle Island working to uplift the demands for freedom, justice, and equality for the Palestinian people."
+        },
+        {
+            "name": "Students of Color in Psychology",
+            "description": "We are a group of undergraduate and graduate Drexel University psychology students that identify as people of color. Our drive is to promote the growth of our students in the field of psychology through event hosting, networking and sharing knowledge."
+        },
+        {
+            "name": "Students Supporting Israel",
+            "description": "Students Supporting Israel is an independent, nonpartisan, grassroots campus movement that organizes a strong and united pro-Israel front on college campuses. We are made up of students from different political, religious, and ethnic backgrounds."
+        },
+        {
+            "name": "Supply Chain Management Association",
+            "description": "SCMA empowers Drexel's future business leaders. By enriching the knowledge and career development of our members, SCMA encourages interest and promotes the importance of supply chain management education and networking through LeBow C.o.B."
+        },
+        {
+            "name": "Tamid Group at Drexel University",
+            "description": "TAMID Group at Drexel University is a nonprofit organization that develops the professional skills of undergraduate students through hands-on interaction with the Israeli economy."
+        },
+        {
+            "name": "Tau Beta Pi",
+            "description": "Tau Beta Pi is the National Engineering Honors Society, which encourages an open-minded liberal culture within the engineering discipline."
+        },
+        {
+            "name": "Tau Kappa Epsilon",
+            "description": "Tau Kappa Epsilon is an undergraduate Fraternity of men that focuses on aiding men in their mental, moral and social development for life. We are a social Fraternity that is one of over 230 chapters world-wide."
+        },
+        {
+            "name": "TechServ",
+            "description": "TechServ helps bridge the Digital Divide by refurbishing and donating computers to non-profit organizations and individuals in need. We host Genius Bars where we help students and community members with computer problems. Any student can be a member!"
+        },
+        {
+            "name": "TEDxDrexelU",
+            "description": "TEDxDrexelU strives to share ideas worth spreading by seeking diverse and engaging speakers and members for its events. The goal of every event is to enlighten the surrounding community and to spark conversation about the world around us."
+        },
+        {
+            "name": "The Accounting Society",
+            "description": "The Accounting Society (TAS) of Drexel University aims to prepare all accounting students to become leaders through the betterment of professional demeanor and foundational understandings."
+        },
+        {
+            "name": "The American Society of Heating, Refrigerating and Air-Conditioning Engineers",
+            "description": "Drexel University's ASHRAE Student Branch seeks to provide opportunities for learning and networking to college students considering pursuing careers in/related to heating, ventilation, air-conditioning and refrigeration."
+        },
+        {
+            "name": "The Association for Undergraduate Biological Science Students",
+            "description": "AUBSS is an association for undergraduate Biology students to create a community for learning, professional growth, and support within the Biology academic program. We hope to create an inclusive environment to foster success for students."
+        },
+        {
+            "name": "The Cleftomaniacs",
+            "description": "The Cleftomaniacs are Drexel's first and only co-ed a cappella group! We were formed in 2012 to fill the gap left by the all-male and all-female groups on campus."
+        },
+        {
+            "name": "The Drexel French Club",
+            "description": "French Club is about allowing Drexel students who are taking or having taken French language courses to immerse themselves in French-speaking cultures, the French language, and to meet other students sharing their passion while having fun."
+        },
+        {
+            "name": "The Drexel Robotics Club",
+            "description": "Drexel Robotics is centered on the mission to create functional robots to complete real-life tasks while encouraging students to develop further interpersonal skills and promoting civic duty."
+        },
+        {
+            "name": "The Good Idea Fund",
+            "description": "The Good Idea Fund exists as a way for individual students, faculty, staff, and recognized student organizations to apply and access student activity fee funds to engage the undergraduate student body."
+        },
+        {
+            "name": "The Neuroscience Society",
+            "description": "NSS strives to facilitate university-wide discussions of neuroscience through hosting discussions and events on a multitude of topics in the field of neuroscience that may interest our members and expand our knowledge."
+        },
+        {
+            "name": "The Paleontology and Geology Club of Drexel University",
+            "description": "We are here to educate members of the greater Drexel community of the geologic processes and prehistoric life of the Earth. Our goal is to provide guest lectures, field trips, and other fun activities to both educate and entertain the Drexel Community."
+        },
+        {
+            "name": "The Triangle",
+            "description": "First appearing on campus in 1926, The Triangle is the newspaper-of-record at Drexel University. Our completely student-run paper is published every other Friday during the fall, winter, and spring terms. We publish monthly during the summer."
+        },
+        {
+            "name": "Theme Park Engineering and Design Group",
+            "description": "The Drexel Theme Park Engineering and Design Group (Drexel TPED) is an undergraduate organization at Drexel University that celebrates the themed entertainment industry! For more information, please visit our website: www.drexeltped.org"
+        },
+        {
+            "name": "Theta Chi",
+            "description": "Theta Chi Fraternity was founded in 1856 based on the ideal of the helping hand. No brother will be able to say he failed because he didn't have the help of another brother."
+        },
+        {
+            "name": "Theta Tau",
+            "description": "Theta Tau Co-ed Fraternity for Engineers strives to develop and maintain a high standard of professional interest among its members, and to unite them in a strong bond of fraternal fellowship."
+        },
+        {
+            "name": "Towers Hall",
+            "description": "Towers Hall"
+        },
+        {
+            "name": "TrebleMakers",
+            "description": "The TrebleMakers are the only all-female a cappella group at Drexel. We host concerts on campus, perform at events across the country, and compete in the ICCAs and glee competitions."
+        },
+        {
+            "name": "Undergraduate Business Analytics Club",
+            "description": "The Undergraduate Business Analytics Club comprises of dedicated students who strive to build and improve each other up academically, professionally, and socially through a core of strong teamwork and continuous improvements."
+        },
+        {
+            "name": "Undergraduate Student Government Association",
+            "description": "The Undergraduate Student Government Association (USGA) is Drexel University's sole undergraduate student government and works to advocate on behalf of the betterment of the Drexel student experience."
+        },
+        {
+            "name": "Upsilon Pi Epsilon",
+            "description": "The only National Honor Society for the computing sciences recognized as such by the Association for Computing Machinery (ACM) and IEEE Computer Society. Drexel University was chartered in 1989 as the fifth chapter of the state of Pennsylvania."
+        },
+        {
+            "name": "Van Rensselaer Hall",
+            "description": "Anything and everything Van R related. Catch up on news, social media, and events taking place within Van R."
+        },
+        {
+            "name": "Vietnamese Student Association",
+            "description": "Drexel Vietnamese Student Association is dedicated to providing those with a different background a better understanding of the Vietnamese culture through events that would promote beneficial outcome to the university and other members of the community."
+        },
+        {
+            "name": "Weekend Warriors",
+            "description": "Weekend Warriors is an Office of Campus Activities recognized group dedicated to providing the Drexel community with fun opportunities to engage with the outdoors. Our mission is to make the outdoors accessible to all Drexel students."
+        },
+        {
+            "name": "West Indian Student Establishment",
+            "description": "The purpose of this organization is to socially, academically, and culturally unite the West-Indian student population at Drexel University, providing a channel for the sharing of the Caribbean culture, traditions and beliefs with the entire community."
+        },
+        {
+            "name": "Wilbur W. Oaks Physician Assistant Student Society",
+            "description": "This society serves as the official organization of the Drexel University Hahnemann Physician Assistant Program"
+        },
+        {
+            "name": "WKDU Philadelphia 91.7FM",
+            "description": "WKDU is an award winning, free format, non-commercial college radio station located in Philadelphia, PA. Broadcasting on 91.7 FM, WKDU is owned and operated by Drexel University and it's students."
+        },
+        {
+            "name": "Women in Computing Society",
+            "description": "The Women in Computing Society (WiCS) is an organization tailored to support women identifying people in technology-related majors and students interested in technology. Its purpose is to support, recruit, and retain women in tech. WiCS is open to all."
+        },
+        {
+            "name": "Women's Empowerment",
+            "description": "Women's Empowerment aims to uplift the student body at Drexel University through constructive dialogue, activism, and fun events. Our goal is to empower all women and our allies so they can strive for excellence in their daily life."
+        },
+        {
+            "name": "Writers Room",
+            "description": "Writers Room is a university-community literary arts program engaged in creative placemaking and art for social justice. Our mission is to develop inclusive, intergenerational, co-creative places that foster connection and community."
+        },
+        {
+            "name": "Zeta Phi Beta Sorority Inc.",
+            "description": "Zeta Phi Beta Sorority, Inc. was founded on the principles of scholarship, service, sisterhood and finer womanhood. The Kappa Sigma chapter works to positively impact Drexel University and the surrounding community."
+        }
     ]
 }

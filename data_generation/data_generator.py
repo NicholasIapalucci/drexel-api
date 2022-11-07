@@ -150,4 +150,24 @@ for element in ugSoup.find_all("a"):
             }
             major_object["courses"].append(class_object)
 
-open("src/data/colleges.json", "w").write(json.dumps(ug_json, indent=4))
+# Clubs
+
+clubs_html = BeautifulSoup(open("data_generation/pages/clubs.html").read(), features = "html.parser")
+clubs = clubs_html.find_all("div", class_="MuiPaper-root MuiCard-root MuiPaper-elevation3 MuiPaper-rounded")
+
+organizations = []
+
+for club_element in clubs:
+    club_div = club_element.find("div").find("span").find("div").find("div")
+    club_name = regex.sub(r"\s+", " ", club_div.find("div", attrs={"alt": None}).decode_contents()).strip()
+    club_desc = regex.sub(r"\s+", " ", club_div.find("p").decode_contents()).strip()
+    link = club_element.parent["href"]
+
+    organizations.append({
+        "name": club_name,
+        "description": club_desc
+    })
+
+ug_json["studentOrganizations"] = organizations
+
+open("src/data/drexel.json", "w").write(json.dumps(ug_json, indent=4))

@@ -1,14 +1,20 @@
 // @ts-ignore - if TS tries to typecheck the giant JSON file it dramatically slows down VSCode & intellisense
 // Instead manual type checking is set up.
-import * as collegeData from "./data/colleges.json" assert { type: "json" };
+import * as Drexel from "./data/drexel.json" assert { type: "json" };
 
-let colleges = collegeData.colleges as College[];
+let colleges = Drexel.colleges as College[];
+let organizations = Drexel.organizations as Organization[];
 
 type OneOrMorePropertiesFrom<T, U = { [K in keyof T]: Pick<T, K> }> = Partial<T> & U[keyof U];
 
 type LetterGrade = "A" | "B" | "C" | "D" | "F";
 type GradeSign = "-" | "+" | "";
 type Grade = `${LetterGrade}${GradeSign}` | "Any";
+
+export interface Organization {
+    name: string;
+    description: string;
+}
 
 export interface Prerequisite {
     codeName: string;
@@ -267,3 +273,31 @@ export function majorWith(filters: OneOrMorePropertiesFrom<Major>): Major | null
     return correctMajors;
 }
 
+/**
+ * Returns the first student organization that satisfies all of the following filters. 
+ * 
+ * ### Parameters
+ * 
+ * `filters` &mdash; The filters to check each organization with.
+ * 
+ * ### Returns
+ * The first student organization that matches the specified filter. 
+ * 
+ * ### Time Complexity
+ * For `n` organizations in Drexel and `f` filters, the time complexity of this operation is:
+ * 
+ * Best case: *O(f)*
+ * 
+ * Worst case: *O(nf)*
+ */
+export function studentOrganizationWith(filters: OneOrMorePropertiesFrom<Organization>): Organization | null {
+    let correctOrganization: Organization | null = null
+    organizations.some(organization => {
+        if (Object.keys(filters).every(filter => filters[filter] === organization[filter])) {
+            correctOrganization = organization;
+            return true;
+        }
+        return false;
+    });
+    return correctOrganization;
+}
