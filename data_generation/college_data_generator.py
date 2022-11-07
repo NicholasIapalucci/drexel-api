@@ -3,7 +3,13 @@ import json
 from urllib.request import urlopen
 import re as regex
 
-ug_json = {}
+ug_json = { "colleges": [] }
+
+def find(pred, iterable):
+  for element in iterable:
+      if pred(element):
+          return element
+  return None
 
 def html(url):
     return BeautifulSoup(urlopen(url).read(), features = "html.parser")
@@ -72,7 +78,7 @@ def parse_prereqs(prereq_string):
             grade = "Any"
             if next_is("grade"): grade = next("grade")["value"]
             return parse_and_or({
-                "course name": course_name,
+                "codeName": course_name,
                 "minimum grade": grade
             })
         raise Exception("Unexpected token: " + str(tokens_to_parse[0]))
@@ -89,7 +95,6 @@ def parse_prereqs(prereq_string):
     if len(prerequisites) == 1 and type(prerequisites[0]) is list: return prerequisites[0]
     return prerequisites
 
-i = 0
 ugSoup = html("https://catalog.drexel.edu/coursedescriptions/quarter/undergrad")
 for element in ugSoup.find_all("a"):
     text_contents = element.decode_contents()
@@ -113,6 +118,7 @@ for element in ugSoup.find_all("a"):
             # Credits
             credits = title[2].previous_sibling.strip()
             if "-" in credits: credits = credits[credits.index("-") + 1:].strip()
+            credits = int(float(credits))
 
             # Prequisites
             prereqs = course_block.find_all("b")[-1]
@@ -122,14 +128,26 @@ for element in ugSoup.find_all("a"):
             # College 
             college = course_block.find("b").next_sibling.strip()
 
-            if not ug_json.get(college): ug_json[college] = {}
-            if not ug_json[college].get(major_name): ug_json[college][major_name] = {}
+            # Get college object
+            college_object = find(lambda x: x.get("name") == college, ug_json["colleges"])
+            if not college_object:
+                college_object = { "name": college, "majors": [] }
+                ug_json["colleges"].append(college_object)
 
-            ug_json[college][major_name][code] = {
-                "course name": name,
+            # Get major object
+            major_object = find(lambda major: major["name"] == major_name, college_object["majors"])
+            if not major_object:
+                major_object = { "name": major_name, "courses": [] }
+                college_object["majors"].append(major_object)
+
+            # Get class Object
+            class_object = {
+                "codeName": code,
+                "properName": name,
                 "credits": credits,
+                "majorName": major_name,
                 "prerequisites": prereq_list if prereq_list else []
             }
-        i += 1
+            major_object["courses"].append(class_object)
 
-open("data/colleges.json", "w").write(json.dumps(ug_json, indent=4))
+open("src/data/colleges.json", "w").write(json.dumps(ug_json, indent=4))

@@ -8,10 +8,12 @@
         "target": "ESNext",
         "module": "ESNext",
         "forceConsistentCasingInFileNames": true,
-        "resolveJsonModule": true,
+        "resolveJsonModule": false,
         "esModuleInterop": true,
         "moduleResolution": "node",
         "rootDir": "src",
-        "outDir": "out"
+        "outDir": "out",
+        "suppressImplicitAnyIndexErrors": true,
+        "strictPropertyInitialization": false,
     }
 }
