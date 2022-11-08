@@ -5,7 +5,7 @@ import * as Drexel from "./data/drexel.json" assert { type: "json" };
 let colleges = Drexel.colleges as College[];
 let organizations = Drexel.organizations as Organization[];
 
-type OneOrMorePropertiesFrom<T, U = { [K in keyof T]: Pick<T, K> }> = Partial<T> & U[keyof U];
+type OneOrMorePropertiesFrom<T> = Partial<T> & { [K in keyof T]: Pick<T, K> }[keyof { [K in keyof T]: Pick<T, K> }];
 
 type LetterGrade = "A" | "B" | "C" | "D" | "F";
 type GradeSign = "-" | "+" | "";

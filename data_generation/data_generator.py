@@ -3,7 +3,7 @@ import json
 from urllib.request import urlopen
 import re as regex
 
-ug_json = { "colleges": [] }
+drexel_json = { "colleges": [] }
 
 def find(pred, iterable):
   for element in iterable:
@@ -129,10 +129,10 @@ for element in ugSoup.find_all("a"):
             college = course_block.find("b").next_sibling.strip()
 
             # Get college object
-            college_object = find(lambda x: x.get("name") == college, ug_json["colleges"])
+            college_object = find(lambda x: x.get("name") == college, drexel_json["colleges"])
             if not college_object:
                 college_object = { "name": college, "majors": [] }
-                ug_json["colleges"].append(college_object)
+                drexel_json["colleges"].append(college_object)
 
             # Get major object
             major_object = find(lambda major: major["name"] == major_name, college_object["majors"])
@@ -168,6 +168,6 @@ for club_element in clubs:
         "description": club_desc
     })
 
-ug_json["studentOrganizations"] = organizations
+drexel_json["studentOrganizations"] = organizations
 
-open("src/data/drexel.json", "w").write(json.dumps(ug_json, indent=4))
+open("src/data/drexel.json", "w").write(json.dumps(drexel_json, indent=4))
