@@ -113,7 +113,7 @@ npm install drexel-api
 The provided API allows for searching for classes, majors, and colleges by filters:
 
 ```ts
-import Drexel from "drexel-api";
+import * as Drexel from "drexel-api";
 
 let cs171 = Drexel.courseWith({ properName: "Computer Programming I" });
 let arch283 = Drexel.courseWith({ codeName: "ARCH-283" });
