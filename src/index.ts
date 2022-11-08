@@ -2,7 +2,7 @@
 // Instead manual type checking is set up.
 import * as Drexel from "./data/drexel.json" assert { type: "json" };
 
-let colleges = Drexel.colleges as College[];
+let colleges = Drexel.colleges as RawCollege[];
 let organizations = Drexel.organizations as Organization[];
 
 type OneOrMorePropertiesFrom<T> = Partial<T> & { [K in keyof T]: Pick<T, K> }[keyof { [K in keyof T]: Pick<T, K> }];
@@ -25,10 +25,18 @@ export interface PrerequisiteUnion {
     "one of": (Prerequisite | PrerequisiteUnion)[];
 }
 
-export interface Major {
+interface RawMajor {
     name: string;
-    college: College;
     courses: Course[]
+}
+
+export interface Major extends RawMajor {
+    college: College;
+}
+
+export interface RawCollege {
+    name: string;
+    majors: RawMajor[];
 }
 
 export interface College {
@@ -82,11 +90,10 @@ export class Course {
         codeName: string,
         properName: string,
         credits: number,
+        major: Major,
         prerequisites: (Prerequisite | PrerequisiteUnion)[],
-        majorName: string
     }) {
         Object.keys(properties).forEach(property => this[property] = properties[property]);
-        this.major = majorWith({ name: this.majorName })!;
         this.college = this.major.college;
     }
 
@@ -198,11 +205,8 @@ export function coursesWith(filters: OneOrMorePropertiesFrom<Course>): Course[] 
             major.courses.forEach((course: any) => {
                 if (Object.keys(filters).filter(filter => filter).every(filter => filters[filter] === course[filter])) {
                     correctCourses.push(new Course({
-                        codeName: course.codeName,
-                        properName: course.properName,
-                        credits: course.credits,
-                        majorName: course.majorName,
-                        prerequisites: course.prerequisites
+                        ...course,
+                        major: {...major, college },
                     }));
                 }
             });
@@ -266,11 +270,17 @@ export function majorWith(filters: OneOrMorePropertiesFrom<Major>): Major | null
     let correctMajors: Major[] = [];
     colleges.forEach(college => {
         return college.majors.forEach(major => {
-            if (Object.keys(filters).every(filter => filters[filter] === major[filter])) correctMajors.push(major);
+            if (Object.keys(filters).every(filter => filters[filter] === major[filter])) correctMajors.push({ ...major, college: unrawCollege(college) });
         });
     });
 
     return correctMajors;
+}
+
+function unrawCollege(college: RawCollege): College {
+    let unraw: College = { name: college.name, majors: [] };
+    college.majors.forEach(major => unraw.majors.push({ ...major, college: unraw }));
+    return unraw;
 }
 
 /**
