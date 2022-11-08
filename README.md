@@ -1,4 +1,4 @@
-# Drexel API
+# drexel-api
 
 `drexel-api` provides a public API for data related to Drexel University. All data provided by the API is already publicly accessible from Drexel University websites. 
 
@@ -15,9 +15,10 @@ The API provides the following information:
             - The prerequisites for the course
     - List of every faculty member in in the college
         - The name of the faculty member
-        - The email of the faculty member
         - The title of the faculty member
-        - The phone number of the faculty member
+        - The email of the faculty member
+        - The phone number of the faculty member (if known)
+        - The interests of the faculty member (if known)
 - List of every student organization in Drexel
     - The name of the student organization
     - The description of the student organization
@@ -99,13 +100,32 @@ This can get minorly complicated for certain classes. Here's the format for ARCH
 
 ## Using the API
 
-Although the `JSON` files are themselves the API, `drexel-api` also provides a set of JavaScript query methods along with TypeScript declarations. The provided API allows for searching for classes, majors, and colleges by filters:
+The data itself is stored in JSON, which can be accessed in a number of ways. The most simple way to access the API is by using the node module, but other options are available.
+
+### Node.js and TypeScript
+
+Although the `JSON` file contains all of the data for the API, `drexel-api` also provides a set of JavaScript query methods along with TypeScript declarations. Install the API with 
+
+```
+npm install drexel-api
+```
+
+The provided API allows for searching for classes, majors, and colleges by filters:
+
 ```ts
-let cs171 = courseWith({ properName: "Computer Programming I" });
-let arch283 = courseWith({ codeName: "ARCH-283" });
+import Drexel from "drexel-api";
+
+let cs171 = Drexel.courseWith({ properName: "Computer Programming I" });
+let arch283 = Drexel.courseWith({ codeName: "ARCH-283" });
 
 let computerScience = cs171.major;
 let CCI = computerScience.college;
 
-let DGA = studentOrganizationWith({ name: "Drexel Gaming Association" });
+let DGA = Drexel.studentOrganizationWith({ name: "Drexel Gaming Association" });
 ```
+
+This of course only runs on the backend, like any node module. However, `drexel-api` can be run on the front end too. Simply download [the TypeScript file](https://raw.githubusercontent.com/NicholasIapalucci/drexel-api/main/src/index.ts) and [the JSON data](https://raw.githubusercontent.com/NicholasIapalucci/drexel-api/main/src/data/drexel.json) and place them in your project, and you will be able to import them like normal files. If you are not using TypeScript, you can download [the compiled JavaScript file](https://raw.githubusercontent.com/NicholasIapalucci/drexel-api/main/out/index.js) instead.
+
+### Other Uses
+
+The `drexel-api` is written in TypeScript, however the data itself is just a giant JSON file that can be read and parsed by any language. To access the data from another language, simply download [the JSON file](https://raw.githubusercontent.com/NicholasIapalucci/drexel-api/main/src/data/drexel.json) or link to it in your language of choice, and manage the data from there. 
