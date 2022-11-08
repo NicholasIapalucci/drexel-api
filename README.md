@@ -5,7 +5,7 @@
 The API provides the following information:
 
 - List of every college in Drexel
-    - The name of the major
+    - The name of the college
     - List of every major in the college
         - The name of the major
         - List of every course in the major
@@ -13,6 +13,11 @@ The API provides the following information:
             - The proper name of the course (such as Computer Programming I)
             - The amount of credits the course is worth
             - The prerequisites for the course
+    - List of every faculty member in in the college
+        - The name of the faculty member
+        - The email of the faculty member
+        - The title of the faculty member
+        - The phone number of the faculty member
 - List of every student organization in Drexel
     - The name of the student organization
     - The description of the student organization

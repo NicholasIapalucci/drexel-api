@@ -5702,7 +5702,7 @@
                         },
                         {
                             "codeName": "FMST-271",
-                            "properName": "Sex in Film: Beyond Hollywood\u2019s Gaze",
+                            "properName": "Sex in Film: Beyond Hollywood's Gaze",
                             "credits": 3,
                             "majorName": "Film Studies",
                             "prerequisites": []
@@ -5999,7 +5999,7 @@
                         },
                         {
                             "codeName": "GMAP-360",
-                            "properName": "Game Design from the Player\u2019s Perspective",
+                            "properName": "Game Design from the Player's Perspective",
                             "credits": 3,
                             "majorName": "Game Art and Production",
                             "prerequisites": []
@@ -12600,7 +12600,7 @@
                         },
                         {
                             "codeName": "BIO-120",
-                            "properName": "Phage Phinder\u2019s Research",
+                            "properName": "Phage Phinder's Research",
                             "credits": 1,
                             "majorName": "Bioscience & Biotechnology",
                             "prerequisites": []
@@ -28342,7 +28342,7 @@
                         },
                         {
                             "codeName": "WRIT-250",
-                            "properName": "\u201cMistakes Were Made\u201d: Truth, Writing, and Responsibility",
+                            "properName": "'cMistakes Were Made'd: Truth, Writing, and Responsibility",
                             "credits": 3,
                             "majorName": "Writing",
                             "prerequisites": [
@@ -28601,7 +28601,7 @@
                         },
                         {
                             "codeName": "WRIT-320",
-                            "properName": "Publishing Veterans\u2019 Memoirs for the Library of Congress",
+                            "properName": "Publishing Veterans' Memoirs for the Library of Congress",
                             "credits": 3,
                             "majorName": "Writing",
                             "prerequisites": []
@@ -28730,6 +28730,3547 @@
                             "prerequisites": []
                         }
                     ]
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "Malik Abdul-Jabbaar",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "ma3257@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Lloyd Ackert",
+                    "titles": [
+                        "Teaching Professor of History"
+                    ],
+                    "email": "lta24@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Elizabeth Adams-Eilers",
+                    "titles": [
+                        "Adjunct Assistant Professor"
+                    ],
+                    "email": "eja32@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Anthony W. Addison",
+                    "titles": [
+                        "Professor Emeritus",
+                        "Department of Chemistry"
+                    ],
+                    "email": "addisona@drexel.edu",
+                    "interests": "Inorganic and Biophysical Chemistry: Molecular architecture of oxygen-binding and electron transfer metalloproteins; synthesis and chemistry of biomimetic inorganic complexes; electrochemistry of small molecules, electron spin resonance spectroscopy of copper(II) compounds, spectroscopy of metalloproteins."
+                },
+                {
+                    "name": "Ali Afify",
+                    "titles": [
+                        "Assistant Professor"
+                    ],
+                    "email": "aa4686@drexel.edu",
+                    "interests": "Insect olfaction; Sensory Neurobiology; Mosquito oviposition; Malaria"
+                },
+                {
+                    "name": "Young-Hoon Ahn",
+                    "titles": [
+                        "Associate Professor"
+                    ],
+                    "email": "ya426@drexel.edu",
+                    "interests": "Chemical Biology; Cysteine Proteomics; Redox Signaling; Glutathione; and Post-translational Modifications."
+                },
+                {
+                    "name": "Stacey E. Ake",
+                    "titles": [
+                        "Director, Health and Medical Humanities Certificate Program",
+                        "Teaching Professor of Philosophy"
+                    ],
+                    "email": "sea29@drexel.edu",
+                    "interests": "Ethics, Semiotics, Existentialism"
+                },
+                {
+                    "name": "Peter Amato",
+                    "titles": [
+                        "Director, Programs in Philosophy",
+                        "Teaching Professor of Philosophy"
+                    ],
+                    "email": "peterama@drexel.edu",
+                    "interests": "Ethics, Marxism, Continental Philosophy"
+                },
+                {
+                    "name": "David M. Ambrose",
+                    "titles": [
+                        "Associate Department Head",
+                        "Graduate Adviser",
+                        "Professor"
+                    ],
+                    "email": "dma68@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "John Andelfinger",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "jaa85@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Howard Anton",
+                    "titles": [
+                        "Professor Emeritus"
+                    ],
+                    "email": "unknown",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Jason S. Aran",
+                    "titles": [
+                        "Associate Department Head",
+                        "Associate Teaching Professor"
+                    ],
+                    "email": "jsa33@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Julieta Arancio",
+                    "titles": [
+                        "Postdoctoral researcher"
+                    ],
+                    "email": "jca88@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Loren Argabright",
+                    "titles": [
+                        "Professor Emeritus"
+                    ],
+                    "email": "unknown",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Dani Arigo",
+                    "titles": [
+                        "Affiliated Faculty"
+                    ],
+                    "email": "arigo@rowan.edu",
+                    "interests": "Understanding within-person relations between social perceptions; Physical activity engagement among midlife women with elevated risk for cardiovascular disease; Tailoring the social features of digital physical activity interventions to meet the needs of this population"
+                },
+                {
+                    "name": "Jan Armon",
+                    "titles": [
+                        "Associate Teaching Professor of English"
+                    ],
+                    "email": "jan.armon@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Valarie Arms",
+                    "titles": [
+                        "Professor Emeritus"
+                    ],
+                    "email": "armsvm@drexel.edu",
+                    "interests": "Rhetoric and Composition"
+                },
+                {
+                    "name": "Richard Astro",
+                    "titles": [
+                        "Provost Emeritus",
+                        "Distinguished Professor of English"
+                    ],
+                    "email": "astro@drexel.edu",
+                    "interests": "20th Century American Fiction, 18th Century British Poetry, Sports and Social Issues"
+                },
+                {
+                    "name": "Hasan Ayaz",
+                    "titles": [
+                        "Associate Professor, School of Biomedical Engineering, Science and Health Systems"
+                    ],
+                    "email": "hasan.ayaz@drexel.edu",
+                    "interests": "Neuroergonomics, Functional Neuroimaging, Biomedical Signal Processing, Neuroengineering, Functional Near Infrared spectroscopy (fNIRS), Electroencephalogram (EEG), Brain Computer Interfaces (BCI), Mobile Brain/Body Imaging (MoBI)"
+                },
+                {
+                    "name": "Jesse Ballenger",
+                    "titles": [
+                        "Associate Teaching Professor of Health Administration"
+                    ],
+                    "email": "jfb83@drexel.edu",
+                    "interests": "Healthcare, medicine and ethics; aging and neurodegenerative diseases; science and technology studies"
+                },
+                {
+                    "name": "Susan E. Bell",
+                    "titles": [
+                        "Professor of Sociology",
+                        "Affiliated Faculty, Urban Health Collaborative, Dornsife School of Public Health"
+                    ],
+                    "email": "susan.bell@drexel.edu",
+                    "interests": "Sociology of health and illness; global and transnational health; reproductive health, rights and justice; experience of illness; narrative; visual sociology"
+                },
+                {
+                    "name": "Joshua Benjamin",
+                    "titles": [
+                        "Adjunct Assistant Professor"
+                    ],
+                    "email": "jdb354@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Joseph Bentz",
+                    "titles": [
+                        "Professor Emeritus"
+                    ],
+                    "email": "bentzj@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Donald Bersoff",
+                    "titles": [
+                        "Professor Emeritus"
+                    ],
+                    "email": "Donald.Bersoff@drexel.edu",
+                    "interests": "Legal and ethical issues in mental health; developmental disabilities and education; ethics and the law"
+                },
+                {
+                    "name": "John Bethea",
+                    "titles": [
+                        "Professor"
+                    ],
+                    "email": "jrb445@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Kenneth Bingham",
+                    "titles": [
+                        "Teaching Professor of English"
+                    ],
+                    "email": "kenneth.bingham@drexel.edu",
+                    "interests": "Freshman Writing, Engineering Ethics, Literature of Baseball"
+                },
+                {
+                    "name": "Ronald Bishop",
+                    "titles": [
+                        "Professor of Communication"
+                    ],
+                    "email": "bishoprc@drexel.edu",
+                    "interests": "Investigative reporting, sports journalism, journalism history, journalism sourcing patterns, textual narrative and ideological analysis, cultural history of fame, media portrayals of marginalized groups."
+                },
+                {
+                    "name": "Jonah Blasiak",
+                    "titles": [
+                        "Associate Professor Tenure"
+                    ],
+                    "email": "jdb395@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Joan Blumberg",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "jwb28@drexel.edu",
+                    "interests": "Publishing, electronic publishing, publishing and communications, publishing and mass-media"
+                },
+                {
+                    "name": "Patricia Diane Bobo",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "pdb59@drexel.edu",
+                    "interests": "Inspiring ' she wants to impart in her students' the lifelong joy of learning; Committed ' she is committed to helping students expand their mathematical foundation; Caring ' she wants her students to know that she cares about every single one of them.  And she truly believes in the motto, 'cA Mind is a Terrible Thing to Waste.'d"
+                },
+                {
+                    "name": "Valerie Booth",
+                    "titles": [
+                        "Assistant Teaching Professor of English"
+                    ],
+                    "email": "vab42@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Monserrat Bores Mart'ednez",
+                    "titles": [
+                        "Coordinator of the Certificate in Spanish for Healthcare Professionals",
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "mb4238@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Octavio Borges-Delgado",
+                    "titles": [
+                        "Assistant Teaching Professor of Spanish"
+                    ],
+                    "email": "octavio.borges-delgado@drexel.edu",
+                    "interests": "Hispanic Caribbean literature and cultures, Latino/a studies, migration studies, Latin American diaspora, Critical race theory, Gender and sexuality in a global context"
+                },
+                {
+                    "name": "Shyamalendu Bose",
+                    "titles": [
+                        "Professor Emeritus",
+                        "Department of Physics"
+                    ],
+                    "email": "bose@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Robert P. Boyer",
+                    "titles": [
+                        "Professor Tenure"
+                    ],
+                    "email": "boyerrp@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Valerie Bracchi-Ricard",
+                    "titles": [
+                        "Assistant Research Professor"
+                    ],
+                    "email": "vcb33@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Raymond Brebach",
+                    "titles": [
+                        "Professor Emeritus"
+                    ],
+                    "email": "brebach@drexel.edu",
+                    "interests": "Modern British Fiction; The Novel; Textual Studies"
+                },
+                {
+                    "name": "Eric Brewe",
+                    "titles": [
+                        "Associate Professor of Physics and Science Education",
+                        "Teaching, Learning, and Curriculum",
+                        "CASTLE"
+                    ],
+                    "email": "eb573@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Cheri Brooks",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "cab469@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Eric Dorn Brose",
+                    "titles": [
+                        "Professor Emeritus"
+                    ],
+                    "email": "broseed@drexel.edu",
+                    "interests": "German &amp; European history"
+                },
+                {
+                    "name": "David S. Brown",
+                    "titles": [
+                        "Dean, College of Arts and Sciences",
+                        "Professor"
+                    ],
+                    "email": "dsb93@drexel.edu",
+                    "interests": "Democracy; Economic Development; International Political Economy; Inequality"
+                },
+                {
+                    "name": "Sharon Brubaker",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "brubaksm@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Robert Brulle",
+                    "titles": [
+                        "Professor Emeritus"
+                    ],
+                    "email": "unknown",
+                    "interests": "Environmental policy and politics, critical theory, marine risk, social movements, environmental sociology."
+                },
+                {
+                    "name": "Robert Busby",
+                    "titles": [
+                        "Professor Emeritus"
+                    ],
+                    "email": "unknown",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Amy Bush",
+                    "titles": [
+                        "Adjunct Associate Professor"
+                    ],
+                    "email": "asb48@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Meghan Butryn",
+                    "titles": [
+                        "Professor",
+                        "Associate Department Head"
+                    ],
+                    "email": "mlb34@drexel.edu",
+                    "interests": "Obesity prevention and treatment; Physical activity promotion; Lifestyle modification; Behavioral therapy; Cancer prevention"
+                },
+                {
+                    "name": "Evan Butts",
+                    "titles": [
+                        "Adjunct Assistant Professor"
+                    ],
+                    "email": "etb43@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "James Calkins",
+                    "titles": [
+                        "Professor Emeritus"
+                    ],
+                    "email": "unknown",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Fernando Carreon",
+                    "titles": [
+                        "Teaching Professor"
+                    ],
+                    "email": "fc382@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Jakeya Caruthers",
+                    "titles": [
+                        "Assistant Professor of English and Africana Studies"
+                    ],
+                    "email": "jc4568@drexel.edu",
+                    "interests": "Black Popular Culture, Literature, and Media Representation; Black Feminist Theory; Anti-Carceral Feminism; Art and Visual Culture; Black Memory and Nostalgia"
+                },
+                {
+                    "name": "Daniel Casey",
+                    "titles": [
+                        "Adjunct Associate Professor"
+                    ],
+                    "email": "caseydj@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Jacques Catudal",
+                    "titles": [
+                        "Associate Professor of Philosophy"
+                    ],
+                    "email": "cat@drexel.edu",
+                    "interests": "Ancient Philosophy, Aesthetics, Epistemology"
+                },
+                {
+                    "name": "Dorothy Charbonnier",
+                    "titles": [
+                        "Associate Teaching Professor"
+                    ],
+                    "email": "dorothy.r.charbonnier@drexel.edu",
+                    "interests": "Careers in Psychology, <em>I am Psyched!</em> at Drexel, Creative process, Writing, International education, Research methodology"
+                },
+                {
+                    "name": "Evangelia Chrysikou",
+                    "titles": [
+                        "Director, Applied Cognitive and Brain Sciences PhD program",
+                        "Associate Dean for Research",
+                        "Associate Professor"
+                    ],
+                    "email": "lilachrysikou@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Larry Cionca",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "ljc33@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Patrick Clarke",
+                    "titles": [
+                        "Associate Professor Tenure"
+                    ],
+                    "email": "pclarke@math.drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Rebecca A. Clothey",
+                    "titles": [
+                        "Interim Department Head, Global Studies and Modern Languages",
+                        "Associate Professor of Education"
+                    ],
+                    "email": "Rebecca.A.Clothey@drexel.edu",
+                    "interests": "Comparative and international education; Immigration and education; Non-formal schooling; Language and identity"
+                },
+                {
+                    "name": "Jessica Cohen",
+                    "titles": [
+                        "Associate Teaching Professor"
+                    ],
+                    "email": "jac595@drexel.edu",
+                    "interests": "Family demography"
+                },
+                {
+                    "name": "Paula Marantz Cohen",
+                    "titles": [
+                        "Dean of the Pennoni Honors College",
+                        "Distinguished Professor of English",
+                        "Co-Editor of the Journal of Modern Literature",
+                        "Host of The Civil Discourse"
+                    ],
+                    "email": "cohenpm@drexel.edu",
+                    "interests": "Nineteenth- and Early Twentieth-Century English and American Literature; Film Studies"
+                },
+                {
+                    "name": "Roman Colombo",
+                    "titles": [
+                        "Adjunct Assistant Professor"
+                    ],
+                    "email": "rnc39@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Brett Condon",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "bmc327@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Gregory Cooke",
+                    "titles": [
+                        "Adjunct Assistant Professor"
+                    ],
+                    "email": "gsc36@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Hazel Cooper-Watts",
+                    "titles": [
+                        "Adjunct Assistant Professor"
+                    ],
+                    "email": "hc72@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "John P. Coppola",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "jpc48@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Rose Corrigan",
+                    "titles": [
+                        "Associate Professor"
+                    ],
+                    "email": "rose.corrigan@drexel.edu",
+                    "interests": "Women and politics, public law, American politics and policy"
+                },
+                {
+                    "name": "Karen Cristiano",
+                    "titles": [
+                        "Assistant Department Head of Communication",
+                        "Teaching Professor of Communication"
+                    ],
+                    "email": "kc42@drexel.edu",
+                    "interests": "Journalism, medical writing, feature writing, copy editing, mass media and society."
+                },
+                {
+                    "name": "Luis Cruz Cruz",
+                    "titles": [
+                        "Associate Professor"
+                    ],
+                    "email": "ccruz@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Travis Curtice",
+                    "titles": [
+                        "Assistant Professor"
+                    ],
+                    "email": "tbc52@drexel.edu",
+                    "interests": "Policing; Conflict; Political Economy of Crime; Authoritarian Politics; Research Methods"
+                },
+                {
+                    "name": "Ingrid Daemmrich",
+                    "titles": [
+                        "Adjunct Professor"
+                    ],
+                    "email": "daemmrii@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Edward (Ted) Daeschler",
+                    "titles": [
+                        "Professor",
+                        "Curator and Chair of Vertebrate Zoology, Academy of Natural Sciences of Drexel University"
+                    ],
+                    "email": "ebd29@drexel.edu",
+                    "interests": "Vertebrate Paleontology; History of the Earth; Late Devonian fossil vertebrates; Origin of tetrapods; Fossil collecting; Museum curation"
+                },
+                {
+                    "name": "Brian P. Daly",
+                    "titles": [
+                        "Department Head",
+                        "Associate Professor"
+                    ],
+                    "email": "brian.daly@drexel.edu",
+                    "interests": "School mental health; Mental health promotion; Socioemotional learning (SEL); Evidence-based practice\nTrauma; Risk and resilience; Child and adolescent intervention"
+                },
+                {
+                    "name": "Blythe Davenport",
+                    "titles": [
+                        "Adjunct Assistant Professor"
+                    ],
+                    "email": "bed29@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "David DeMatteo",
+                    "titles": [
+                        "Director, JD/PhD Program in Law and Psychology",
+                        "Professor"
+                    ],
+                    "email": "David.DeMatteo@drexel.edu",
+                    "interests": "Psychopathy, forensic psychology, forensic mental health assessment, testing in forensic assessment contexts, and drug policy research"
+                },
+                {
+                    "name": "Patrick Denehy",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "pmd54@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Kathryn A. Dettmer",
+                    "titles": [
+                        "Adjunct Instructor of French",
+                        "Adjunct Representitive to Faculty Senate"
+                    ],
+                    "email": "kad46@drexel.edu",
+                    "interests": "Language education; translation; Czech; universal design for teaching"
+                },
+                {
+                    "name": "Kathryn Devlin",
+                    "titles": [
+                        "Assistant Research Professor"
+                    ],
+                    "email": "knd52@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Ashley Dickinson",
+                    "titles": [
+                        "Associate Teaching Professor"
+                    ],
+                    "email": "ald393@drexel.edu",
+                    "interests": "Corrections, offender rehabilitation, offender classification, risk management, gender and crime"
+                },
+                {
+                    "name": "Richardson Dilworth",
+                    "titles": [
+                        "Department Head, Department of Politics",
+                        "Professor"
+                    ],
+                    "email": "dilworth@drexel.edu",
+                    "interests": "American political development, urban politics, public policy"
+                },
+                {
+                    "name": "Lisa DiMaio",
+                    "titles": [
+                        "Teaching Professor of English"
+                    ],
+                    "email": "dimaiola@drexel.edu",
+                    "interests": "English as a Second Language"
+                },
+                {
+                    "name": "N. John DiNardo",
+                    "titles": [
+                        "Professor"
+                    ],
+                    "email": "dinardoj@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Michelle Dolinski",
+                    "titles": [
+                        "Associate Dean of Graduate Education",
+                        "Associate Professor"
+                    ],
+                    "email": "dolinski@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Steve V'e1squez Dolph",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "sd3366@drexel.edu",
+                    "interests": "Early modern cultural production; ecology and representation; history and sociology of science; historical bibliography; politics and poetics of translation"
+                },
+                {
+                    "name": "Robert D'Ovidio",
+                    "titles": [
+                        "Associate Professor of Criminology and Justice Studies"
+                    ],
+                    "email": "robert.dovidio@drexel.edu",
+                    "interests": "The intersection of computer technology, crime and the criminal justice system."
+                },
+                {
+                    "name": "Dan Driscoll",
+                    "titles": [
+                        "Co-Director, University Writing Program",
+                        "Co-Director, Minor in Writing",
+                        "Teaching Professor of English"
+                    ],
+                    "email": "dwd27@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Laura Duwel",
+                    "titles": [
+                        "Assistant Department Head, Teaching Professor"
+                    ],
+                    "email": "l.duwel@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Brenda Dyer",
+                    "titles": [
+                        "Director of Modern Languages",
+                        "Associate Teaching Professor of French",
+                        "Contact for French Study Abroad Course Approvals"
+                    ],
+                    "email": "bad24@drexel.edu",
+                    "interests": "Language acquisition pedagogy, teaching writing, seventeenth and eighteenth century French literature, women writers, translation."
+                },
+                {
+                    "name": "Mary Ebeling",
+                    "titles": [
+                        "Associate Professor of Sociology",
+                        "Graduate Faculty Member, Communication, Culture & Media"
+                    ],
+                    "email": "mfe@drexel.edu",
+                    "interests": "Sociology of science and technology, data brokers and big data, healthcare privacy, marketing communication, medicine, health, knowledge and power in late capital, the production of value and alternatives, anarchism and democratic potentials of artist-run spaces, collectives and feminist methodologies"
+                },
+                {
+                    "name": "Patricia Egbert",
+                    "titles": [
+                        "Assistant Professor"
+                    ],
+                    "email": "egbert@drexel.edu",
+                    "interests": "English; \nWriting;\nPedagogy; \nLearning Communities; \nSTEM writing support"
+                },
+                {
+                    "name": "Felice Elefant",
+                    "titles": [
+                        "Professor, Director of the Biology Graduate Program"
+                    ],
+                    "email": "fe22@drexel.edu",
+                    "interests": "My research program is focused on understanding epigenetic mechanisms that govern higher order brain function via chromatin packaging in neurons."
+                },
+                {
+                    "name": "Valerie Ellis",
+                    "titles": [
+                        "Adjunct Assistant Professor"
+                    ],
+                    "email": "ve36@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Anne Erickson",
+                    "titles": [
+                        "Assistant Teaching Professor of English"
+                    ],
+                    "email": "ake25@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Brian Erickson",
+                    "titles": [
+                        "Research Assistant Professor"
+                    ],
+                    "email": "bae25@drexel.edu",
+                    "interests": "Closed-loop Brain Stimulation; Electroencephalography EEG; Transcranial Magnetic Stimulation TMS; Attention; Signal processing; Network Neuroscience; Cognitive Enhancement"
+                },
+                {
+                    "name": "Nomi Eve",
+                    "titles": [
+                        "Director, MFA in Creative Writing",
+                        "Assistant Professor"
+                    ],
+                    "email": "nae28@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Aaron T. Fafarman",
+                    "titles": [
+                        "Associate Professor, Department of Chemical & Biological Engineering"
+                    ],
+                    "email": "fafarman@drexel.edu",
+                    "interests": "Nanocrystal synthesis and surface chemistry. Self- and directed-assembly of nanocrystal solids for use as energy conversion materials. Ultra-fast and steady state spectroscopy to study the behavior of electrons in semiconductor nanocrystals."
+                },
+                {
+                    "name": "Daryl L. Falco",
+                    "titles": [
+                        "Associate Teaching Professor"
+                    ],
+                    "email": "dlf25@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Reza Farasat",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "rf485@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Raymond J. Favocci",
+                    "titles": [
+                        "Associate Teaching Professor"
+                    ],
+                    "email": "rjf23@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Frank A. Ferrone",
+                    "titles": [
+                        "Professor"
+                    ],
+                    "email": "fferrone@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Robert Finegan",
+                    "titles": [
+                        "Associate Teaching Professor of English"
+                    ],
+                    "email": "fineganr@drexel.edu",
+                    "interests": "Freshman Writing; Technical and Creative Writing"
+                },
+                {
+                    "name": "Leonard Finegold",
+                    "titles": [
+                        "Professor Emeritus, Department of Physics"
+                    ],
+                    "email": "leonard.x.finegold@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Timothy Fitts",
+                    "titles": [
+                        "Adjunct Assistant Professor"
+                    ],
+                    "email": "tmf53@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Fraser Fleming",
+                    "titles": [
+                        "Professor"
+                    ],
+                    "email": "fraser.f.fleming@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Eric Fleming",
+                    "titles": [
+                        "Adjunct Assistant Professor"
+                    ],
+                    "email": "eff27@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Joe P. Foley",
+                    "titles": [
+                        "Professor",
+                        "Department Head"
+                    ],
+                    "email": "jfoley@drexel.edu",
+                    "interests": "Separation science and analytical chemistry, with an emphasis on the fundamentals and applications of pressure- or voltage-driven liquid-phase separation techniques including ultra-high pressure liquid chromatography and capillary electrophoresis."
+                },
+                {
+                    "name": "Evan Forman",
+                    "titles": [
+                        "Professor"
+                    ],
+                    "email": "evan.forman@drexel.edu",
+                    "interests": "Health behavior change, obesity, weight loss; Technological innovations to promote health behavior change; Innovations in cognitive-behavioral treatments; The development and evaluation of acceptance-based interventions for health behavior change; Neurocognition of eating"
+                },
+                {
+                    "name": "Richard Forney",
+                    "titles": [
+                        "Assistant Teaching Professor of Communication"
+                    ],
+                    "email": "rjf39@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Valerie Fox",
+                    "titles": [
+                        "Teaching Professor of English",
+                        "Founding Editor, Press 1"
+                    ],
+                    "email": "valerie.fox@drexel.edu",
+                    "interests": "Twentieth Century Drama; Modern and Contemporary American Poetry; Freshman Writing"
+                },
+                {
+                    "name": "Robin Fradkin",
+                    "titles": [
+                        "Adjunct Assistant Professor"
+                    ],
+                    "email": "rlf27@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Judith Franklin",
+                    "titles": [
+                        "Adjunct Assistant Professor"
+                    ],
+                    "email": "jef32@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Alexander Friedlander",
+                    "titles": [
+                        "Associate Professor Emeritus of Rhetoric and Communication"
+                    ],
+                    "email": "sandy@drexel.edu",
+                    "interests": "Rhetorical theory and practice, document design, writing and technology."
+                },
+                {
+                    "name": "Edward Fristrom",
+                    "titles": [
+                        "Co-Director, Certificate Program in Medical Humanities",
+                        "Associate Teaching Professor of English"
+                    ],
+                    "email": "ecf35@drexel.edu",
+                    "interests": "Writing Studies; Medical Memoir; Environmental Literature and Rhetoric"
+                },
+                {
+                    "name": "Denise Garcia",
+                    "titles": [
+                        "Associate Professor"
+                    ],
+                    "email": "adg82@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Jon Gelhaus",
+                    "titles": [
+                        "Curator and Department Chair, Entomology Department, Academy of Natural Sciences"
+                    ],
+                    "email": "jkg78@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Pamela Geller",
+                    "titles": [
+                        "Director, Clinical Training",
+                        "Associate Professor, Ob/Gyn and Public Health"
+                    ],
+                    "email": "pg27@drexel.edu",
+                    "interests": "Clinical and health psychology; Stressful life events and mental and physical health outcomes particularly in the area of women's reproductive health"
+                },
+                {
+                    "name": "Maureen Gibney",
+                    "titles": [
+                        "Teaching Professor"
+                    ],
+                    "email": "mg65@drexel.edu",
+                    "interests": "Ethical issues in clinical and social care; Mental health across the lifespan; Narrative psychology"
+                },
+                {
+                    "name": "Tali Gidalevitz",
+                    "titles": [
+                        "Associate Professor"
+                    ],
+                    "email": "Tali.gidalevitz@drexel.edu",
+                    "interests": "My lab aims to understand the mechanisms that maintain healthy protein folding environment in the cell, and how they fail in neurodegenerative diseases and aging. We use genetic and live imaging approaches in a genetically tractable organism, C. elegans, as discovery tools, and apply the findings to mammalian systems."
+                },
+                {
+                    "name": "Robert Gilmore",
+                    "titles": [
+                        "Professor Emeritus, Department of Physics"
+                    ],
+                    "email": "robert.gilmore@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "William Goh",
+                    "titles": [
+                        "Associate Professor Emeritus"
+                    ],
+                    "email": "unknown",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "David Goldberg",
+                    "titles": [
+                        "Associate Department Head for Undergraduate Studies",
+                        "Professor"
+                    ],
+                    "email": "goldberg@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Jesse Goldman",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "jg3845@drexel.edu",
+                    "interests": "Neutrinos, Cosmology, Muons, Cosmic Rays"
+                },
+                {
+                    "name": "Naomi E. Goldstein",
+                    "titles": [
+                        "Co-director of the JD/PhD Program in Law and Psychology",
+                        "Director of the Juvenile Justice Research and Reform Lab",
+                        "Professor"
+                    ],
+                    "email": "neg23@drexel.edu",
+                    "interests": "Juvenile justice system reform; using social science research to improve juvenile justice policy and practice; addressing inequality and promoting equity in the justice system; psychology, criminal justice, and law; forensic psychology"
+                },
+                {
+                    "name": "Paul Gondek",
+                    "titles": [
+                        "Adjunct Teaching Professor (Psychology), Visiting Research Professor (Chemistry)"
+                    ],
+                    "email": "paul.c.gondek@drexel.edu",
+                    "interests": "Social psychology of social issues; team and group dynamics; caregiver/patient interactions; Science of Team Science; PTSD; the impact of culture on social processes"
+                },
+                {
+                    "name": "Mary Katherine Gonder",
+                    "titles": [
+                        "Department Head",
+                        "Director, Bioko Biodiversity Protection Program",
+                        "Co-Founder, Central African Biodiversity Alliance",
+                        "Professor"
+                    ],
+                    "email": "mkg62@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Cecilie Goodrich",
+                    "titles": [
+                        "Professor Emeritus"
+                    ],
+                    "email": "Goodricc@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "June K. Gordon",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "jkg29@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Darij Grinberg",
+                    "titles": [
+                        "Assistant Professor"
+                    ],
+                    "email": "darij.grinberg@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Pavel Grinfeld",
+                    "titles": [
+                        "Associate Professor Tenure"
+                    ],
+                    "email": "pg77@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Anatolii Grinshpan",
+                    "titles": [
+                        "Associate Teaching Professor"
+                    ],
+                    "email": "ag465@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Meg K. Guliford",
+                    "titles": [
+                        "Assistant Professor"
+                    ],
+                    "email": "meg.guliford@drexel.edu",
+                    "interests": "Political violence; Conflict Processes; Foreign Policy; Sports and Politics; Descriptive Research"
+                },
+                {
+                    "name": "Yixin Guo",
+                    "titles": [
+                        "Associate Professor Tenure"
+                    ],
+                    "email": "yixin@math.drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Susan Gurney",
+                    "titles": [
+                        "Associate Teaching Professor"
+                    ],
+                    "email": "smg366@drexel.edu",
+                    "interests": "Evolutionary genetics (humans and equids), stem cell biology, forensic science"
+                },
+                {
+                    "name": "Charlotte J. Hagerman",
+                    "titles": [
+                        "Assistant Research Professor"
+                    ],
+                    "email": "cjh427@drexel.edu",
+                    "interests": "Obesity; behavioral weight loss treatment; health information avoidance; goal achievement; motivation; self-compassion"
+                },
+                {
+                    "name": "Ernest Hakanen",
+                    "titles": [
+                        "Director, Graduate Programs in Communication, Culture & Media",
+                        "Professor of Communication",
+                        "Graduate Faculty Member, Communication, Culture & Media",
+                        "Editor, Explorations in Media Ecology: The Journal of the Media Ecology Association"
+                    ],
+                    "email": "eah22@drexel.edu",
+                    "interests": "Communication history, media theory, emotions and technology, semiotics"
+                },
+                {
+                    "name": "Keunah Han",
+                    "titles": [
+                        "Associate Teaching Professor of English"
+                    ],
+                    "email": "kh529@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Nathan Hanna",
+                    "titles": [
+                        "Assistant Department Head",
+                        "Associate Professor of Philosophy"
+                    ],
+                    "email": "nth34@drexel.edu",
+                    "interests": "Ethics, Philosophy of Law, Political Philosophy"
+                },
+                {
+                    "name": "R. Scott Hanson",
+                    "titles": [
+                        "Senior Scholar in Urban History and Material Culture",
+                        "Drexel University Lenfest Center for Cultural Partnerships"
+                    ],
+                    "email": "rsh65@drexel.edu",
+                    "interests": "Urban history; Immigration; Religion; Civil Rights; Public History"
+                },
+                {
+                    "name": "Richard Haracz",
+                    "titles": [
+                        "Professor Emeritus, Department of Physics"
+                    ],
+                    "email": "haraczrd@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Donald Harrison",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "dmh363@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Charles Haub",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "clh54@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Kirk Heilbrun",
+                    "titles": [
+                        "Professor"
+                    ],
+                    "email": "kirk.heilbrun@drexel.edu",
+                    "interests": "Forensic mental health assessment; Violence risk assessment; Risk management; Interventions to reduce risk"
+                },
+                {
+                    "name": "Ruthanna Henley",
+                    "titles": [
+                        "Adjunct Assistant Professor"
+                    ],
+                    "email": "rlh29@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "R. Andrew Hicks",
+                    "titles": [
+                        "Professor",
+                        "Undergraduate advisor"
+                    ],
+                    "email": "rah29@drexel.edu",
+                    "interests": "Manifold; Geometric optics; Robotics; Inverse problems; Optical design; Blind spot"
+                },
+                {
+                    "name": "Nagehan Hill",
+                    "titles": [
+                        "Adjunct Assistant Professor"
+                    ],
+                    "email": "nh378@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Cassandra Hirsch",
+                    "titles": [
+                        "Associate Teaching Professor"
+                    ],
+                    "email": "cjh72@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Pawel Hitczenko",
+                    "titles": [
+                        "Professor Tenure"
+                    ],
+                    "email": "phitczenko@math.drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Lee Hoffman",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "lwh28@drexel.edu",
+                    "interests": "Interfacial studies on the self-assembly of natural organic materials, Dendrimer/metal nanocomposite design and synthesis hosting metal nanoparticles, surface and interfacial science applications"
+                },
+                {
+                    "name": "Christina Hopkins",
+                    "titles": [
+                        "Postdoctoral Research Fellow, WELL Center"
+                    ],
+                    "email": "cmh346@drexel.edu",
+                    "interests": "Acceptance- and mindfulness-based practice; Trauma-informed principles; Digital tools to increase access to psychotherapies"
+                },
+                {
+                    "name": "Barbara Hornum",
+                    "titles": [
+                        "Director, Religious Studies Program",
+                        "Founding Director, Center of Academic Excellence",
+                        "Associate Professor Emerita"
+                    ],
+                    "email": "hornumbg@drexel.edu",
+                    "interests": "Comparative gerontology, planned communities, continuing care communities, retirement, faculty development"
+                },
+                {
+                    "name": "Sarah Hosman",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "ssh72@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Frederick House",
+                    "titles": [
+                        "Professor Emeritus, Department of Physics"
+                    ],
+                    "email": "house@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Xiaorui Huang",
+                    "titles": [
+                        "Assistant Professor"
+                    ],
+                    "email": "Xiaorui.Huang@drexel.edu",
+                    "interests": "Environmental Sociology; Human Drivers of Climate Change; Global Political Economy; Quantitative Longitudinal Analysis"
+                },
+                {
+                    "name": "Christian Hunold",
+                    "titles": [
+                        "Associate Dean for Faculty Advancement",
+                        "Professor"
+                    ],
+                    "email": "hunoldc@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Meshagae Hunte-Brown",
+                    "titles": [
+                        "Teaching Professor"
+                    ],
+                    "email": "meh27@drexel.edu",
+                    "interests": "Stream Ecology, Food Webs"
+                },
+                {
+                    "name": "Jordan Hyatt",
+                    "titles": [
+                        "Director, Center for Public Policy",
+                        "Associate Professor"
+                    ],
+                    "email": "jmh498@drexel.edu",
+                    "interests": "Corrections, Re-entry and Community Supervision; Comparative and International Penology; Drug Treatment and Drug Use; \nCommunity Violence Reduction; Prison Climate, Oversight and Reform; Financial Sanctions; Scandinavian Correctional Policy; Sentencing; Experimental and Field Research"
+                },
+                {
+                    "name": "Monica Ilies",
+                    "titles": [
+                        "Associate Teaching Professor"
+                    ],
+                    "email": "monica.ilies@drexel.edu",
+                    "interests": "Structure- and fragment-based drug design. Structural characteristics and in vivo roles of metalloproteins"
+                },
+                {
+                    "name": "Henry Israeli",
+                    "titles": [
+                        "Associate Teaching Professor of English",
+                        "Director, Drexel Writing Festival",
+                        "Director, Jewish Studies"
+                    ],
+                    "email": "hpi22@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Shannon Jacobsen",
+                    "titles": [
+                        "Assistant Professor"
+                    ],
+                    "email": "shannon.k.jacobsen@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Sonali Jain",
+                    "titles": [
+                        "Associate Teaching Professor"
+                    ],
+                    "email": "sj952@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Alexander Jenkins",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "arj28@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Hai-Feng (Frank) Ji",
+                    "titles": [
+                        "Professor",
+                        "Affiliated faculty member of College of Engineering, Department of Materials Science and Engineering"
+                    ],
+                    "email": "hj56@drexel.edu",
+                    "interests": "Organic and Polymer Chemistry; Drug discovery; Biofilm; Phosphorus-based nanomaterials; Plasma chemistry and it's medical applications"
+                },
+                {
+                    "name": "Kelly Joyce",
+                    "titles": [
+                        "Professor of Sociology"
+                    ],
+                    "email": "kaj68@drexel.edu",
+                    "interests": "Political, cultural and organizational dimensions of clinical medicine, social dimensions of technological innovation, and technology, science and aging"
+                },
+                {
+                    "name": "Adrienne Juarascio",
+                    "titles": [
+                        "Director, Practicum Training",
+                        "Assistant Professor"
+                    ],
+                    "email": "asj32@drexel.edu",
+                    "interests": "Treatment development and Evaluation for Eating Disorders, Acceptance-based Behavioral Treatments, Using Technology to Augment Behavioral Treatment Approaches"
+                },
+                {
+                    "name": "Sunmi Jung Oh",
+                    "titles": [
+                        "Assistant Teaching Professor",
+                        "Contact for Korean Study Abroad Course Approvals"
+                    ],
+                    "email": "sjo35@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Robert J. Kane",
+                    "titles": [
+                        "Department Head, Professor"
+                    ],
+                    "email": "rjk72@drexel.edu",
+                    "interests": "Police authority and accountability, urban ecology and sociology, violence and public health, police strategies and practices"
+                },
+                {
+                    "name": "Goran Karapetrov",
+                    "titles": [
+                        "Professor"
+                    ],
+                    "email": "goran@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Kirsten Kaschock",
+                    "titles": [
+                        "Associate Teaching Professor of English"
+                    ],
+                    "email": "kjk42@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Kristy Kelly",
+                    "titles": [
+                        "AffiliatedAssistant Clinical Professor, School of Education"
+                    ],
+                    "email": "kek72@drexel.edu",
+                    "interests": "Politics of knowledge, Gender and education, Women and educational leadership, Feminist pedagogies, Gender mainstreaming, Transnational feminisms, Intersectionality, Training and adult education, Gender policy, Race/class/gender/sexuality, Vietnam and Southeast Asia"
+                },
+                {
+                    "name": "Alison Kenner",
+                    "titles": [
+                        "Associate Professor"
+                    ],
+                    "email": "amk438@drexel.edu",
+                    "interests": "<span dir=\"ltr\">Science, technology, and medicine, environmental health, cities and place, feminist theory, medical anthropology, experimental ethnography</span>"
+                },
+                {
+                    "name": "Boris L. Kheyfets",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "blk24@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Marlin Killen",
+                    "titles": [
+                        "Teaching Professor",
+                        "Faculty Coordinator of Online Education in Psychology",
+                        "Faculty Fellow"
+                    ],
+                    "email": "Marlin.Killen@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Nahyun Kim",
+                    "titles": [
+                        "Assistant Professor"
+                    ],
+                    "email": "nk865@drexel.edu",
+                    "interests": "Public Relations; Corporate Social Responsibility; Corporate Social Advocacy; Crisis Communication; Emotion in Persuasive Communication"
+                },
+                {
+                    "name": "Elizabeth Kimball",
+                    "titles": [
+                        "Director, University Writing Program",
+                        "Assistant Professor"
+                    ],
+                    "email": "elizabeth.kimball@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Daniel King",
+                    "titles": [
+                        "Associate Professor",
+                        "Associate Department Head"
+                    ],
+                    "email": "daniel.king@drexel.edu",
+                    "interests": "Assessment of the use and effectiveness of personal response devices and online course videos; Development of inquiry-based (POGIL) activities that use environmental context to teach chemistry content; Assessment of active learning methods and technology in chemistry courses; Incorporation of environmental data into chemistry classroom modules; Development of hands-on activities and laboratory experiments; General chemistry, environmental chemistry and everyday chemistry."
+                },
+                {
+                    "name": "Erica Kleckner",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "ek463@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Steven Kleinman",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "sdk57@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Andrew J. Klimas",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "ak4389@drexel.edu",
+                    "interests": "mathematics"
+                },
+                {
+                    "name": "Caitlin Klimas",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "ck985@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Emmanuel Koku",
+                    "titles": [
+                        "Interim Department Head",
+                        "Associate Professor of Sociology",
+                        "Graduate Faculty Member, Communication, Culture & Media"
+                    ],
+                    "email": "emmanuelkoku@drexel.edu",
+                    "interests": "Social Network Analysis, Qualitative/Quantitative Research, Medical Sociology, Social Epidemiology, Social Demography, Sociology of Development, Communication and Information Technology"
+                },
+                {
+                    "name": "Miriam Kotzin",
+                    "titles": [
+                        "Founding Editor, Per Contra",
+                        "Professor of English"
+                    ],
+                    "email": "kotzinmn@drexel.edu",
+                    "interests": "American Literature; Genre Studies; Creative Writing; Communications"
+                },
+                {
+                    "name": "Parfait Kouacou",
+                    "titles": [
+                        "Assistant Teaching Professor, Global Studies and Modern Languages"
+                    ],
+                    "email": "pk595@drexel.edu",
+                    "interests": "Postcolonial Francophone African Literature, Human Rights Critical Theories, Childhood Studies, Oral Literature"
+                },
+                {
+                    "name": "John Kounios",
+                    "titles": [
+                        "Applied Cognitive and Brain Sciences PhD program",
+                        "Professor"
+                    ],
+                    "email": "jk342@drexel.edu",
+                    "interests": "Cognitive psychology/cognitive neuroscience, focusing on human memory, problem solving, intelligence, and creativity; Specialization in electrophysiological methods (EEG, ERP), and other behavioral and neuroimaging methods (e.g., fMRI)"
+                },
+                {
+                    "name": "Hiromi Koyama",
+                    "titles": [
+                        "Instructor",
+                        "Contact for Japanese Study Abroad Course Approvals"
+                    ],
+                    "email": "hiromi.koyama@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Rachael Kratzer",
+                    "titles": [
+                        "Associate Teaching Professor"
+                    ],
+                    "email": "kratzer@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Danielle Kreeger",
+                    "titles": [
+                        "Research Associate Professor, Department of Biodiversity, Earth & Environmental Science"
+                    ],
+                    "email": "dak29@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Susanne Kriete",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "sbk54@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Aaron Kucyi",
+                    "titles": [
+                        "Assistant Professor"
+                    ],
+                    "email": "aaron.kucyi@drexel.edu",
+                    "interests": "Brain networks; Mental health; Spontaneous thought; Attention; Experience sampling; fMRI; Intracranial EEG"
+                },
+                {
+                    "name": "Naoko Kurahashi Neilson",
+                    "titles": [
+                        "Associate Professor"
+                    ],
+                    "email": "naoko@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Roger Kurtz",
+                    "titles": [
+                        "Department Head, Professor of English"
+                    ],
+                    "email": "jrk353@drexel.edu",
+                    "interests": "Postcolonial and World Literatures, African Literature and Culture, Trauma Theory"
+                },
+                {
+                    "name": "David Kutzik",
+                    "titles": [
+                        "Professor Emeritus",
+                        "Graduate Faculty Member, Communication, Culture & Media"
+                    ],
+                    "email": "kutzikdm@drexel.edu",
+                    "interests": "Social and cultural theory; political economy; gerontology; materialisms; semiotic realisms; activity theory; reflection theories; communities of practice and labor theories of culture."
+                },
+                {
+                    "name": "Jeffrey LaComb",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "jml622@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Erica LaFata",
+                    "titles": [
+                        "Assistant Research Professor"
+                    ],
+                    "email": "es3344@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Christopher Laincz",
+                    "titles": [
+                        "AffiliatedAssociate Professor, School of Economics, LeBow College of Business"
+                    ],
+                    "email": "claincz@drexel.edu",
+                    "interests": "Economic development, technological change, growth, industrial organization, macroeconomics and monetary economics"
+                },
+                {
+                    "name": "Craig Laird",
+                    "titles": [
+                        "Adjunct Associate Professor"
+                    ],
+                    "email": "cel52@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Leo W. Lampone",
+                    "titles": [
+                        "Adjunct Professor"
+                    ],
+                    "email": "lwl22@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Jacqueline Landau",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "jl439@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Charles E. Lane",
+                    "titles": [
+                        "Professor"
+                    ],
+                    "email": "charles.e.lane@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Donald Larson",
+                    "titles": [
+                        "Professor Emeritus, Department of Physics"
+                    ],
+                    "email": "donlarson@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Sally Lawton",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "sl3784@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Myungwoon Lee",
+                    "titles": [
+                        "Assistant Professor"
+                    ],
+                    "email": "ml3784@drexel.edu",
+                    "interests": "Neurodegenerative protein aggregation;\n\nMembrane associated amyloid fibrils;\n\nMolecular structures, dynamics, and intermolecular interactions of biological macro molecules; \n\nSolid-state NMR and Cryo-electron microscopy (Cryo-EM)"
+                },
+                {
+                    "name": "Hyunmin 'cMin'd Lee",
+                    "titles": [
+                        "Director of Undergraduate Programs in Communication",
+                        "Associate Professor",
+                        "Graduate Faculty Member, Communication, Culture & Media"
+                    ],
+                    "email": "hl586@drexel.edu",
+                    "interests": "Social media effects on organizational relationship and reputation management; media representation of public health issues; health message design effects; communication theory and research methods."
+                },
+                {
+                    "name": "Nancy Raitano Lee",
+                    "titles": [
+                        "Associate Professor"
+                    ],
+                    "email": "nancy.raitano.lee@drexel.edu",
+                    "interests": "Neuropsychological and neuroanatomic correlates of intellectual and developmental disabilities; Language, reading, and executive function in Down syndrome and other genetic disorders; Comorbid autism spectrum disorder symptoms in youth with genetic disorders; Neuroanatomic correlates of individual differences in typical and atypical cognition"
+                },
+                {
+                    "name": "Kari Lenhart",
+                    "titles": [
+                        "Assistant Professor"
+                    ],
+                    "email": "kari.f.lenhart@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Lynn Levin",
+                    "titles": [
+                        "Adjunct Associate Professor"
+                    ],
+                    "email": "lel22@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Teck Kah Lim",
+                    "titles": [
+                        "Professor Emeritus, Department of Physics"
+                    ],
+                    "email": "limtk@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Ronald Little",
+                    "titles": [
+                        "Adjunct Assistant Professor"
+                    ],
+                    "email": "ral29@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Tatyana Livshultz",
+                    "titles": [
+                        "Associate Professor, Department of Biodiversity, Earth & Environmental Science Assistant Curator of Botany, ANS"
+                    ],
+                    "email": "tl534@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Robert Loudon",
+                    "titles": [
+                        "Associate Teaching Professor"
+                    ],
+                    "email": "rpl25@drexel.edu",
+                    "interests": "Rho GTPases, regulation of actin cytoskeleton, regulation of G protein-coupled receptors by receptor kinases and arrestins"
+                },
+                {
+                    "name": "Christina Love",
+                    "titles": [
+                        "Associate Teaching Professor",
+                        "Director, Start Talking Science"
+                    ],
+                    "email": "love@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Michael R. Lowe",
+                    "titles": [
+                        "Professor"
+                    ],
+                    "email": "lowe@drexel.edu",
+                    "interests": "Restrained eating; dieting; obesity; eating disorders; weight suppression; set point; hedonic hunger"
+                },
+                {
+                    "name": "Jamie Ludwig",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "jll449@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "John G. Lundberg",
+                    "titles": [
+                        "Professor Emeritus, Department of Biodiversity, Earth & Environmental Science",
+                        "Curator Emeritus, ANS"
+                    ],
+                    "email": "jgl43@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Brent Luvaas",
+                    "titles": [
+                        "Associate Professor",
+                        "Graduate Faculty Member, Communication, Culture & Media"
+                    ],
+                    "email": "bal47@drexel.edu",
+                    "interests": "Visual anthropology; photography; social media; global media; digital culture; urban culture; Southeast Asia"
+                },
+                {
+                    "name": "Dali Ma",
+                    "titles": [
+                        "Associate Professor of Management, Drexel LeBow College of Business"
+                    ],
+                    "email": "dm484@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Nadia Magnanini",
+                    "titles": [
+                        "Adjunct Professor, Contact for Italian Study Abroad Course Approvals"
+                    ],
+                    "email": "nm688@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Roger Magyar",
+                    "titles": [
+                        "Adjunct Associate Professor"
+                    ],
+                    "email": "magyarrj@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Stephanie Manasse",
+                    "titles": [
+                        "Assistant Research Professor",
+                        "Director, MS and Accelerated BS/MS in Psychology Programs",
+                        "Director, mPOWER Program (WELL Center)",
+                        "Director, Child and Adolescent Program (WELL Center)"
+                    ],
+                    "email": "smm522@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Stephen Mandell",
+                    "titles": [
+                        "Professor of English"
+                    ],
+                    "email": "mandelsr@drexel.edu",
+                    "interests": "Freshman Writing; Technical Writing; Speech; American Literature"
+                },
+                {
+                    "name": "Celeste Dolores Mann",
+                    "titles": [
+                        "Instructor",
+                        "Coordinator of Spanish 200-level and Spanish Tutors"
+                    ],
+                    "email": "cdm323@drexel.edu",
+                    "interests": "Second Language Acquisition and Language Pedagogy; The life and music of Brazilian composer, Francisca 'cChiquinha'd Gonzaga; Theater in Spanish and Portuguese; Hispanic and Brazilian Film; Latin American and Iberian Music"
+                },
+                {
+                    "name": "Ilana Margolis",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "im66@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Natalie Marley",
+                    "titles": [
+                        "Assistant Teaching Professor of Japanese",
+                        "Contact for Japanese Study Abroad Course Approvals"
+                    ],
+                    "email": "nnm43@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Nada Matta",
+                    "titles": [
+                        "Assistant Professor",
+                        "Director, Middle East and North Africa Studies (MENA)"
+                    ],
+                    "email": "nada.matta@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Maria de la luz Matus-Mendoza",
+                    "titles": [
+                        "Associate Professor of Spanish",
+                        "Contact for Spanish Study Abroad Course Approvals"
+                    ],
+                    "email": "mm349@drexel.edu",
+                    "interests": "Language variation in Spanish, the relationship between language variation and mobility (social and geographical) among the Mexican communities in Mexico and the United States, first and second language acquisition, bilingualism, theater, baroque and contemporary literature."
+                },
+                {
+                    "name": "Julia H. May",
+                    "titles": [
+                        "Director, Professional MS Communication Programs",
+                        "Associate Teaching Professor of Communication"
+                    ],
+                    "email": "julia.may@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Janel McCloskey",
+                    "titles": [
+                        "Co-Director, University Writing Program"
+                    ],
+                    "email": "jfp48@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Craig McClure",
+                    "titles": [
+                        "Teaching Professor"
+                    ],
+                    "email": "Craig.P.McClure@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Caitlin McCormick",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "cem52@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Richard M. McCourt",
+                    "titles": [
+                        "Professor",
+                        "Curator of Botany, Director of the Center for Systematic Biology and Evolution, Academy of Natural Sciences of Drexel University"
+                    ],
+                    "email": "rmm45@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Elizabeth McGhee Hassrick",
+                    "titles": [
+                        "Assistant ProfessorA.J. Drexel Autism Institute"
+                    ],
+                    "email": "emh347@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Deirdre McMahon",
+                    "titles": [
+                        "Teaching Professor of English"
+                    ],
+                    "email": "deirdre.h.mcmahon@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Stephen L.W. McMillan",
+                    "titles": [
+                        "Department Head",
+                        "Professor"
+                    ],
+                    "email": "stephen.l.mcmillan@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Amanda McMillan Lequieu",
+                    "titles": [
+                        "Assistant Professor"
+                    ],
+                    "email": "amanda.mcmillanlequieu@drexel.edu",
+                    "interests": "Environmental sociology, political economy, place and space, rural-urban interface, qualitative and historical methodologies"
+                },
+                {
+                    "name": "Allison McNally",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "akm82@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Joseph McPeak",
+                    "titles": [
+                        "Adjunct Associate Professor"
+                    ],
+                    "email": "mcpeakje@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "John Medaglia",
+                    "titles": [
+                        "Assistant Professor"
+                    ],
+                    "email": "John.D.Medaglia@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Georgi S. Medvedev",
+                    "titles": [
+                        "Professor Tenure"
+                    ],
+                    "email": "medvedev@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Carol Mele",
+                    "titles": [
+                        "Associate Teaching Professor of Philosophy"
+                    ],
+                    "email": "carol.anne.mele@drexel.edu",
+                    "interests": "Ethics, Medical Ethics, Critical Reasoning"
+                },
+                {
+                    "name": "Marianallet Mendez-Rivera",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "mm3595@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Megan Meyer",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "mlm583@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Amel Mili",
+                    "titles": [
+                        "Assistant Teaching Professor",
+                        "Contact for Arabic Study Abroad Course Approvals"
+                    ],
+                    "email": "am4394@drexel.edu",
+                    "interests": "The intersection between religion and law, gender politics, constitutional transition, and language education"
+                },
+                {
+                    "name": "Harriet Levin Millan",
+                    "titles": [
+                        "Director, Certificate Program in Writing and Publishing",
+                        "Associate Teaching Professor of English"
+                    ],
+                    "email": "millanhl@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Jude Miller",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "jcm375@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Jonson Miller",
+                    "titles": [
+                        "Teaching Professor of History"
+                    ],
+                    "email": "jwm54@drexel.edu",
+                    "interests": "American history, military history, history of engineering and technology"
+                },
+                {
+                    "name": "Irvin Miller",
+                    "titles": [
+                        "Professor Emeritus, Department of Physics"
+                    ],
+                    "email": "unknown",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Rogelio Mi'f1ana",
+                    "titles": [
+                        "Professor of Spanish and Global Studies",
+                        "Vice Provost for Global Engagement"
+                    ],
+                    "email": "rogelio.minana@drexel.edu",
+                    "interests": "Don Quixote by Miguel de Cervantes; youth and community organizations; digital storytelling; civic and global engagement"
+                },
+                {
+                    "name": "Cecilia Mondaini",
+                    "titles": [
+                        "Assistant Professor"
+                    ],
+                    "email": "cf823@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Franco Montalto",
+                    "titles": [
+                        "Assistant Professor"
+                    ],
+                    "email": "fmontalto@coe.drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Danette Morrison",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "dm3353@drexel.edu",
+                    "interests": "Social and academic motivation within school context; Social relationships and identity development; Educational attainment of ethnic minorities."
+                },
+                {
+                    "name": "Jill Moses",
+                    "titles": [
+                        "Associate Teaching Professor of English"
+                    ],
+                    "email": "jrm378@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Shari Moskow",
+                    "titles": [
+                        "Professor"
+                    ],
+                    "email": "moskow@math.drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Julie Mostov",
+                    "titles": [
+                        "Professor Emerita"
+                    ],
+                    "email": "unknown",
+                    "interests": "Explores the politics of national identity, sovereignty, citizenship and gender with a special focus on Southeastern Europe. Her recent work looks at violence, borders, and space and promotes the notion of soft-borders, transnational citizenship, and relational sovereignty."
+                },
+                {
+                    "name": "Stephen Mullin",
+                    "titles": [
+                        "President and Principal, Econsult Solutions",
+                        "Adjunct Instructor"
+                    ],
+                    "email": "mullin@econsultsolutions.com",
+                    "interests": "State and local public finance and policy analyis, taxation policy analysis, economic development, real estate development, business and government strategies"
+                },
+                {
+                    "name": "Donna Murasko",
+                    "titles": [
+                        "Professor"
+                    ],
+                    "email": "donna.murasko@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Brad Nabors",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "brad.nabors@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Amar Nath",
+                    "titles": [
+                        "Emeritus Professor"
+                    ],
+                    "email": "unknown",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Russell Neilson",
+                    "titles": [
+                        "Associate Professor"
+                    ],
+                    "email": "russell.g.neilson@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Amanda NeMoyer",
+                    "titles": [
+                        "Assistant Research Professor"
+                    ],
+                    "email": "amanda.n.nemoyer@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Arthur M. Nezu",
+                    "titles": [
+                        "Distinguished University Professor of Psychology",
+                        "Professor of Medicine",
+                        "Professor of Community Health and Prevention"
+                    ],
+                    "email": "amn23@drexel.edu",
+                    "interests": "Social problem solving as a moderator/mediator of stress and psychopathology; applications of Emotion-Centered Problem-Solving Therapy; treatment and prevention of depression; treatment and prevention of suicide; behavioral health of U.S. military veterans"
+                },
+                {
+                    "name": "Christine Maguth Nezu",
+                    "titles": [
+                        "Professor of Psychology",
+                        "Professor of Medicine"
+                    ],
+                    "email": "cn25@drexel.edu",
+                    "interests": "Emotion-centered Problem-Solving Therapy (PST) for mood, personality, stress-related disorders; EC-PST as an evidence-based, trans-diagnostic intervention across many clinical problem areas and populations including Veterans/US Service Members, and their families; cinical case formulation; integrative psychotherapy approaches; emotionally-focused interventions and CBT; Departmental concentration areas of cognitive behavioral and clinical health psychology"
+                },
+                {
+                    "name": "Christopher Nielson",
+                    "titles": [
+                        "Teaching Professor of English"
+                    ],
+                    "email": "christopher.nielson@drexel.edu",
+                    "interests": "Shakespeare; Renaissance Drama &amp; Literature; Dramatic Literature; Freshman Writing"
+                },
+                {
+                    "name": "Alexander Nikolaev",
+                    "titles": [
+                        "Associate Professor of Communication"
+                    ],
+                    "email": "agn24@drexel.edu",
+                    "interests": "Public relations, political communication, organizational communication, mass communication, international communications and negotiations, communications theory."
+                },
+                {
+                    "name": "Karen Nulton",
+                    "titles": [
+                        "Director, Writing Assessment",
+                        "Teaching Professor of English"
+                    ],
+                    "email": "ksn27@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Michael O'Connor",
+                    "titles": [
+                        "Professor",
+                        "Chair, Institutional Animal Care and Use Committee"
+                    ],
+                    "email": "oconnomp@drexel.edu",
+                    "interests": "Physiological ecology; Physiology; Modelling; Allometry."
+                },
+                {
+                    "name": "Oksana P. Odintsova",
+                    "titles": [
+                        "Teaching Professor"
+                    ],
+                    "email": "opo23@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Sean O'Donnell",
+                    "titles": [
+                        "Professor"
+                    ],
+                    "email": "so356@drexel.edu",
+                    "interests": "Animal behavior, neuroecology, social insects, tropical ecology, thermal physiology"
+                },
+                {
+                    "name": "Joel E. Oestreich",
+                    "titles": [
+                        "Professor"
+                    ],
+                    "email": "jeo25@drexel.edu",
+                    "interests": "International organizations, international finance, development, human rights"
+                },
+                {
+                    "name": "Daniel Otte",
+                    "titles": [
+                        "Professor Emeritus, Department of Biodiversity, Earth & Environmental Science",
+                        "Senior Curator Emeritus, ANS"
+                    ],
+                    "email": "do332@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Gwen Ottinger",
+                    "titles": [
+                        "Associate Professor"
+                    ],
+                    "email": "ottinger@drexel.edu",
+                    "interests": "Environmental justice;\nPolitical theory;\nScience and technology policy;\nData infrastructure;\nCitizen science;\nEpistemic innovation"
+                },
+                {
+                    "name": "Ni Ou",
+                    "titles": [
+                        "Assistant Teaching Professor",
+                        "Contact for Chinese Study Abroad Course Approvals"
+                    ],
+                    "email": "Ni.Ou@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Kevin G. Owens",
+                    "titles": [
+                        "Associate Professor",
+                        "Chair, Faculty Senate"
+                    ],
+                    "email": "kevin.owens@drexel.edu",
+                    "interests": "analytical chemistry; mass spectrometry; analytical method development; time-of-flight mass spectrometry; analytical instrument development; matrix-assisted laser desorption ionization; imaging mass spectrometry; micro-organism identification by mass spectrometry; chemometrics; correlation analysis"
+                },
+                {
+                    "name": "Flavia Padovani",
+                    "titles": [
+                        "Associate Professor of Philosophy"
+                    ],
+                    "email": "fp72@drexel.edu",
+                    "interests": "Philosophy of Science, Epistemology, Logic"
+                },
+                {
+                    "name": "Dimitrios Papadopoulos",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "dp399@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Melissa M. Parks",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "mp3697@drexel.edu",
+                    "interests": "Nonprofit rhetoric; SHER (science, health, environmental, and risk) communication; human-nature relations; critical cultural studies; critical rhetoric; critical pedagogy."
+                },
+                {
+                    "name": "Thomas Parry",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "tfp35@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "James Eldred Pascoe",
+                    "titles": [
+                        "Assistant Professor"
+                    ],
+                    "email": "jep362@drexel.edu",
+                    "interests": "Functional analysis; complex analysis; noncommutative algebra; matrix analysis"
+                },
+                {
+                    "name": "Brian Payne",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "bmp25@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Sharrona Pearl",
+                    "titles": [
+                        "Associate Teaching Professor of Medical Ethics in the Department of Health Administration, Drexel College of Nursing and Public Health"
+                    ],
+                    "email": "shp72@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Joel Pereira",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "jp3465@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Ronald K. Perline",
+                    "titles": [
+                        "Undergraduate Adviser",
+                        "Associate Professor"
+                    ],
+                    "email": "rperline@math.drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Marci A. Perlstadt",
+                    "titles": [
+                        "Associate Professor Tenure"
+                    ],
+                    "email": "mperlstadt@math.drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Margene Petersen",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "mlp59@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Ryan Petrie",
+                    "titles": [
+                        "Associate Professor"
+                    ],
+                    "email": "rjp336@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Sara Pevar",
+                    "titles": [
+                        "Adjunct Assistant Professor"
+                    ],
+                    "email": "unknown",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Brianna Pezzato",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "bcp49@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Amani Piers",
+                    "titles": [
+                        "Clinical Psychologist"
+                    ],
+                    "email": "adp84@drexel.edu",
+                    "interests": "Eating disorders; Health psychology; Project ReLearn"
+                },
+                {
+                    "name": "Marilyn Piety",
+                    "titles": [
+                        "Professor of Philosophy"
+                    ],
+                    "email": "marilyn.piety@drexel.edu",
+                    "interests": "History of Philosophy, Philosophy of Religion, Kierkegaard"
+                },
+                {
+                    "name": "Toni Pitock",
+                    "titles": [
+                        "Assistant Teaching Professor of History"
+                    ],
+                    "email": "tfp47@drexel.edu",
+                    "interests": "Atlantic World; Jewish Migration and Diaspora; Economic Culture; Trade Networks; Colonial American History"
+                },
+                {
+                    "name": "Maegan Poland",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "mcp332@drexel.edu",
+                    "interests": "Creative writing; Fiction; Memoir; First-year writing"
+                },
+                {
+                    "name": "Elizabeth Polcha",
+                    "titles": [
+                        "Assistant Professor of English and Digital Humanities"
+                    ],
+                    "email": "lp949@drexel.edu",
+                    "interests": "Black Atlantic Literature; Digital Humanities; Early American Studies; Postcolonial and Settler Colonial Studies; Gender and\nSexuality Studies; Environmental Studies; History of Science; History of the Book"
+                },
+                {
+                    "name": "Douglas Porpora",
+                    "titles": [
+                        "Professor",
+                        "Graduate Faculty Member, Communication, Culture & Media"
+                    ],
+                    "email": "porporad@drexel.edu",
+                    "interests": "Philosophy; Political, Religious, and Moral Rhetoric; Political Communication"
+                },
+                {
+                    "name": "Abioseh Porter",
+                    "titles": [
+                        "Director, Africana Studies",
+                        "Professor of English"
+                    ],
+                    "email": "abiosehp@drexel.edu",
+                    "interests": "Comparative Literature; Postcolonial Literatures"
+                },
+                {
+                    "name": "Marina Potapova",
+                    "titles": [
+                        "Associate Professor, Department of Biodiversity, Earth & Environmental Science  Assistant Curator of Diatoms, ANS"
+                    ],
+                    "email": "mp895@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Kathleen Powell",
+                    "titles": [
+                        "Assistant Research Professor"
+                    ],
+                    "email": "kathleen.m.powell@drexel.edu",
+                    "interests": "Juvenile Delinquency &amp; Justice, Crime and the Life Course, Corrections, Punishment, and Inequality, Courts and the Legal Profession, Criminal and Juvenile Justice Policy, Research Methods"
+                },
+                {
+                    "name": "Nic John Ramos",
+                    "titles": [
+                        "Assistant Professor of History"
+                    ],
+                    "email": "nfr38@drexel.edu",
+                    "interests": "African American History; History of Medicine; History of Psychiatry; Urban History; 20<sup>th</sup> Century US History; History of Racial Capitalism; History of Sexuality"
+                },
+                {
+                    "name": "Rosalind Remer",
+                    "titles": [
+                        "Vice Provost & Executive Director, Drexel University Lenfest Center for Cultural Partnerships"
+                    ],
+                    "email": "Rosalind.Remer@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Rachel Reynolds",
+                    "titles": [
+                        "Associate Professor",
+                        "Graduate Faculty Member, Communication, Culture & Media"
+                    ],
+                    "email": "rrr28@drexel.edu",
+                    "interests": "Sociolinguistics, ethnography of communication, intercultural communication, globalization and the rhetoric of community, political economy of immigration, race and ethnicity, new African immigrants in the United States, Igbo studies."
+                },
+                {
+                    "name": "Jerome Ricard",
+                    "titles": [
+                        "Assistant Research Professor"
+                    ],
+                    "email": "jjr325@drexel.edu",
+                    "interests": "Ephrins; Spinal cord injury; Neuroinflammation; Cell death; Dependence receptors; Pain"
+                },
+                {
+                    "name": "Gordon T. Richards",
+                    "titles": [
+                        "Professor",
+                        "Chair, Faculty Senate Budget, Process, and Development (BP&D) Committee"
+                    ],
+                    "email": "gordon.t.richards@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Cyndi Rickards",
+                    "titles": [
+                        "Associate Teaching Professor of Criminology & Justice Studies"
+                    ],
+                    "email": "crr46@drexel.edu",
+                    "interests": "Community-based learning pedagogy; agents of justice and community health; mass incarceration and community"
+                },
+                {
+                    "name": "Adam C. Rickert",
+                    "titles": [
+                        "Associate Teaching Professor"
+                    ],
+                    "email": "arickert@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Donald Riggs",
+                    "titles": [
+                        "Teaching Professor of English"
+                    ],
+                    "email": "riggsda@drexel.edu",
+                    "interests": "Science Fiction; Renaissance Literature; Creative Writing; Freshman Writing"
+                },
+                {
+                    "name": "Jody A. Roberts",
+                    "titles": [
+                        "Research Faculty, Center for Science, Technology & Society",
+                        "Director, Center for Contemporary History and Policy, Chemical Heritage Foundation"
+                    ],
+                    "email": "jroberts@chemheritage.org",
+                    "interests": "Intersections of emerging molecular sciences and public policy and the ways in which tensions brought about between the two get resolved"
+                },
+                {
+                    "name": "Diana Robins",
+                    "titles": [
+                        "Professor, Director, AJ Drexel Autism Institute",
+                        "Department of Community Health & Prevention"
+                    ],
+                    "email": "diana.l.robins@drexel.edu",
+                    "interests": "Early detection of autism spectrum disorder, screening for autism spectrum disorder in community settings, social cognition in autism spectrum disorder"
+                },
+                {
+                    "name": "Norman Roessler",
+                    "titles": [
+                        "Adjunct Assistant Professor"
+                    ],
+                    "email": "nrr38@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Leeland Loew Rogers",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "Leeland.Loew.Rogers@drexel.edu",
+                    "interests": "Incidental learning; Statistical learning; Attention"
+                },
+                {
+                    "name": "Donna Rondolone",
+                    "titles": [
+                        "Associate Teaching Professor of English"
+                    ],
+                    "email": "donna.l.rondolone@drexel.edu",
+                    "interests": "Medieval Literature; Arthurian Legend; Freshman Writing"
+                },
+                {
+                    "name": "Chris Rorres",
+                    "titles": [
+                        "Professor Emeritus"
+                    ],
+                    "email": "unknown",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Gail D. Rosen",
+                    "titles": [
+                        "Teaching Professor of English"
+                    ],
+                    "email": "gor22@drexel.edu",
+                    "interests": "Law, Communications, Composition"
+                },
+                {
+                    "name": "Gerald (Harris) Rosen",
+                    "titles": [
+                        "M.R. Wehr Professor Emeritus of Physics"
+                    ],
+                    "email": "gerald.h.rosen@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Gary Rosenberg",
+                    "titles": [
+                        "Professor, Department of Biodiversity, Earth & Environmental Science",
+                        "Pilsbry Chair of Malacology, ANS"
+                    ],
+                    "email": "gr347@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "William Rosenberg",
+                    "titles": [
+                        "Professor"
+                    ],
+                    "email": "rosenberg@drexel.edu",
+                    "interests": "Behavioral politics, public opinion, political communication"
+                },
+                {
+                    "name": "Jacob A. Russell",
+                    "titles": [
+                        "Professor"
+                    ],
+                    "email": "jar337@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Patricia Henry Russell",
+                    "titles": [
+                        "Adjunct Instructor",
+                        "Teaching Professor Emerita Emeritus"
+                    ],
+                    "email": "phenry@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Christopher Ruth",
+                    "titles": [
+                        "Adjunct Assistant Professor"
+                    ],
+                    "email": "cbr43@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Susan Rutkowsky",
+                    "titles": [
+                        "Assistant Department Head, Associate Teaching Professor"
+                    ],
+                    "email": "susan.anne.rutkowsky@drexel.edu",
+                    "interests": "Development of labs and lecture demonstrations for general and organic chemistry courses; STEM outreach programs"
+                },
+                {
+                    "name": "Rosemary Rys",
+                    "titles": [
+                        "Assistant Teaching Professor of Communication"
+                    ],
+                    "email": "rer22@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Doreen Alvarez Saar",
+                    "titles": [
+                        "American Literature Editor, Rocky Mountain Review of Language and Literature",
+                        "Professor of English"
+                    ],
+                    "email": "saarda@drexel.edu",
+                    "interests": "Early American Literature; Race and Gender Studies"
+                },
+                {
+                    "name": "Bryan Sacks",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "bks26@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Sheila Sandapen",
+                    "titles": [
+                        "Director of Programs in English",
+                        "Associate Teaching Professor"
+                    ],
+                    "email": "sfs34@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Nianli Sang",
+                    "titles": [
+                        "Co-Director of the Cell Imaging Center",
+                        "Associate Professor"
+                    ],
+                    "email": "nianli.sang@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Jack Santucci",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "unknown",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Tiago Saraiva",
+                    "titles": [
+                        "Department Head",
+                        "Associate Professor"
+                    ],
+                    "email": "tfs37@drexel.edu",
+                    "interests": "History of science; History of technology; Environmental history; Science and technology studies"
+                },
+                {
+                    "name": "Valerie Sarris",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "vs487@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Aleister Saunders",
+                    "titles": [
+                        "Executive Vice Provost for Research & Innovation",
+                        "Professor"
+                    ],
+                    "email": "Aleister.Saunders@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Jeremiah Scepaniak",
+                    "titles": [
+                        "Assistant Professor"
+                    ],
+                    "email": "jjs452@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Ludo Scheffer",
+                    "titles": [
+                        "Director of Undergraduate Studies in Psychology",
+                        "Teaching Professor"
+                    ],
+                    "email": "lcs22@drexel.edu",
+                    "interests": "Meta-cognitive development, writing, and computers; language and literacy development in the early years in the context of family and schooling; Youth-at-risk; Issues in Equity; School/Program/Intervention effectiveness"
+                },
+                {
+                    "name": "Eric Scheidly",
+                    "titles": [
+                        "Adjunct Professor"
+                    ],
+                    "email": "scheidly@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Simone Schlichting-Artur",
+                    "titles": [
+                        "Teaching Professor of German",
+                        "Contact for German Study Abroad Course Approvals"
+                    ],
+                    "email": "schlichs@drexel.edu",
+                    "interests": "International business communication (Germany and the U.S.), public health policy and languages, German post-war history through film and literature, development of writing assessment tools for German minor."
+                },
+                {
+                    "name": "Eric J. Schmutz",
+                    "titles": [
+                        "Professor Tenure"
+                    ],
+                    "email": "eschmutz@math.drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Alexis Schulman",
+                    "titles": [
+                        "Assistant Research Professor, Department of  Biodiversity, Earth and Environmental Science",
+                        "Director of the Environmental Studies and Sustainability Program  Dolan Fellow for Innovation in Water Science, Patrick Center for Environmental Research, ANS"
+                    ],
+                    "email": "as5293@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Maria T. Schultheis",
+                    "titles": [
+                        "Vice Provost of Research",
+                        "Professor"
+                    ],
+                    "email": "schultheis@drexel.edu",
+                    "interests": "Neurorehabilitation; Application of technology to psychology; Virtual reality technology; Driving capacity after neurological compromise; Rehabilitation of functional, everyday activities"
+                },
+                {
+                    "name": "Jennifer Schwartz",
+                    "titles": [
+                        "Director, Psychological Services Center",
+                        "Teaching Professor"
+                    ],
+                    "email": "Jennifer.L.Schwartz@drexel.edu",
+                    "interests": "Adult Psychopathology; Evidence-Based Practice; Competency-Based Training; Competency-Based Clinical Supervision"
+                },
+                {
+                    "name": "Reinhard Schweitzer-Stenner",
+                    "titles": [
+                        "Professor Emeritus",
+                        "Department of Chemistry"
+                    ],
+                    "email": "rschweitzer-stenner@drexel.edu",
+                    "interests": "Vibrational Spectroscopy including IR, vibrational circular dichroism, Raman and resonance Raman spectroscopy, electronic circular dichroism spectroscopy, optical absorption spectroscopy, fluorescence spectroscopy, NMR-spectroscopy, determining Ramachandran plots of amino acid residues from vibrational and NMR spectroscopy data, global analysis of spectroscopic data, statistical thermodynamics of unfolded peptides and protein-membrane interactions."
+                },
+                {
+                    "name": "Jonathan Seitz",
+                    "titles": [
+                        "Teaching Professor of History",
+                        "Assistant Department Head"
+                    ],
+                    "email": "jwseitz@drexel.edu",
+                    "interests": "History of science, Italy, Europe"
+                },
+                {
+                    "name": "David Seltzer",
+                    "titles": [
+                        "Adjunct Assistant Professor"
+                    ],
+                    "email": "dss97@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Manuel Seman-Senderos",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "mas952@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Jocelyn A. Sessa",
+                    "titles": [
+                        "Assistant Professor",
+                        "Assistant Curator, Invertebrate Paleontology Department, Academy of Natural Sciences of Drexel University"
+                    ],
+                    "email": "jsessa@drexel.edu",
+                    "interests": "Ocean acidification; Mollusks; Climate change; Paleobiology"
+                },
+                {
+                    "name": "Li Sheng",
+                    "titles": [
+                        "Associate Professor Tenure"
+                    ],
+                    "email": "lsheng@math.drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Patrick Shields",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "prs49@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Arthur Shostak",
+                    "titles": [
+                        "Professor Emeritus"
+                    ],
+                    "email": "arthurshostak@gmail.com",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Wesley Shumar",
+                    "titles": [
+                        "Professor",
+                        "Graduate Faculty Member, Communication, Culture & Media"
+                    ],
+                    "email": "shumarw@drexel.edu",
+                    "interests": "The Commodification of Culture, Consumer Culture and the Production of Value, Entrepreneurship and Craft Culture, Cultural Change in Higher Education, Digital Media and Learning, Learning and Communication"
+                },
+                {
+                    "name": "Myrna Shure",
+                    "titles": [
+                        "Professor Emeritus"
+                    ],
+                    "email": "ms54@drexel.edu",
+                    "interests": "Child development; Problem-solving interventions with children; Prevention programs"
+                },
+                {
+                    "name": "Diane Sicotte",
+                    "titles": [
+                        "Professor of Sociology"
+                    ],
+                    "email": "dms76@drexel.edu",
+                    "interests": "Environmental Sociology; Environmental inequality and injustice; Political economy of energy and environment; Labor and environment; Plastics in society"
+                },
+                {
+                    "name": "Tasneem A. Siddiqui",
+                    "titles": [
+                        "Assistant Professor"
+                    ],
+                    "email": "tas434@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Fred Siegel",
+                    "titles": [
+                        "Teaching Professor of English",
+                        "Director, First-Year Writing Program"
+                    ],
+                    "email": "siegelf@drexel.edu",
+                    "interests": "Popular Theater; Dramatic Literature, Creative Non-Fiction; Freshman Writing"
+                },
+                {
+                    "name": "Chloe Silverman",
+                    "titles": [
+                        "Associate Professor"
+                    ],
+                    "email": "cbs78@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Gideon Simpson",
+                    "titles": [
+                        "Associate Professor"
+                    ],
+                    "email": "grs53@drexel.edu",
+                    "interests": "Applied mathematics; Numerical analysis; Scientific computing; Stochastic simulation"
+                },
+                {
+                    "name": "Amy Slaton",
+                    "titles": [
+                        "Professor"
+                    ],
+                    "email": "slatonae@drexel.edu",
+                    "interests": "History of technology, labor, race"
+                },
+                {
+                    "name": "Julia Sluzenski",
+                    "titles": [
+                        "Associate Teaching Professor"
+                    ],
+                    "email": "julia.m.sluzenski@drexel.edu",
+                    "interests": "Memory and its neural basis, lifespan development"
+                },
+                {
+                    "name": "Ron Smith",
+                    "titles": [
+                        "Instructor, Department of Biodiversity, Earth and Environmental Science Director, DESLA Summer Program"
+                    ],
+                    "email": "rvs33@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Kevin Smith",
+                    "titles": [
+                        "Associate Teaching Professor"
+                    ],
+                    "email": "kps43@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Matthew Ross Smith",
+                    "titles": [
+                        "mrs363@drexel.edu"
+                    ],
+                    "email": "mrs363@drexel.edu",
+                    "interests": "Writing, Novelist, Middle Grade"
+                },
+                {
+                    "name": "Andrew Frederick Smith",
+                    "titles": [
+                        "Associate Professor of Philosophy and Environmental Studies"
+                    ],
+                    "email": "afs52@drexel.edu",
+                    "interests": "Environmental Philosophy/Environmental Humanities; Food Justice; Climate Justice; Social and Political Philosophy; Decolonization"
+                },
+                {
+                    "name": "Matthew Smith",
+                    "titles": [
+                        "Adjunct Assistant Professor"
+                    ],
+                    "email": "mrs363@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Justin Smith",
+                    "titles": [
+                        "Professor Emeritus"
+                    ],
+                    "email": "jsmith@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Alan Soble",
+                    "titles": [
+                        "Adjunct Professor"
+                    ],
+                    "email": "ags38@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Karl Sohlberg",
+                    "titles": [
+                        "Associate Professor"
+                    ],
+                    "email": "sohlbergk@drexel.edu",
+                    "interests": "Theoretical and Computational Physical and Materials Chemistry; Development of theoretical models for both electrical and mechanical molecular devices"
+                },
+                {
+                    "name": "Arun Kumar Soma",
+                    "titles": [
+                        "Research Assistant Professor"
+                    ],
+                    "email": "arunkumar.soma@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Xiaoming Song",
+                    "titles": [
+                        "Associate Professor Tenure"
+                    ],
+                    "email": "song@math.drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Lawrence Souder",
+                    "titles": [
+                        "Teaching Professor Emeritus of Communication"
+                    ],
+                    "email": "ls39@drexel.edu",
+                    "interests": "Science and technical writing, communication ethics."
+                },
+                {
+                    "name": "Jonathan E. Spanier",
+                    "titles": [
+                        "Professor, Materials Science & Engineering, Affiliated Faculty"
+                    ],
+                    "email": "spanier@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Mary V. Spiers",
+                    "titles": [
+                        "Professor Emeritus"
+                    ],
+                    "email": "spiersm@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Elias Spiliotis",
+                    "titles": [
+                        "Associate Professor",
+                        "Director, Biology Graduate Programs",
+                        "Director, Cell Imaging Center"
+                    ],
+                    "email": "ets33@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "James Spotila",
+                    "titles": [
+                        "Professor Emeritus"
+                    ],
+                    "email": "spotiljr@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Paakhi Srivastava",
+                    "titles": [
+                        "Assistant Research Professor"
+                    ],
+                    "email": "ps887@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Jennifer Stanford",
+                    "titles": [
+                        "Associate Professor, Department of Biology",
+                        "Co-Director of the Center for the Advancement of STEM Teaching and Learning Excellence (CASTLE)"
+                    ],
+                    "email": "jss75@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Kathryn Steen",
+                    "titles": [
+                        "Associate Professor"
+                    ],
+                    "email": "steen@drexel.edu",
+                    "interests": "History of technology; comparative industrialization and transnational history, business history"
+                },
+                {
+                    "name": "Allan Stegeman",
+                    "titles": [
+                        "Teaching Professor"
+                    ],
+                    "email": "stegemal@drexel.edu",
+                    "interests": "Communication, technology and mass media, video."
+                },
+                {
+                    "name": "Karen Stegeman",
+                    "titles": [
+                        "Adjunct Assistant Professor"
+                    ],
+                    "email": "kas52@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Mark Stehr",
+                    "titles": [
+                        "Professor, Economics",
+                        "Director, School of Economics"
+                    ],
+                    "email": "stehr@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Scott Stein",
+                    "titles": [
+                        "Director, Drexel Publishing Group",
+                        "Founding Editor, Write Now Philly",
+                        "Teaching Professor of English"
+                    ],
+                    "email": "sstein@drexel.edu",
+                    "interests": "Fiction Writing; Humor and Comedy; Publishing"
+                },
+                {
+                    "name": "Richard Steinberg",
+                    "titles": [
+                        "Professor Emeritus, Department of Physics"
+                    ],
+                    "email": "steinberg@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Jeanne M. Steuber",
+                    "titles": [
+                        "Associate Teaching Professor"
+                    ],
+                    "email": "jms77@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Donald F. Stevens",
+                    "titles": [
+                        "Professor Emeritus"
+                    ],
+                    "email": "stevens@drexel.edu",
+                    "interests": "Modern Latin American history"
+                },
+                {
+                    "name": "James Stieb",
+                    "titles": [
+                        "Adjunct Associate Professor"
+                    ],
+                    "email": "stiebja@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "C. Clare Strange",
+                    "titles": [
+                        "Assistant Research Professor"
+                    ],
+                    "email": "cs3846@drexel.edu",
+                    "interests": "Sentencing; Corrections; Treatment/rehabilitation; Public health"
+                },
+                {
+                    "name": "Errol Sull",
+                    "titles": [
+                        "Adjunct Associate Professor"
+                    ],
+                    "email": "ecs52@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Jose Tapia",
+                    "titles": [
+                        "Associate Professor"
+                    ],
+                    "email": "jat368@drexel.edu",
+                    "interests": "Social development, world economy, climate change, macroeconomic effects on health"
+                },
+                {
+                    "name": "Scott Tattar",
+                    "titles": [
+                        "Instructor of Communication",
+                        "Faculty Advisor, Drexel Public Relations Student Society",
+                        "Communication Department Recruitment Liaison"
+                    ],
+                    "email": "sdt56@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Eva Thury",
+                    "titles": [
+                        "Associate Professor of English"
+                    ],
+                    "email": "thury@drexel.edu",
+                    "interests": "Literature, Computer Science"
+                },
+                {
+                    "name": "Monica Togna",
+                    "titles": [
+                        "Associate Teaching Professor"
+                    ],
+                    "email": "mmt73@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Daniel Touey",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "dt46@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Olga Trubina",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "oit24@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Somdev Tyagi",
+                    "titles": [
+                        "Associate Department Head for Non-Major Studies, Professor"
+                    ],
+                    "email": "tyagi@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Kelly Underman",
+                    "titles": [
+                        "Assistant Professor"
+                    ],
+                    "email": "kdu24@drexel.edu",
+                    "interests": "Medical education, the social construction of bodies and emotions, and the politics of scientific'a0knowledge production"
+                },
+                {
+                    "name": "Kristene Unsworth",
+                    "titles": [
+                        "Director, Center for Science, Technology and Society",
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "kristene.unsworth@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Brigita Urbanc",
+                    "titles": [
+                        "Professor",
+                        "Associate Department Head for Graduate Studies"
+                    ],
+                    "email": "bu25@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Hilde Van den Bulck",
+                    "titles": [
+                        "Department Head",
+                        "Professor"
+                    ],
+                    "email": "hdv26@drexel.edu",
+                    "interests": "Political economy of media structures;\n  Media policies for digitized media ecologies;\n  Stakeholders and coalitions in media policies;\n  Digitization, convergence and legacy media;\n  Public (service) media;\n  Methods of media policy analysis;\n  Media culture in a digitized media ecosystem;\n  Media and (collective) identities;\n  Celebrity culture and industry;\n  Celebrity philanthropy and activism;\n  Celebrity and populism;\n  Fandom and anti-fandom"
+                },
+                {
+                    "name": "Lo'ffc Vanderkluysen",
+                    "titles": [
+                        "Associate Professor"
+                    ],
+                    "email": "loyc@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Sonia Vaz Borges",
+                    "titles": [
+                        "Assistant Professor of History and Africana Studies"
+                    ],
+                    "email": "sonia.vazborges@drexel.edu",
+                    "interests": "Liberation Struggles; African History; History of Education; Militant Research; 'Walking archives', memory and imaginaries"
+                },
+                {
+                    "name": "David Velinsky",
+                    "titles": [
+                        "Department Head and Professor, Department of Biodiversity, Earth & Environmental Science"
+                    ],
+                    "email": "velinsky@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "J'f6rn Venderbos",
+                    "titles": [
+                        "Assistant Professor"
+                    ],
+                    "email": "jwv34@drexel.edu",
+                    "interests": "Theory of quantum materials: topological Insulators, topological semimetals, materials prediction and design, strongly correlated electron materials, complex electronic ordering phenomena, unconventional superconductors"
+                },
+                {
+                    "name": "T.S. Venkataraman",
+                    "titles": [
+                        "Professor Emeritus"
+                    ],
+                    "email": "t.s.venkataraman@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "K. Shwetketu Virbhadra",
+                    "titles": [
+                        "Instructor"
+                    ],
+                    "email": "ksv29@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Giacomo Vivanti",
+                    "titles": [
+                        "Associate Professor, AJ Drexel Autism Institute"
+                    ],
+                    "email": "giacomo.vivanti@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Michael S. Vogeley",
+                    "titles": [
+                        "Professor"
+                    ],
+                    "email": "vogeley@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Jurij Vol'di'd",
+                    "titles": [
+                        "Assistant Professor"
+                    ],
+                    "email": "jv586@drexel.edu",
+                    "interests": "Real algebraic geometry; noncommutative analysis; invariant and representation theory; skew fields, polynomial\noptimization."
+                },
+                {
+                    "name": "Kathleen Volk Miller",
+                    "titles": [
+                        "Director Graduate Program in Publishing",
+                        "Co-Editor, PBQ",
+                        "Teaching Professor of English"
+                    ],
+                    "email": "kathleen.r.volkmiller@drexel.edu",
+                    "interests": "Creative Writing"
+                },
+                {
+                    "name": "Maria Volynsky",
+                    "titles": [
+                        "Associate Director, First-Year Writing Program",
+                        "ESL Coordinator",
+                        "Associate Teaching Professor"
+                    ],
+                    "email": "mv396@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Peter A. Wade",
+                    "titles": [
+                        "Professor Emeritus"
+                    ],
+                    "email": "wadepa@drexel.edu",
+                    "interests": "Exploration of a newly discovered [3,3]-sigmatropic rearrangement; development and exploitation of a carbon-based hemiacetal mimic; exploration of cycloaddition reactions involving nitroethylene derivatives and novel nitrile oxides"
+                },
+                {
+                    "name": "Anthony Wambsgans",
+                    "titles": [
+                        "Associate Teaching Professor"
+                    ],
+                    "email": "anthony.wambsgans@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Dane Ward",
+                    "titles": [
+                        "Assistant Teaching Professor, Department of Biodiversity, Earth & Environmental Science"
+                    ],
+                    "email": "dcw33@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Scott Warnock",
+                    "titles": [
+                        "Associate Dean of Undergraduate Education",
+                        "Professor of English"
+                    ],
+                    "email": "sjwarnock@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Elizabeth Watson",
+                    "titles": [
+                        "Associate Professor, Department of Biodiversity, Earth and Environmental Science",
+                        "Senior Scientist, Patrick Center for Environmental Research, Academy of Natural Sciences of Drexel University"
+                    ],
+                    "email": "ebw49@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Robert Watts",
+                    "titles": [
+                        "Associate Teaching Professor of English"
+                    ],
+                    "email": "wattsra@drexel.edu",
+                    "interests": "Creative Writing; Freshman Writing"
+                },
+                {
+                    "name": "Jason D. Weckstein",
+                    "titles": [
+                        "Associate Professor, Associate Curator of Ornithology, Academy of Natural Sciences of Drexel University"
+                    ],
+                    "email": "jdw342@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Robert Wetherill",
+                    "titles": [
+                        "Adjunct Assistant Professor"
+                    ],
+                    "email": "rjw55@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Richard D. White",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "rdw35@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Vincent Williams",
+                    "titles": [
+                        "Associate Teaching Professor of English"
+                    ],
+                    "email": "avw22@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Jet Wimp",
+                    "titles": [
+                        "Professor Emeritus"
+                    ],
+                    "email": "unknown",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Hugo J. Woerdeman",
+                    "titles": [
+                        "Professor"
+                    ],
+                    "email": "hjw27@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Ezra Wood",
+                    "titles": [
+                        "Associate Professor"
+                    ],
+                    "email": "ew456@drexel.edu",
+                    "interests": "Radical chemistry and formation of secondary pollutants in urban and forest environments, impacts of biomass burning on air pollution and climate change, pollutant emissions, and design and deployment of novel instrumentation for field studies."
+                },
+                {
+                    "name": "J. Douglas Wright",
+                    "titles": [
+                        "Department Head",
+                        "Professor"
+                    ],
+                    "email": "jdoug@math.drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Jun Xi",
+                    "titles": [
+                        "Associate Teaching Professor"
+                    ],
+                    "email": "jx35@drexel.edu",
+                    "interests": "Biomacromolecular interactions, mechanisms of DNA replication and DNA repair, structure and function of molecular chaperones, drug target identification and new therapeutic development, single molecule enzymology, DNA directed organic synthesis"
+                },
+                {
+                    "name": "Jingni Xiao",
+                    "titles": [
+                        "Assistant Professor"
+                    ],
+                    "email": "jx342@drexel.edu",
+                    "interests": "Inverse problems; partial differential equations; scattering theory; nonlocal operators; non-scattering phenomena"
+                },
+                {
+                    "name": "Dennis G. Yang",
+                    "titles": [
+                        "Associate Teaching Professor"
+                    ],
+                    "email": "gy44@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Thomas P.-Y. Yu",
+                    "titles": [
+                        "Professor Tenure"
+                    ],
+                    "email": "tyu@math.drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Jian-Min Yuan",
+                    "titles": [
+                        "Professor Emeritus, Department of Physics"
+                    ],
+                    "email": "yuanjm@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Jennifer Yusin",
+                    "titles": [
+                        "Director, Women's and Gender Studies",
+                        "Associate Professor"
+                    ],
+                    "email": "jyusin@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Robert Zaller",
+                    "titles": [
+                        "Professor Emeritus"
+                    ],
+                    "email": "zallerrm@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Sergio Zefelippo",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "sz32@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Asta Zelenkauskaite",
+                    "titles": [
+                        "Associate Professor of Communication",
+                        "Graduate Faculty Member, Communication, Culture & Media"
+                    ],
+                    "email": "az358@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Fengqing Zoe Zhang",
+                    "titles": [
+                        "Associate Professor"
+                    ],
+                    "email": "fengqing.zhang@drexel.edu",
+                    "interests": "Multimodal Neuroimaging; Data Mining; Data Integration; Mobile Health; Wearable Computing"
+                },
+                {
+                    "name": "Kai Zhao",
+                    "titles": [
+                        "Adjunct Instructor"
+                    ],
+                    "email": "kz367@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Matthew Ziemke",
+                    "titles": [
+                        "Assistant Teaching Professor"
+                    ],
+                    "email": "mjz55@drexel.edu",
+                    "interests": "unknown"
+                },
+                {
+                    "name": "Eric A. Zillmer",
+                    "titles": [
+                        "Professor of Neuropsychology"
+                    ],
+                    "email": "zillmer@drexel.edu",
+                    "interests": "Sports psychology; Sports performance; Psychological assessment; Psychology of terrorists"
                 }
             ]
         },
