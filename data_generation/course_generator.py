@@ -65,7 +65,7 @@ def parse_prereqs(prereq_string):
             if next_is("grade"): grade = next("grade")["value"]
             return parse_and_or({
                 "codeName": course_name,
-                "minimum grade": grade
+                "minimumGrade": grade
             })
         raise Exception("Unexpected token: " + str(tokens_to_parse[0]))
 
