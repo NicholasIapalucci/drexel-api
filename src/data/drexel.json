@@ -38657,18 +38657,6 @@
                     "phoneNumber": "215-895-1796"
                 },
                 {
-                    "name": "Xin Dai",
-                    "title": "Associate Professor",
-                    "email": "xd45@drexel.edu",
-                    "phoneNumber": "215-571-4822"
-                },
-                {
-                    "name": "Mian Dai",
-                    "title": "Associate Professor",
-                    "email": "mian.dai@drexel.edu",
-                    "phoneNumber": "215-895-2536"
-                },
-                {
                     "name": "Qizhi Dai",
                     "title": "Associate Professor",
                     "email": "qd24@drexel.edu",
@@ -38679,6 +38667,18 @@
                     "title": "Assistant Professor",
                     "email": "DD3364@drexel.edu",
                     "phoneNumber": "unknown"
+                },
+                {
+                    "name": "Xin Dai",
+                    "title": "Associate Professor",
+                    "email": "xd45@drexel.edu",
+                    "phoneNumber": "215-571-4822"
+                },
+                {
+                    "name": "Mian Dai",
+                    "title": "Associate Professor",
+                    "email": "mian.dai@drexel.edu",
+                    "phoneNumber": "215-895-2536"
                 },
                 {
                     "name": "Naveen Daniel",
@@ -38927,6 +38927,12 @@
                     "phoneNumber": "215-895-2503"
                 },
                 {
+                    "name": "Johnny Lee",
+                    "title": "Associate Clinical Professor",
+                    "email": "johnny.lee@drexel.edu",
+                    "phoneNumber": "215-571-4680"
+                },
+                {
                     "name": "Jinwook Lee",
                     "title": "Assistant Professor",
                     "email": "jl3539@drexel.edu",
@@ -38937,12 +38943,6 @@
                     "title": "Associate Professor",
                     "email": "jl3543@drexel.edu",
                     "phoneNumber": "215-571-4676"
-                },
-                {
-                    "name": "Johnny Lee",
-                    "title": "Associate Clinical Professor",
-                    "email": "johnny.lee@drexel.edu",
-                    "phoneNumber": "215-571-4680"
                 },
                 {
                     "name": "Benjamin Lev",
@@ -39239,16 +39239,16 @@
                     "phoneNumber": "215-895-1468"
                 },
                 {
-                    "name": "Min Wang",
-                    "title": "Associate Clinical Professor",
-                    "email": "mw638@drexel.edu",
-                    "phoneNumber": "215-571-4203"
-                },
-                {
                     "name": "Chen Wang",
                     "title": "Associate Professor",
                     "email": "chen.wang635@drexel.edu",
                     "phoneNumber": "215-571-3546"
+                },
+                {
+                    "name": "Min Wang",
+                    "title": "Associate Clinical Professor",
+                    "email": "mw638@drexel.edu",
+                    "phoneNumber": "215-571-4203"
                 },
                 {
                     "name": "Joan Weiner",
@@ -51731,7 +51731,8 @@
                         }
                     ]
                 }
-            ]
+            ],
+            "faculty": []
         },
         {
             "name": "GC-3690",
