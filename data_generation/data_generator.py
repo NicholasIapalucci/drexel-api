@@ -1,3 +1,6 @@
+import sys
+sys.dont_write_bytecode = True
+
 from utils import *
 from faculty_generator import *
 from course_generator import *

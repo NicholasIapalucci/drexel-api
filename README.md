@@ -18,7 +18,6 @@ The API provides the following information:
         - The title of the faculty member
         - The email of the faculty member
         - The phone number of the faculty member (if known)
-        - The interests of the faculty member (if known)
 - List of every student organization in Drexel
     - The name of the student organization
     - The description of the student organization
