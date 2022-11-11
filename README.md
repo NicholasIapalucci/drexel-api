@@ -72,26 +72,26 @@ This can get minorly complicated for certain classes. Here's the format for ARCH
                 [
                     {
                         "codeName": "ARCH-222",
-                        "minimum grade": "C-"
+                        "minimumGrade": "C-"
                     },
                     {
                         "codeName": "ARCH-252",
-                        "minimum grade": "C-"
+                        "minimumGrade": "C-"
                     }
                 ],
                 {
                     "codeName": "ARCH-170",
-                    "minimum grade": "C-"
+                    "minimumGrade": "C-"
                 }
             ]
         },
         {
             "codeName": "ARCH-282",
-            "minimum grade": "C-"
+            "minimumGrade": "C-"
         },
         {
             "codeName": "ARCH-225",
-            "minimum grade": "C-"
+            "minimumGrade": "C-"
         }
     ]
 }
