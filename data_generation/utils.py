@@ -1,14 +1,14 @@
-from bs4 import BeautifulSoup
-import json
+from bs4 import BeautifulSoup, Tag
 from urllib.request import urlopen
-import re as regex
+from typing import TypeVar, Callable, Any
 
-drexel_json = { "colleges": [] }
+drexel_json: dict[str, list[Any]] = { "colleges": [] }
 
-def find(pred, iterable):
-  for element in iterable:
-      if pred(element): return element
-  return None
+T = TypeVar('T')
+def find(filter: Callable[[T], bool], iterable: list[T]) -> T | None:
+    for element in iterable:
+        if filter(element): return element
+    return None
 
-def html(url):
+def html(url: str) -> Tag:
     return BeautifulSoup(urlopen(url).read(), features = "html.parser")

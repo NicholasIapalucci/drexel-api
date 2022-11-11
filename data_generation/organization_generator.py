@@ -1,10 +1,11 @@
 from utils import *
+import re as regex
 
-def generate_organization_data(drexel_json):
+def generate_organization_data(drexel_json: dict[str, list[Any]]):
     clubs_html = BeautifulSoup(open("data_generation/pages/clubs.html").read(), features = "html.parser")
     clubs = clubs_html.find_all("div", class_="MuiPaper-root MuiCard-root MuiPaper-elevation3 MuiPaper-rounded")
 
-    organizations = []
+    organizations: list[dict[str, Any]] = []
 
     for club_element in clubs:
         club_div = club_element.find("div").find("span").find("div").find("div")
@@ -15,7 +16,8 @@ def generate_organization_data(drexel_json):
 
         organizations.append({
             "name": club_name,
-            "description": club_desc
+            "description": club_desc,
+            "link": link
         })
 
     drexel_json["studentOrganizations"] = organizations

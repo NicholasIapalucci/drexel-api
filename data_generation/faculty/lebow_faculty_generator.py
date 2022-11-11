@@ -1,7 +1,8 @@
 from utils import *
+from typing import cast
 
-def generate_lebow_faculty_data(drexel_json):
-    professors = []
+def generate_lebow_faculty_data(drexel_json: dict[str, Any]) -> None:
+    professors: list[Any] = []
     for page in range(13):
         faculty_html = html(f"https://www.lebow.drexel.edu/faculty-and-research/faculty-directory?title=&field_term_disciplines_target_id=All&page={page}")
         for element in faculty_html.find_all("div", class_="wp grid__item"):
@@ -19,4 +20,4 @@ def generate_lebow_faculty_data(drexel_json):
                 "phoneNumber": phone_number
             })
 
-    find(lambda college: college["name"] == "LeBow College of Business", drexel_json["colleges"])["faculty"] = professors
+    cast(dict[str, Any], find(lambda college: college["name"] == "LeBow College of Business", drexel_json["colleges"]))["faculty"] = professors

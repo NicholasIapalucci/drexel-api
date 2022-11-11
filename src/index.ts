@@ -70,11 +70,7 @@ export interface College {
 export class Course {
 
     /** 
-     * The coded name of the course, such as `CS-171` or `ARCH-283`. The code name will always be a nonzero number of
-     * capital letters, followed by a hypen and a sequence of digits. In other words, it matches the following regex:
-     * ```ts
-     * /^[A-Z]+\-\d+$/
-     * ```
+     * The coded name of the course, such as `CS-171` or `ARCH-283`.
      */
     public readonly codeName: string;
 

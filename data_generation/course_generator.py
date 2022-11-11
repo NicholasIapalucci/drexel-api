@@ -1,9 +1,13 @@
 from utils import *
+import re as regex
+from typing import cast, TypedDict
 
-def parse_prereqs(prereq_string):
+class Token(TypedDict):
+    type: str
+    value: str
+
+def tokenize_prereqs(prereq_string: str) -> list[Token] | list[str]:
     prereq_string = regex.sub(r"([A-Z])\s(\d+)", r"\1-\2", prereq_string)
-
-    # Tokenize
     token_types = {
         "class": r"^[A-Z]+\-\d+",
         "whitespace": r"^\s+",
@@ -13,7 +17,7 @@ def parse_prereqs(prereq_string):
         "left parentheses": r"^\(",
         "right parentheses": r"^\)"
     }
-    tokens = []
+    tokens: list[Token] = []
     remaining_string = prereq_string
     while(remaining_string):
         match_found = False
@@ -26,33 +30,59 @@ def parse_prereqs(prereq_string):
                 match_found = True
                 break
         if not match_found: return [remaining_string]
+    
+    return tokens
 
-    # Parser
+# Somehow every project I do ends up with me writing a parser
+def parse_prereqs(prereq_string: str) -> list[Any]:
+    """Parses a string of prerequisites into a prerequisite array object."""
+    
 
-    def next(type_):
+    # Tokenize 
+    tokens = tokenize_prereqs(prereq_string)
+    if type(tokens[0]) is str: return tokens
+    tokens = cast(list[Token], tokens)
+    tokens_to_parse = tokens.copy()
+
+
+    def next(type_: str | None) -> Any:
+        """
+        Removes and returns the next token.
+        
+        ### Parameters
+        - `type` &mdash; The type of token that should be next. If the type is incorrect an error is raised.
+        ### Returns
+        The removed token.
+        """
         if len(tokens_to_parse) == 0: return False
         if type_ and tokens_to_parse[0]["type"] != type_: raise Exception("Expected type " + type_ + " but found " + tokens_to_parse[0]['type'] + " in\n" + "\n".join(map(lambda token : str(token), tokens)))
         return tokens_to_parse.pop(0)
 
-    def next_is(type_):
+
+    def next_is(type_: str) -> bool:
+        """Returns whether or not the next token is of the specified type."""
         return tokens_to_parse[0]["type"] == type_ if len(tokens_to_parse) > 0 else False
 
-    def parse_and_or(left):
+
+    def parse_and_or(left: dict[str, Any]) -> dict[str, Any]:
+        """Parses an "and" or "or" expression. """
         while next_is("and"):
             next("and")
             expr = parse_expr()
-            if type(expr) is list and type(left) is list: left = [*left, *expr]
-            elif type(expr) is list: left = [left, *expr]
-            elif type(left) is list: left = [*left, expr]
-            else: left = [left, expr]
+            if type(expr) is list and type(left) is list: left = cast(Any, [*cast(list[Any], left), *cast(list[Any], expr)])
+            elif type(expr) is list: left = cast(Any, [left, *cast(list[Any], expr)])
+            elif type(left) is list: left = cast(Any, [*cast(list[Any], left), expr])
+            else: left = cast(Any, [left, expr])
         while next_is("or"):
             next("or")
             expr = parse_expr()
-            if "one of" in expr: left = { "one of": [left, *expr.get("one of")] }
-            else: left = { "one of": [left, expr] }
+            if "oneOf" in expr: left = { "oneOf": [left, *cast(list[Any], expr.get("oneOf"))] }
+            else: left = { "oneOf": [left, expr] }
         return left
 
-    def parse_expr():
+
+    def parse_expr() -> dict[str, Any]:
+        """Parses an expression."""
         if next_is("left parentheses"):
             next("left parentheses")
             expr = parse_expr()
@@ -60,29 +90,27 @@ def parse_prereqs(prereq_string):
             if (next_is("and") or next_is("or")): return parse_and_or(expr)
             return expr
         if next_is("class"):
-            course_name = next("class")["value"]
+            course_name = cast(dict[str, Any], next("class"))["value"]
             grade = "Any"
-            if next_is("grade"): grade = next("grade")["value"]
+            if next_is("grade"): grade = cast(dict[str, Any], next("grade"))["value"]
             return parse_and_or({
                 "codeName": course_name,
                 "minimumGrade": grade
             })
         raise Exception("Unexpected token: " + str(tokens_to_parse[0]))
 
-    prerequisites = []
-    tokens_to_parse = tokens.copy()
 
-    while next_is("or") or next_is("and"):
-        next(None)
+    # Parse the prerequisites
+    prerequisites: list[Any] = []
+    while next_is("or") or next_is("and"): next(None)
+    while(tokens_to_parse): prerequisites.append(parse_expr())
 
-    while(tokens_to_parse):
-        prerequisites.append(parse_expr())
-
-    if len(prerequisites) == 1 and type(prerequisites[0]) is list: return prerequisites[0]
+    # Return the parsed prerequisites
+    if len(prerequisites) == 1 and type(prerequisites[0]) is list: return cast(list[Any], prerequisites[0])
     return prerequisites
 
 
-def generate_course_data(drexel_json):
+def generate_course_data(drexel_json: dict[str, Any]) -> None:
     ugSoup = html("https://catalog.drexel.edu/coursedescriptions/quarter/undergrad")
     for element in ugSoup.find_all("a"):
         text_contents = element.decode_contents()
@@ -117,15 +145,15 @@ def generate_course_data(drexel_json):
                 college = course_block.find("b").next_sibling.strip()
     
                 # Get college object
-                college_object = find(lambda x: x.get("name") == college, drexel_json["colleges"])
-                if not college_object:
-                    college_object = { "name": college, "majors": [] }
-                    drexel_json["colleges"].append(college_object)
+                college_object = cast(dict[str, Any], find(lambda x: x.get("name") == college, cast(list[Any], drexel_json["colleges"])))
+                if not college_object:  
+                    college_object: dict[str, Any] = { "name": college, "majors": [] }
+                    cast(list[Any], drexel_json["colleges"]).append(college_object)
     
                 # Get major object
-                major_object = find(lambda major: major["name"] == major_name, college_object["majors"])
+                major_object = cast(dict[str, Any], find(lambda major: major["name"] == major_name, college_object["majors"]))
                 if not major_object:
-                    major_object = { "name": major_name, "courses": [] }
+                    major_object: dict[str, Any] = { "name": major_name, "courses": [] }
                     college_object["majors"].append(major_object)
     
                 # Get class Object
@@ -136,4 +164,4 @@ def generate_course_data(drexel_json):
                     "majorName": major_name,
                     "prerequisites": prereq_list if prereq_list else []
                 }
-                major_object["courses"].append(class_object)
+                cast(list[Any], major_object["courses"]).append(class_object)

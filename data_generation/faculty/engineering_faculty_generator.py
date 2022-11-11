@@ -1,7 +1,8 @@
 from utils import *
+from typing import cast
 
-def generate_engineering_faculty_data(drexel_json):
-    professors = []
+def generate_engineering_faculty_data(drexel_json: dict[str, Any]) -> None:
+    professors: list[Any] = []
     for page in range(22):
         page_html = html(f"https://drexel.edu/engineering/about/faculty-staff/?q&sortBy=relevance&sortOrder=asc&page={page + 1}")
         for section in page_html.find_all("section", class_="directory-result is-visible"):
@@ -18,4 +19,4 @@ def generate_engineering_faculty_data(drexel_json):
                 "phone": phone
             })
 
-    find(lambda college: college["name"] == "College of Engineering", drexel_json["colleges"])["faculty"] = professors
+    cast(dict[str, Any], find(lambda college: college["name"] == "College of Engineering", drexel_json["colleges"]))["faculty"] = professors

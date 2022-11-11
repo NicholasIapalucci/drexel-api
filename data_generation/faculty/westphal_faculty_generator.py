@@ -1,9 +1,11 @@
 from utils import *
+from typing import cast
+import re as regex
 
-def generate_westphal_faculty_data(drexel_json):
+def generate_westphal_faculty_data(drexel_json: dict[str, Any]) -> None:
     faculty = html("https://drexel.edu/westphal/about/directory/")
-    professors = []
-    for row in faculty.find("tbody").find_all("tr"):
+    professors: list[Any] = []
+    for row in cast(Tag, faculty.find("tbody")).find_all("tr"):
         name = row.find("td").find("a").find("b").decode_contents().strip()
         print(f"Getting data for Professor {name}")
         title = regex.sub(r"\n+", "\n", row.find("td").parent.get_text()).split("\n")
@@ -18,4 +20,4 @@ def generate_westphal_faculty_data(drexel_json):
             "phoneNumber": phone_number,
         })
 
-    find(lambda college: college["name"] == "Antoinette Westphal College of Media Arts & Design", drexel_json["colleges"])["faculty"] = professors
+    cast(dict[str, Any], find(lambda college: college["name"] == "Antoinette Westphal College of Media Arts & Design", drexel_json["colleges"]))["faculty"] = professors

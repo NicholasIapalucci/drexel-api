@@ -35,7 +35,7 @@ Some classes allow some choice between prerequisities. In this case, a prerequis
 
 ```json
 {
-    "one of": [
+    "oneOf": [
         <prerequisite>,
         <prerequisite>,
         <prerequisite>,
@@ -50,11 +50,11 @@ The prerequisites in `one of` can also contain nested `one ofs`. The top-level p
 [
     <single-prerequisite>,
     <single-prerequisite>,
-    "one of": {
+    "oneOf": [
         <prerequisite>, 
         <prerequisite>,
         ...
-    }
+    ]
 ]
 ```
 
@@ -68,7 +68,7 @@ This can get minorly complicated for certain classes. Here's the format for ARCH
     "majorName": "Architecture",
     "prerequisites": [
         {
-            "one of": [
+            "oneOf": [
                 [
                     {
                         "codeName": "ARCH-222",
